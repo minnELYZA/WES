@@ -16,12 +16,12 @@ and open the template in the editor.
       @import url(css/style.css);
       @import url(css/colorbrewer.css);
       @import url(css/d3.parsets.css);
-      .content {
-        margin-top: 5px;
-        margin-left: 10px;
-        margin-right: 10px;
-        margin-bottom: 10px;
-        /* Required padding. Change if height of navigation changes. */
+      h3 {
+        text-align: center;
+      }
+      .alignBtn {
+        text-align: center;
+        margin: 0 auto;
       }
       .hidden {
         visibility: hidden;
@@ -30,6 +30,8 @@ and open the template in the editor.
       }
       svg {
         font: 10px sans-serif;
+        display: block;
+        margin: auto;
       }
       .day {
         fill:rgb(242,242,242);
@@ -40,37 +42,76 @@ and open the template in the editor.
         stroke: #000;
         stroke-width: 2px;
       }
+      .tblabel {
+        font-weight: bold;
+        vertical-align: top;
+        padding-right: 5px;
+      }
     </style>
   </head>
   <body>
     <header>
-      <h1>WES - INPATIENT</h1>
+      <h1>INPATIENT</h1>
     </header>
-    <div class="content">
-      <div id="heatMap">
-        <h2>Year
-        <select id="calYear" onchange="switchOptions();">
-        </select></h2>
+    <div class="container-fluid">
+      <div id="heatMap" class="form-group">
+        <div class="col-xs-11">
+          <h3>Bed Occupancy for Year
+            <select id="calYear" onchange="switchOptions();">
+            </select></h3>
+        </div>
+        <div class="col-xs-1 alignBtn">
+          <button id="reset" onclick="reset();">Reset</button>
+        </div>
       </div>
-      <div id="psChart"></div>
+      <h3>Breakdown for <label id="day">All</label></h3>
+      <div class="form-group">
+        <div id="psChart" class="col-xs-9">
+        </div>
+        <div id="duty" class="col-xs-3 hidden">
+          <table>
+            <tr>
+              <td class="tblabel">Doctors on duty</td>
+              <td id="dr"></td>
+            </tr>
+            <tr>
+              <td id="nurses"></td>
+              <td class="tblabel">nurses</td>
+            </tr>
+            <tr>
+              <td id="patients"></td>
+              <td class="tblabel">patients</td>
+            </tr>
+          </table>
+        </div>
+      </div>
       <script type="text/javascript" src="js/calendarHeatMap.js"></script>
       <script type="text/javascript" src="js/inpatientps.js"></script>
+      <script type="text/javascript" src="js/staffOnDuty.js"></script>
     </div>
     <script>
-      switchOptions = function () {
-        var selection = document.getElementById("calYear");
-        for (var i = 0; i < selection.options.length; i++) {
-            console.log(selection.options[i].value)
-          if (i === selection.selectedIndex) {
-            console.log("selected");
-            document.getElementById(selection.options[i].value).classList.remove("hidden");
-          } else {
-            document.getElementById(selection.options[i].value).classList.add("hidden");
-            console.log(document.getElementById(selection.options[i].value));
-          }
-        }
-      }
-      switchOptions();
+            switchOptions = function () {
+              var selection = document.getElementById("calYear");
+              for (var i = 0; i < selection.options.length; i++) {
+                console.log(selection.options[i].value)
+                if (i === selection.selectedIndex) {
+                  console.log("selected");
+                  document.getElementById(selection.options[i].value).classList.remove("hidden");
+                } else {
+                  document.getElementById(selection.options[i].value).classList.add("hidden");
+                  console.log(document.getElementById(selection.options[i].value));
+                }
+              }
+            }
+            reset = function () {
+              inpatientps(0, true);
+              staffDuty(0, 0, true);
+              if (document.getElementById("duty").classList.length === 1) {
+                document.getElementById("duty").classList.toggle("hidden");
+              }
+              document.getElementById("day").innerHTML = "All";
+            }
+            switchOptions();
     </script>
   </body>
 </html>

@@ -3,8 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-var fil;
-function inpatientps(date) {
+
+function inpatientps(date, isReset) {
   var chart = d3.parsets()
           .dimensions(["Clinic", "Subspecialty", "ReasonAdmitted"])
           .height(400)
@@ -32,14 +32,13 @@ function inpatientps(date) {
         return row['AdmissionDate'] <= dateFormat(date) && row['DischargeDate'] >= dateFormat(date);
       });
       document.getElementById("inpatientChart").remove();
-//      var toDelete = document.getElementsByClassName("parsets tooltip");
-//      while (toDelete.length > 0) {
-//        toDelete[0].parentNode.removeChild(toDelete[0]);
-//      }
     }
-    //fil = inpatient;
 
-    if(inpatient.length > 0) {
+    if (isReset) {
+      document.getElementById("inpatientChart").remove();
+    }
+
+    if (inpatient.length > 0) {
       vis.datum(inpatient).call(chart);
     }
   });

@@ -190,17 +190,21 @@ d3.csv("./data/workload-inpatient.csv", function(inpatient) {
           .key(function(d){ return date(d); })
           .rollup(function(leaves){ return leaves.length; })
           .map(counter);
-test = data;
-inp = inpatient;
+  
   //maxBeds = Math.max.apply(Math,Object.keys(data).map(function(key) { return data[key]; }));
   rect.filter(function(d) { return d in data; })
       .attr("class", function(d) { return "day q" + color(data[d]) + "-9"; })
       .select("title")
-      .text(function(d) { return d + ": " + data[d]; });
+      .text(function(d) { return d + ":\n" + data[d] + " patients"; });
   
   var rects = d3.selectAll("rect")
           .on("click", function (d) {
-            inpatientps(d); // filter parset
+            inpatientps(d, false); // filter parset
+            document.getElementById("day").innerHTML = d;
+            var numPatients = this.childNodes[0].innerHTML;
+            numPatients = numPatients.substring(numPatients.lastIndexOf(':')+1).trim();
+            numPatients = numPatients.substring(0, numPatients.lastIndexOf(' ')).trim();
+            staffDuty(d, numPatients, false); // trigger duty list
           })
           .on("mouseover", function(){
             this.style.cursor = "pointer";
