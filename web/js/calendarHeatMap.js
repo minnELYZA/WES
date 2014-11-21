@@ -8,9 +8,9 @@ var startYear = 2013,
     maxBeds = 50, // default
     test,inp;
 
-var margin = {top: 5.5, right: 0, bottom: 5.5, left: 19.5},
+var margin = {top: 15.5, right: 0, bottom: 5.5, left: 19.5},
     width = 960 - margin.left - margin.right,
-    height = 130 - margin.top - margin.bottom,
+    height = 140 - margin.top - margin.bottom,
     size = height / 7;
 
 var day = function(d) { return (d.getDay() + 6) % 7; }, // monday = 0
@@ -80,6 +80,66 @@ svg.append("text")
     .attr("transform", "translate(-12," + size * 6.8 + ")")
     .attr("text-anchor", "middle")
     .text("S");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 2 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Jan");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 6.5 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Feb");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 10.5 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Mar");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 15 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Apr");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 19.3 +", -9)")
+    .attr("text-anchor", "center")
+    .text("May");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 23.5 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Jun");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 28 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Jul");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 32.2 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Aug");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 36.7 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Sep");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 41 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Oct");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 45.2 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Nov");
+
+svg.append("text")
+    .attr("transform", "translate(" + size * 49.5 +", -9)")
+    .attr("text-anchor", "center")
+    .text("Dec");
 
 var rect = svg.selectAll(".day")
     .data(function(d) { return d3.time.days(new Date(d, 0, 1), new Date(d + 1, 0, 1)); })
