@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+  <head>
+    <title>INPATIENT</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="js/d3.v2.js"></script>
+    <script src="js/d3.parsets.js"></script>
+    <style>
+      @import url(css/bootstrap.min.css);
+      @import url(css/style.css);
+      @import url(css/colorbrewer.css);
+      @import url(css/d3.parsets.css);
+      .content {
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        /* Required padding. Change if height of navigation changes. */
+      }
+      .hidden {
+        visibility: hidden;
+        height: 0px !important;
+        width: 0px !important;
+      }
+      svg {
+        font: 10px sans-serif;
+      }
+      .day {
+        fill:rgb(242,242,242);
+        stroke: #ccc;
+      }
+      .month {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>WES - INPATIENT</h1>
+    </header>
+    <div class="content">
+      <div id="heatMap">
+        <label for="calYear">Year</label>
+        <select id="calYear" onchange="switchOptions();">
+        </select><br>
+      </div>
+      <div id="psChart"></div>
+      <script type="text/javascript" src="js/calendarHeatMap.js"></script>
+      <script type="text/javascript" src="js/inpatientps.js"></script>
+    </div>
+    <script>
+      switchOptions = function () {
+        var selection = document.getElementById("calYear");
+        for (var i = 0; i < selection.options.length; i++) {
+            console.log(selection.options[i].value)
+          if (i === selection.selectedIndex) {
+            console.log("selected");
+            document.getElementById(selection.options[i].value).classList.remove("hidden");
+          } else {
+            document.getElementById(selection.options[i].value).classList.add("hidden");
+            console.log(document.getElementById(selection.options[i].value));
+          }
+        }
+      }
+      switchOptions();
+    </script>
+  </body>
+</html>

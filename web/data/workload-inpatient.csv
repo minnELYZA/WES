@@ -1,345 +1,345 @@
-Number,Name,IC,Case No,Gender,date of birth,Height (m),Weight (Kg),Smoking ,Admission Date,Clinic ,Subspecilty,Reason Admitted,Discharged,Death cases,Length of Stay,Mean Stay Length (days),Target Stay Length (days),,,,,,
-1,Name_1,S0000001,111,Female,9/7/1933,179,48,No,4/1/2013,A,Hand,Ingrown toenail,Yes,No,11,27,5,,,,,,
-2,Name_2,S0000002,112,Female,18/9/1995,193,59,Yes,25/1/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,22,,,,,,,,
-3,Name_3,S0000003,113,Male,18/2/1937,192,99,Unknown,15/1/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,36,,,,,,,,
-4,Name_4,S0000004,114,Female,23/3/1940,187,96,Unknown,7/1/2013,B,Hand,Fractures,No,No,37,,,,,,,,
-5,Name_5,S0000005,115,Female,8/12/1996,164,34,Unknown,1/1/2013,A,Hand,Achilles tendon rupture,Yes,No,35,,,,,,,,
-6,Name_6,S0000006,116,Male,28/9/2005,183,98,Yes,20/1/2013,A,Foot,Sesamoiditis,Yes,No,41,,,,,,,,
-7,Name_7,S0000007,117,Female,17/9/1972,158,82,No,8/1/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,54,,,,,,,,
-8,Name_8,S0000008,118,Female,6/11/1977,160,75,No,27/1/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,56,,,,,,,,
-9,Name_9,S0000009,119,Male,3/5/2006,193,100,Yes,30/1/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,8,,,,,,,,
-10,Name_10,S0000010,120,Male,1/1/1952,180,60,Yes,2/1/2013,A,Hand,Ingrown toenail,Yes,No,23,,,,,,,,
-11,Name_11,S0000011,121,Female,7/5/1968,164,70,No,28/1/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,56,,,,,,,,
-12,Name_12,S0000012,122,Male,26/6/1993,147,58,Yes,21/1/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,18,,,,,,,,
-13,Name_13,S0000013,123,Male,5/5/1930,190,83,No,23/1/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,43,,,,,,,,
-14,Name_14,S0000014,124,Male,19/5/1980,144,85,Unknown,18/1/2013,A,Sports,Repetitive stress injuries,Yes,No,51,,,,,,,,
-15,Name_15,S0000015,125,Male,5/5/1966,153,37,Unknown,28/1/2013,A,Sports,Repetitive stress injuries,Yes,No,7,,,,,,,,
-16,Name_16,S0000016,126,Female,2/12/1992,180,40,No,1/2/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,30,,,,,,,,
-17,Name_17,S0000017,127,Female,9/5/1983,152,68,No,15/1/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,20,,,,,,,,
-18,Name_18,S0000018,128,Male,18/4/1965,166,45,No,4/1/2013,B,Sports,Repetitive stress injuries,Yes,No,31,,,,,,,,
-19,Name_19,S0000019,129,Female,20/6/1986,176,51,Yes,5/1/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,25,,,,,,,,
-20,Name_20,S0000020,130,Female,30/11/2001,149,76,No,24/1/2013,B,Hand,Fractures,Yes,No,5,,,,,,,,
-21,Name_21,S0000021,131,Male,9/6/2008,189,31,Unknown,19/1/2013,A,Sports,Repetitive stress injuries,Yes,Yes,56,,,,,,,,
-22,Name_22,S0000022,132,Male,31/3/1950,156,31,No,28/1/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,20,,,,,,,,
-23,Name_23,S0000023,133,Male,4/10/1929,176,96,Yes,13/1/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,23,,,,,,,,
-24,Name_24,S0000024,134,Female,12/2/1989,178,73,Yes,4/1/2013,A,Hand,Achilles tendon rupture,Yes,No,24,,,,,,,,
-25,Name_25,S0000025,135,Male,8/9/1980,151,99,Unknown,7/1/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,58,,,,,,,,
-26,Name_26,S0000026,136,Male,1/12/1988,145,33,No,15/1/2013,A,Sports,Repetitive stress injuries,Yes,No,52,,,,,,,,
-27,Name_27,S0000027,137,Male,8/6/1946,177,55,Unknown,11/1/2013,A,Sports,Repetitive stress injuries,Yes,No,49,,,,,,,,
-28,Name_28,S0000028,138,Male,2/7/1952,181,82,Unknown,2/1/2013,B,Foot,Flat foot,Yes,No,44,,,,,,,,
-29,Name_29,S0000029,139,Female,20/4/1933,141,65,Unknown,27/1/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,31,,,,,,,,
-30,Name_30,S0000030,140,Female,25/8/1978,191,39,Unknown,4/1/2013,A,Foot,Flat foot,Yes,No,48,,,,,,,,
-31,Name_31,S0000031,141,Female,12/6/1961,182,65,Yes,14/1/2013,A,Foot,Sesamoiditis,Yes,No,12,,,,,,,,
-32,Name_32,S0000032,142,Male,4/7/1967,183,75,Yes,30/1/2013,A,Hand,Ingrown toenail,Yes,No,39,,,,,,,,
-33,Name_33,S0000033,143,Female,14/12/1991,178,66,Unknown,12/1/2013,A,Hand,Fractures,Yes,No,3,,,,,,,,
-34,Name_34,S0000034,144,Male,12/5/2008,179,95,No,20/1/2013,A,Hand,Fractures,Yes,No,46,,,,,,,,
-35,Name_35,S0000035,145,Female,26/11/1996,194,72,Yes,2/1/2013,B,Hand,Ingrown toenail,Yes,No,13,,,,,,,,
-36,Name_36,S0000036,146,Female,19/11/1984,169,58,Yes,6/1/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,58,,,,,,,,
-37,Name_37,S0000037,147,Female,6/10/1992,159,84,Yes,21/1/2013,B,Foot,Flat foot,Yes,No,5,,,,,,,,
-38,Name_38,S0000038,148,Female,22/7/1955,145,36,Yes,24/2/2013,B,Trauma,Ankle ligament reconstructions  ,No,No,17,,,,,,,,
-39,Name_39,S0000039,149,Female,7/8/1975,142,90,No,20/2/2013,B,Hand,Achilles tendon rupture,Yes,No,22,,,,,,,,
-40,Name_40,S0000040,150,Female,22/11/1998,149,62,Yes,28/2/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,18,,,,,,,,
-41,Name_41,S0000041,151,Male,16/12/1953,140,45,Unknown,28/2/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,40,,,,,,,,
-42,Name_42,S0000042,152,Male,3/11/2011,179,97,Yes,17/2/2013,A,Hand,Achilles tendon rupture,Yes,No,25,,,,,,,,
-43,Name_43,S0000043,153,Male,13/1/1982,142,79,Yes,10/2/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,29,,,,,,,,
-44,Name_44,S0000044,154,Female,17/11/1956,166,93,Unknown,4/2/2013,B,Foot,Flat foot,Yes,No,37,,,,,,,,
-45,Name_45,S0000045,155,Female,24/1/2003,146,96,Unknown,6/2/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,47,,,,,,,,
-46,Name_46,S0000046,156,Female,28/9/1971,196,57,No,9/2/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,29,,,,,,,,
-47,Name_47,S0000047,157,Male,24/11/1963,175,47,Unknown,9/2/2013,B,Hand,Achilles tendon rupture,No,No,20,,,,,,,,
-48,Name_48,S0000048,158,Female,27/5/1986,152,76,Yes,10/2/2013,A,Foot,Flat foot,Yes,No,22,,,,,,,,
-49,Name_49,S0000049,159,Female,25/8/2011,151,30,No,21/2/2013,A,Hand,Fractures,Yes,No,6,,,,,,,,
-50,Name_50,S0000050,160,Male,11/9/1926,154,80,No,10/2/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,27,,,,,,,,
-51,Name_51,S0000051,161,Male,16/5/1935,198,56,Yes,25/2/2013,A,Sports,Repetitive stress injuries,Yes,No,31,,,,,,,,
-52,Name_52,S0000052,162,Female,9/4/1988,199,77,Yes,1/2/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,17,,,,,,,,
-53,Name_53,S0000053,163,Female,14/3/1935,181,79,Yes,6/2/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,9,,,,,,,,
-54,Name_54,S0000054,164,Male,11/3/1944,160,39,No,27/2/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,37,,,,,,,,
-55,Name_55,S0000055,165,Male,3/12/1930,163,66,Unknown,1/2/2013,B,Trauma,Stabilisation of shoulder dislocations ,Yes,No,48,,,,,,,,
-56,Name_56,S0000056,166,Male,29/7/1979,179,81,Yes,22/2/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,34,,,,,,,,
-57,Name_57,S0000057,167,Female,11/7/1933,141,38,Unknown,12/2/2013,A,Hand,Ingrown toenail,Yes,No,11,,,,,,,,
-58,Name_58,S0000058,168,Male,12/3/1935,146,69,No,1/3/2013,A,Hand,Achilles tendon rupture,Yes,No,17,,,,,,,,
-59,Name_59,S0000059,169,Female,19/9/1972,176,38,Yes,19/2/2013,A,Hand,Ingrown toenail,Yes,No,13,,,,,,,,
-60,Name_60,S0000060,170,Female,7/10/1968,173,78,Yes,10/2/2013,A,Hand,Achilles tendon rupture,Yes,No,22,,,,,,,,
-61,Name_61,S0000061,171,Male,4/3/2000,187,47,Unknown,2/2/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,6,,,,,,,,
-62,Name_62,S0000062,172,Male,9/3/2006,192,64,Unknown,9/2/2013,B,Foot,Sesamoiditis,Yes,No,23,,,,,,,,
-63,Name_63,S0000063,173,Male,21/6/1947,152,98,No,24/2/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,26,,,,,,,,
-64,Name_64,S0000064,174,Female,6/4/1936,168,66,Yes,5/2/2013,B,Foot,Flat foot,Yes,No,21,,,,,,,,
-65,Name_65,S0000065,175,Female,23/3/1986,194,36,No,6/2/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,43,,,,,,,,
-66,Name_66,S0000066,176,Female,18/3/1990,194,93,Yes,25/2/2013,B,Foot,Sesamoiditis,Yes,No,56,,,,,,,,
-67,Name_67,S0000067,177,Male,14/7/1930,163,73,Yes,2/3/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,60,,,,,,,,
-68,Name_68,S0000068,178,Female,22/4/1952,157,59,Yes,13/3/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,23,,,,,,,,
-69,Name_69,S0000069,179,Male,29/1/1961,175,73,No,1/3/2013,B,Trauma,Stabilisation of shoulder dislocations ,Yes,No,39,,,,,,,,
-70,Name_70,S0000070,180,Male,24/4/2007,186,79,No,1/3/2013,B,Hand,Fractures,Yes,No,7,,,,,,,,
-71,Name_71,S0000071,181,Male,2/5/1931,161,64,Unknown,31/3/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,22,,,,,,,,
-72,Name_72,S0000072,182,Female,8/10/1996,141,63,No,18/3/2013,A,Hand,Achilles tendon rupture,Yes,No,13,,,,,,,,
-73,Name_73,S0000073,183,Female,13/8/1984,182,50,Unknown,22/3/2013,B,Trauma,Stabilisation of shoulder dislocations ,Yes,No,5,,,,,,,,
-74,Name_74,S0000074,184,Male,8/4/1971,188,98,Yes,17/3/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,18,,,,,,,,
-75,Name_75,S0000075,185,Female,31/5/1974,177,30,Unknown,17/3/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,41,,,,,,,,
-76,Name_76,S0000076,186,Female,6/12/1956,181,97,No,15/3/2013,A,Hand,Fractures,No,No,9,,,,,,,,
-77,Name_77,S0000077,187,Male,22/11/1973,188,33,Yes,1/3/2013,B,Hand,Fractures,Yes,No,18,,,,,,,,
-78,Name_78,S0000078,188,Female,28/8/1925,191,73,No,1/3/2013,B,Hand,Achilles tendon rupture,Yes,No,15,,,,,,,,
-79,Name_79,S0000079,189,Female,23/1/1965,183,99,Unknown,5/3/2013,A,Foot,Flat foot,Yes,No,11,,,,,,,,
-80,Name_80,S0000080,190,Male,28/2/1935,193,84,Yes,31/3/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,8,,,,,,,,
-81,Name_81,S0000081,191,Female,25/1/1942,175,59,No,25/3/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,31,,,,,,,,
-82,Name_82,S0000082,192,Male,30/11/1956,180,83,Yes,19/3/2013,B,Foot,Sesamoiditis,Yes,No,40,,,,,,,,
-83,Name_83,S0000083,193,Female,22/6/1935,178,64,Yes,14/3/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,24,,,,,,,,
-84,Name_84,S0000084,194,Male,6/6/1952,164,71,Yes,18/3/2013,B,Sports,Repetitive stress injuries,Yes,No,31,,,,,,,,
-85,Name_85,S0000085,195,Female,9/7/1949,176,87,No,15/3/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,47,,,,,,,,
-86,Name_86,S0000086,196,Male,13/3/2000,187,90,Yes,19/3/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,5,,,,,,,,
-87,Name_87,S0000087,197,Male,24/6/1932,168,46,No,14/3/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,5,,,,,,,,
-88,Name_88,S0000088,198,Female,29/6/1974,153,80,Unknown,22/3/2013,A,Sports,Repetitive stress injuries,Yes,No,4,,,,,,,,
-89,Name_89,S0000089,199,Male,23/6/1987,184,37,Unknown,8/3/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,31,,,,,,,,
-90,Name_90,S0000090,200,Male,26/7/1924,167,33,Unknown,19/3/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,14,,,,,,,,
-91,Name_91,S0000091,201,Female,30/1/1934,156,50,Unknown,8/3/2013,B,Hand,Fractures,Yes,No,27,,,,,,,,
-92,Name_92,S0000092,202,Male,27/11/1935,176,88,Yes,2/3/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,7,,,,,,,,
-93,Name_93,S0000093,203,Female,10/7/1952,184,59,No,22/3/2013,B,Hand,Ingrown toenail,Yes,No,36,,,,,,,,
-94,Name_94,S0000094,204,Male,16/7/1971,189,86,Yes,10/3/2013,B,Hand,Ingrown toenail,Yes,No,24,,,,,,,,
-95,Name_95,S0000095,205,Female,18/12/1998,147,100,Yes,31/3/2013,A,Hand,Fractures,Yes,No,30,,,,,,,,
-96,Name_96,S0000096,206,Female,1/6/1950,192,35,No,19/3/2013,B,Foot,Flat foot,Yes,No,24,,,,,,,,
-97,Name_97,S0000097,207,Female,10/9/1924,151,56,No,9/3/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,18,,,,,,,,
-98,Name_98,S0000098,208,Female,13/11/1968,157,68,No,10/3/2013,A,Hand,Achilles tendon rupture,Yes,No,8,,,,,,,,
-99,Name_99,S0000099,209,Female,8/11/1933,187,31,Unknown,22/3/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,18,,,,,,,,
-100,Name_100,S0000100,210,Male,30/7/1941,147,61,No,21/3/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,15,,,,,,,,
-101,Name_101,S0000101,211,Male,14/6/1943,174,35,Unknown,20/3/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,26,,,,,,,,
-102,Name_102,S0000102,212,Female,17/7/2012,155,85,Unknown,14/3/2013,A,Foot,Sesamoiditis,No,No,22,,,,,,,,
-103,Name_103,S0000103,213,Female,11/4/1938,159,77,Unknown,3/3/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,19,,,,,,,,
-104,Name_104,S0000104,214,Female,14/12/1939,147,100,Unknown,29/3/2013,B,Foot,Flat foot,Yes,No,12,,,,,,,,
-105,Name_105,S0000105,215,Female,8/4/1924,149,56,Unknown,22/3/2013,A,Hand,Fractures,Yes,No,40,,,,,,,,
-106,Name_106,S0000106,216,Female,4/12/2012,194,91,Unknown,24/4/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,23,,,,,,,,
-107,Name_107,S0000107,217,Female,13/11/2008,192,87,No,19/4/2013,A,Foot,Sesamoiditis,Yes,No,18,,,,,,,,
-108,Name_108,S0000108,218,Male,3/4/1947,186,57,No,30/4/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,11,,,,,,,,
-109,Name_109,S0000109,219,Male,31/10/1984,191,53,Yes,16/4/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,8,,,,,,,,
-110,Name_110,S0000110,220,Female,26/8/1945,196,78,Yes,18/4/2013,A,Hand,Ingrown toenail,Yes,No,4,,,,,,,,
-111,Name_111,S0000111,221,Male,31/1/1976,162,74,Yes,3/4/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,13,,,,,,,,
-112,Name_112,S0000112,222,Female,22/3/1999,177,88,No,19/4/2013,B,Sports,Repetitive stress injuries,Yes,No,30,,,,,,,,
-113,Name_113,S0000113,223,Female,30/12/1959,141,67,Yes,23/4/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,17,,,,,,,,
-114,Name_114,S0000114,224,Male,19/2/1970,147,43,No,29/4/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,47,,,,,,,,
-115,Name_115,S0000115,225,Male,25/3/1941,186,89,No,5/4/2013,A,Hand,Fractures,Yes,No,41,,,,,,,,
-116,Name_116,S0000116,226,Female,27/9/1941,151,36,Unknown,12/4/2013,A,Sports,Repetitive stress injuries,Yes,No,59,,,,,,,,
-117,Name_117,S0000117,227,Female,9/1/1986,176,68,No,16/4/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,27,,,,,,,,
-118,Name_118,S0000118,228,Female,29/3/1986,180,92,No,16/4/2013,B,Foot,Flat foot,Yes,No,3,,,,,,,,
-119,Name_119,S0000119,229,Male,26/3/1984,176,93,Yes,28/4/2013,B,Hand,Achilles tendon rupture,Yes,No,40,,,,,,,,
-120,Name_120,S0000120,230,Female,15/10/1947,183,43,No,20/4/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,18,,,,,,,,
-121,Name_121,S0000121,231,Male,16/2/1953,178,42,No,22/4/2013,A,Hand,Ingrown toenail,Yes,No,11,,,,,,,,
-122,Name_122,S0000122,232,Male,12/10/1924,188,67,Yes,18/4/2013,B,Sports,Repetitive stress injuries,Yes,No,30,,,,,,,,
-123,Name_123,S0000123,233,Male,20/11/2002,183,70,Yes,4/4/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,39,,,,,,,,
-124,Name_124,S0000124,234,Female,24/4/1994,196,35,No,6/4/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,9,,,,,,,,
-125,Name_125,S0000125,235,Male,29/3/1997,149,59,Unknown,18/4/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,30,,,,,,,,
-126,Name_126,S0000126,236,Male,10/7/2007,184,91,No,8/5/2013,B,Sports,Repetitive stress injuries,Yes,No,3,,,,,,,,
-127,Name_127,S0000127,237,Female,27/3/1960,167,72,Yes,22/5/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,16,,,,,,,,
-128,Name_128,S0000128,238,Female,12/5/1993,180,90,Yes,9/5/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,26,,,,,,,,
-129,Name_129,S0000129,239,Male,5/11/2000,187,70,Unknown,24/5/2013,B,Hand,Ingrown toenail,Yes,No,39,,,,,,,,
-130,Name_130,S0000130,240,Female,17/5/1954,145,59,Unknown,19/5/2013,B,Sports,Repetitive stress injuries,Yes,No,12,,,,,,,,
-131,Name_131,S0000131,241,Female,12/7/1982,148,97,Unknown,21/5/2013,B,Hand,Ingrown toenail,Yes,No,43,,,,,,,,
-132,Name_132,S0000132,242,Male,11/1/1962,160,64,Yes,1/6/2013,B,Sports,Repetitive stress injuries,Yes,No,60,,,,,,,,
-133,Name_133,S0000133,243,Female,20/5/1944,144,46,No,3/5/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,22,,,,,,,,
-134,Name_134,S0000134,244,Male,23/2/1999,167,38,Yes,18/5/2013,B,Trauma,Stabilisation of shoulder dislocations ,Yes,No,16,,,,,,,,
-135,Name_135,S0000135,245,Male,22/8/1958,166,87,Unknown,24/5/2013,B,Foot,Flat foot,Yes,No,3,,,,,,,,
-136,Name_136,S0000136,246,Male,9/2/1995,149,66,Unknown,11/5/2013,A,Hand,Ingrown toenail,Yes,No,10,,,,,,,,
-137,Name_137,S0000137,247,Female,28/2/2001,152,100,Unknown,24/5/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,19,,,,,,,,
-138,Name_138,S0000138,248,Male,9/11/1944,170,47,Yes,30/5/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,5,,,,,,,,
-139,Name_139,S0000139,249,Male,21/5/1925,149,77,No,8/5/2013,A,Sports,Repetitive stress injuries,Yes,No,3,,,,,,,,
-140,Name_140,S0000140,250,Female,9/1/1952,186,80,No,6/5/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,55,,,,,,,,
-141,Name_141,S0000141,251,Male,14/11/1949,143,70,No,26/5/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,25,,,,,,,,
-142,Name_142,S0000142,252,Female,1/11/1932,191,57,No,5/5/2013,A,Trauma,Treatment of muscle tears and strains ,No,No,42,,,,,,,,
-143,Name_143,S0000143,253,Male,2/9/1925,189,87,Unknown,8/5/2013,B,Foot,Sesamoiditis,Yes,No,22,,,,,,,,
-144,Name_144,S0000144,254,Female,24/12/1954,173,87,Unknown,10/5/2013,A,Foot,Flat foot,Yes,No,50,,,,,,,,
-145,Name_145,S0000145,255,Male,18/2/1952,193,35,Yes,15/5/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,45,,,,,,,,
-146,Name_146,S0000146,256,Female,9/7/1948,164,74,Yes,10/5/2013,B,Foot,Flat foot,Yes,No,27,,,,,,,,
-147,Name_147,S0000147,257,Female,30/5/1955,187,33,Unknown,27/5/2013,A,Sports,Repetitive stress injuries,Yes,No,35,,,,,,,,
-148,Name_148,S0000148,258,Female,25/10/1933,176,65,Yes,13/5/2013,B,Foot,Sesamoiditis,Yes,No,10,,,,,,,,
-149,Name_149,S0000149,259,Female,24/2/1960,145,75,Unknown,20/5/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,16,,,,,,,,
-150,Name_150,S0000150,260,Male,16/12/1930,154,53,Unknown,8/5/2013,B,Foot,Flat foot,Yes,No,52,,,,,,,,
-151,Name_151,S0000151,261,Male,20/11/1961,194,69,No,11/6/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,6,,,,,,,,
-152,Name_152,S0000152,262,Male,30/7/1995,157,93,Yes,2/6/2013,B,Hand,Ingrown toenail,Yes,No,3,,,,,,,,
-153,Name_153,S0000153,263,Male,14/2/2011,153,51,Yes,21/6/2013,B,Foot,Sesamoiditis,Yes,No,45,,,,,,,,
-154,Name_154,S0000154,264,Female,16/5/1957,153,35,No,22/6/2013,B,Hand,Achilles tendon rupture,Yes,No,10,,,,,,,,
-155,Name_155,S0000155,265,Female,13/10/1925,140,85,Unknown,23/6/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,11,,,,,,,,
-156,Name_156,S0000156,266,Male,23/4/1961,153,95,Yes,3/6/2013,A,Hand,Achilles tendon rupture,Yes,No,31,,,,,,,,
-157,Name_157,S0000157,267,Female,19/8/1977,181,32,Yes,4/6/2013,B,Hand,Ingrown toenail,Yes,No,30,,,,,,,,
-158,Name_158,S0000158,268,Female,27/4/2007,140,41,No,24/6/2013,A,Sports,Repetitive stress injuries,Yes,No,41,,,,,,,,
-159,Name_159,S0000159,269,Male,2/1/1994,145,35,Unknown,28/6/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,21,,,,,,,,
-160,Name_160,S0000160,270,Female,19/4/1974,156,46,No,16/6/2013,B,Hand,Ingrown toenail,Yes,No,1,,,,,,,,
-161,Name_161,S0000161,271,Male,31/10/1934,161,42,Unknown,14/6/2013,B,Hand,Fractures,Yes,No,8,,,,,,,,
-162,Name_162,S0000162,272,Male,24/4/1935,195,76,No,24/6/2013,B,Foot,Flat foot,Yes,No,50,,,,,,,,
-163,Name_163,S0000163,273,Female,22/6/1927,187,64,No,7/6/2013,A,Hand,Ingrown toenail,Yes,No,57,,,,,,,,
-164,Name_164,S0000164,274,Female,22/12/1949,162,38,Yes,21/6/2013,B,Foot,Sesamoiditis,Yes,No,54,,,,,,,,
-165,Name_165,S0000165,275,Female,11/2/1952,140,100,Unknown,11/6/2013,A,Foot,Flat foot,Yes,No,16,,,,,,,,
-166,Name_166,S0000166,276,Male,11/5/1948,175,32,Unknown,28/6/2013,A,Foot,Sesamoiditis,Yes,No,17,,,,,,,,
-167,Name_167,S0000167,277,Male,21/4/1946,194,81,No,21/6/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,4,,,,,,,,
-168,Name_168,S0000168,278,Female,27/2/1963,149,31,Yes,25/6/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,12,,,,,,,,
-169,Name_169,S0000169,279,Male,15/11/1956,184,79,No,17/6/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,17,,,,,,,,
-170,Name_170,S0000170,280,Female,5/1/1967,146,32,Yes,21/6/2013,A,Hand,Achilles tendon rupture,Yes,No,12,,,,,,,,
-171,Name_171,S0000171,281,Female,22/12/1931,196,35,Yes,21/6/2013,A,Hand,Ingrown toenail,Yes,No,4,,,,,,,,
-172,Name_172,S0000172,282,Male,15/2/1991,182,39,Unknown,21/6/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,19,,,,,,,,
-173,Name_173,S0000173,283,Male,19/10/1941,183,32,Unknown,9/6/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,21,,,,,,,,
-174,Name_174,S0000174,284,Male,7/2/1996,181,95,Yes,28/6/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,23,,,,,,,,
-175,Name_175,S0000175,285,Male,3/3/2011,173,74,Yes,12/6/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,59,,,,,,,,
-176,Name_176,S0000176,286,Female,17/5/1941,144,98,Unknown,11/6/2013,A,Foot,Sesamoiditis,Yes,No,13,,,,,,,,
-177,Name_177,S0000177,287,Male,7/8/1972,187,90,Yes,2/6/2013,A,Hand,Fractures,Yes,No,46,,,,,,,,
-178,Name_178,S0000178,288,Male,15/2/1981,148,57,No,3/6/2013,A,Hand,Achilles tendon rupture,Yes,No,57,,,,,,,,
-179,Name_179,S0000179,289,Male,27/11/1977,151,55,Unknown,13/6/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,51,,,,,,,,
-180,Name_180,S0000180,290,Female,17/4/2010,164,96,Yes,17/6/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,43,,,,,,,,
-181,Name_181,S0000181,291,Female,8/8/1929,165,93,No,7/6/2013,A,Hand,Ingrown toenail,Yes,No,57,,,,,,,,
-182,Name_182,S0000182,292,Male,29/3/2011,190,44,No,11/6/2013,B,Hand,Ingrown toenail,Yes,No,36,,,,,,,,
-183,Name_183,S0000183,293,Female,16/4/1966,163,68,Unknown,29/6/2013,B,Sports,Repetitive stress injuries,Yes,No,18,,,,,,,,
-184,Name_184,S0000184,294,Male,9/6/1997,142,94,Yes,8/6/2013,B,Hand,Achilles tendon rupture,Yes,No,10,,,,,,,,
-185,Name_185,S0000185,295,Female,8/7/1940,157,66,Unknown,1/6/2013,A,Hand,Achilles tendon rupture,Yes,No,29,,,,,,,,
-186,Name_186,S0000186,296,Female,27/1/1942,159,88,No,13/7/2013,B,Hand,Ingrown toenail,Yes,No,26,,,,,,,,
-187,Name_187,S0000187,297,Male,11/12/1931,152,92,Unknown,1/7/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,29,,,,,,,,
-188,Name_188,S0000188,298,Female,9/4/1946,190,35,Yes,11/7/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,8,,,,,,,,
-189,Name_189,S0000189,299,Male,22/1/1933,199,97,Yes,13/7/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,20,,,,,,,,
-190,Name_190,S0000190,300,Female,29/10/1930,197,68,Yes,18/7/2013,A,Foot,Flat foot,Yes,No,29,,,,,,,,
-191,Name_191,S0000191,301,Male,14/8/1989,193,92,Yes,8/7/2013,A,Foot,Sesamoiditis,Yes,No,14,,,,,,,,
-192,Name_192,S0000192,302,Female,16/1/1965,145,38,No,26/7/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,26,,,,,,,,
-193,Name_193,S0000193,303,Male,5/5/1998,191,99,Yes,22/7/2013,B,Trauma,Stabilisation of shoulder dislocations ,Yes,No,52,,,,,,,,
-194,Name_194,S0000194,304,Male,27/8/1964,157,49,Yes,8/7/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,9,,,,,,,,
-195,Name_195,S0000195,305,Female,27/9/1958,180,84,Yes,29/7/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,2,,,,,,,,
-196,Name_196,S0000196,306,Female,27/12/2012,157,76,Unknown,1/8/2013,A,Foot,Sesamoiditis,Yes,No,3,,,,,,,,
-197,Name_197,S0000197,307,Male,15/3/1929,190,59,No,12/7/2013,B,Hand,Fractures,Yes,No,22,,,,,,,,
-198,Name_198,S0000198,308,Female,7/11/1991,140,30,Yes,23/7/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,5,,,,,,,,
-199,Name_199,S0000199,309,Male,4/11/1974,159,43,Unknown,8/7/2013,A,Hand,Fractures,Yes,No,19,,,,,,,,
-200,Name_200,S0000200,310,Male,28/1/1956,152,66,Yes,7/7/2013,B,Foot,Sesamoiditis,Yes,No,28,,,,,,,,
-201,Name_201,S0000201,311,Female,18/1/1939,195,95,No,18/7/2013,B,Trauma,Stabilisation of shoulder dislocations ,Yes,No,29,,,,,,,,
-202,Name_202,S0000202,312,Male,5/10/1935,188,44,Yes,10/7/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,18,,,,,,,,
-203,Name_203,S0000203,313,Male,13/9/1970,187,89,No,27/7/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,56,,,,,,,,
-204,Name_204,S0000204,314,Female,29/6/1928,192,35,Yes,12/7/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,13,,,,,,,,
-205,Name_205,S0000205,315,Male,6/8/2011,189,74,No,7/7/2013,B,Trauma,Stabilisation of shoulder dislocations ,Yes,No,12,,,,,,,,
-206,Name_206,S0000206,316,Male,30/6/2009,141,66,Unknown,25/7/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,44,,,,,,,,
-207,Name_207,S0000207,317,Female,20/4/1995,194,42,No,12/7/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,32,,,,,,,,
-208,Name_208,S0000208,318,Female,7/5/1952,169,68,Unknown,2/7/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,27,,,,,,,,
-209,Name_209,S0000209,319,Male,29/11/1941,143,71,Unknown,11/7/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,26,,,,,,,,
-210,Name_210,S0000210,320,Male,25/5/1929,152,97,No,15/7/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,45,,,,,,,,
-211,Name_211,S0000211,321,Male,13/7/1960,195,64,No,28/7/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,8,,,,,,,,
-212,Name_212,S0000212,322,Female,8/2/1969,151,53,Unknown,16/7/2013,A,Hand,Achilles tendon rupture,Yes,No,28,,,,,,,,
-213,Name_213,S0000213,323,Female,27/4/1973,158,51,No,2/7/2013,B,Hand,Fractures,Yes,No,12,,,,,,,,
-214,Name_214,S0000214,324,Female,3/7/1927,199,91,Yes,16/7/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,56,,,,,,,,
-215,Name_215,S0000215,325,Female,25/7/1995,194,46,Unknown,2/8/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,14,,,,,,,,
-216,Name_216,S0000216,326,Male,27/12/1997,170,56,Unknown,5/8/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,13,,,,,,,,
-217,Name_217,S0000217,327,Female,6/11/1967,183,84,Unknown,16/8/2013,A,Hand,Achilles tendon rupture,Yes,No,40,,,,,,,,
-218,Name_218,S0000218,328,Male,8/2/1966,142,81,No,6/8/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,3,,,,,,,,
-219,Name_219,S0000219,329,Female,14/8/1968,165,39,Yes,2/8/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,31,,,,,,,,
-220,Name_220,S0000220,330,Male,28/6/1959,194,39,No,3/8/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,9,,,,,,,,
-221,Name_221,S0000221,331,Female,8/8/1940,157,97,Yes,15/8/2013,B,Hand,Fractures,Yes,No,7,,,,,,,,
-222,Name_222,S0000222,332,Female,9/2/1995,170,96,Yes,23/8/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,3,,,,,,,,
-223,Name_223,S0000223,333,Female,21/7/1930,194,37,Yes,11/8/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,60,,,,,,,,
-224,Name_224,S0000224,334,Female,14/2/1969,161,61,No,26/8/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,30,,,,,,,,
-225,Name_225,S0000225,335,Female,30/3/1956,181,65,Yes,1/9/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,19,,,,,,,,
-226,Name_226,S0000226,336,Male,12/6/1946,191,45,No,3/8/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,4,,,,,,,,
-227,Name_227,S0000227,337,Male,8/7/1971,199,64,No,3/8/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,46,,,,,,,,
-228,Name_228,S0000228,338,Female,24/11/1959,188,86,Yes,29/8/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,47,,,,,,,,
-229,Name_229,S0000229,339,Male,25/12/1974,199,84,Unknown,28/8/2013,A,Foot,Sesamoiditis,Yes,No,38,,,,,,,,
-230,Name_230,S0000230,340,Female,24/5/1943,175,41,No,27/8/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,1,,,,,,,,
-231,Name_231,S0000231,341,Female,12/6/1959,179,95,No,5/8/2013,A,Sports,Repetitive stress injuries,Yes,No,27,,,,,,,,
-232,Name_232,S0000232,342,Female,13/5/1997,194,96,No,14/8/2013,A,Sports,Repetitive stress injuries,Yes,No,23,,,,,,,,
-233,Name_233,S0000233,343,Female,7/3/1989,169,58,Yes,10/8/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,14,,,,,,,,
-234,Name_234,S0000234,344,Male,24/6/1931,170,85,Unknown,11/8/2013,B,Trauma,Stabilisation of shoulder dislocations ,Yes,No,54,,,,,,,,
-235,Name_235,S0000235,345,Male,31/8/2012,177,93,Unknown,25/9/2013,A,Hand,Fractures,Yes,No,60,,,,,,,,
-236,Name_236,S0000236,346,Male,12/9/1997,160,64,Yes,2/9/2013,A,Hand,Achilles tendon rupture,Yes,No,24,,,,,,,,
-237,Name_237,S0000237,347,Male,16/1/1994,153,76,Unknown,25/9/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,3,,,,,,,,
-238,Name_238,S0000238,348,Female,23/6/1969,170,97,Unknown,23/9/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,4,,,,,,,,
-239,Name_239,S0000239,349,Female,16/12/1971,174,76,Unknown,21/9/2013,B,Foot,Sesamoiditis,Yes,No,25,,,,,,,,
-240,Name_240,S0000240,350,Female,20/5/2005,145,96,Unknown,16/9/2013,B,Trauma,Stabilisation of shoulder dislocations ,Yes,No,2,,,,,,,,
-241,Name_241,S0000241,351,Female,4/9/1985,163,85,Unknown,27/9/2013,B,Hand,Ingrown toenail,Yes,No,14,,,,,,,,
-242,Name_242,S0000242,352,Female,15/2/1972,153,52,Yes,1/10/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,58,,,,,,,,
-243,Name_243,S0000243,353,Male,27/6/1981,144,61,Unknown,15/9/2013,A,Hand,Achilles tendon rupture,Yes,No,25,,,,,,,,
-244,Name_244,S0000244,354,Male,28/5/1959,199,70,Yes,7/9/2013,A,Hand,Achilles tendon rupture,Yes,No,12,,,,,,,,
-245,Name_245,S0000245,355,Male,24/10/2010,166,65,No,20/9/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,52,,,,,,,,
-246,Name_246,S0000246,356,Male,9/2/1993,151,33,Unknown,29/9/2013,A,Foot,Flat foot,Yes,No,39,,,,,,,,
-247,Name_247,S0000247,357,Female,27/12/1931,157,75,Yes,22/9/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,2,,,,,,,,
-248,Name_248,S0000248,358,Male,5/5/1981,174,54,No,16/9/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,45,,,,,,,,
-249,Name_249,S0000249,359,Female,3/7/1981,146,99,Unknown,25/9/2013,B,Hand,Achilles tendon rupture,Yes,No,52,,,,,,,,
-250,Name_250,S0000250,360,Male,18/12/1962,177,37,No,22/9/2013,A,Sports,Fractures of the hand/wrist/forearm,No,No,30,,,,,,,,
-251,Name_251,S0000251,361,Female,4/6/1928,164,55,Unknown,10/9/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,39,,,,,,,,
-252,Name_252,S0000252,362,Male,24/7/1927,153,48,No,6/9/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,7,,,,,,,,
-253,Name_253,S0000253,363,Female,2/12/2011,173,66,Unknown,16/9/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,60,,,,,,,,
-254,Name_254,S0000254,364,Female,25/9/1966,181,92,Unknown,9/10/2013,A,Foot,Sesamoiditis,Yes,No,23,,,,,,,,
-255,Name_255,S0000255,365,Male,17/3/1998,156,30,Unknown,15/10/2013,A,Trauma,Treatment of muscle tears and strains ,No,No,30,,,,,,,,
-256,Name_256,S0000256,366,Male,7/4/1927,164,100,Yes,18/10/2013,A,Sports,Repetitive stress injuries,Yes,No,4,,,,,,,,
-257,Name_257,S0000257,367,Female,9/1/1962,163,95,No,28/10/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,32,,,,,,,,
-258,Name_258,S0000258,368,Female,19/9/1941,143,93,Unknown,11/10/2013,B,Hand,Ingrown toenail,Yes,No,19,,,,,,,,
-259,Name_259,S0000259,369,Male,12/8/1945,146,66,Yes,1/11/2013,A,Hand,Achilles tendon rupture,Yes,No,26,,,,,,,,
-260,Name_260,S0000260,370,Female,7/11/1924,170,78,Unknown,16/10/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,37,,,,,,,,
-261,Name_261,S0000261,371,Female,6/12/1975,181,88,Unknown,16/10/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,11,,,,,,,,
-262,Name_262,S0000262,372,Female,13/4/1965,198,83,Unknown,21/10/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,60,,,,,,,,
-263,Name_263,S0000263,373,Female,27/9/1944,156,90,Yes,1/10/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,7,,,,,,,,
-264,Name_264,S0000264,374,Male,28/10/2000,177,43,No,12/10/2013,B,Trauma,Treatment of muscle tears and strains ,No,No,25,,,,,,,,
-265,Name_265,S0000265,375,Male,10/3/1964,144,48,Yes,14/10/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,6,,,,,,,,
-266,Name_266,S0000266,376,Male,13/10/1980,176,79,Unknown,19/10/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,17,,,,,,,,
-267,Name_267,S0000267,377,Female,13/1/1997,159,64,Yes,1/11/2013,B,Hand,Achilles tendon rupture,Yes,No,35,,,,,,,,
-268,Name_268,S0000268,378,Male,20/2/1970,142,62,Unknown,3/10/2013,B,Hand,Fractures,Yes,No,17,,,,,,,,
-269,Name_269,S0000269,379,Female,31/3/1944,178,73,No,19/10/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,56,,,,,,,,
-270,Name_270,S0000270,380,Male,21/11/1927,171,77,Yes,24/10/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,6,,,,,,,,
-271,Name_271,S0000271,381,Female,23/10/1944,193,63,Unknown,6/10/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,34,,,,,,,,
-272,Name_272,S0000272,382,Male,8/4/1981,142,47,Unknown,25/10/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,46,,,,,,,,
-273,Name_273,S0000273,383,Female,6/3/1992,174,70,No,12/10/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,44,,,,,,,,
-274,Name_274,S0000274,384,Male,7/6/1979,149,94,Yes,24/10/2013,B,Trauma,Stabilisation of shoulder dislocations ,Yes,No,44,,,,,,,,
-275,Name_275,S0000275,385,Female,4/1/1966,163,55,No,3/10/2013,B,Hand,Fractures,Yes,No,26,,,,,,,,
-276,Name_276,S0000276,386,Male,30/6/1998,150,76,Yes,21/10/2013,B,Foot,Sesamoiditis,Yes,No,19,,,,,,,,
-277,Name_277,S0000277,387,Female,8/4/1967,167,46,Yes,4/10/2013,B,Sports,Fractures of the hand/wrist/forearm,No,No,55,,,,,,,,
-278,Name_278,S0000278,388,Male,19/10/1980,144,47,Yes,30/10/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,54,,,,,,,,
-279,Name_279,S0000279,389,Male,15/7/1933,180,94,Unknown,11/10/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,22,,,,,,,,
-280,Name_280,S0000280,390,Male,19/8/1961,197,89,Yes,1/11/2013,B,Foot,Sesamoiditis,Yes,No,11,,,,,,,,
-281,Name_281,S0000281,391,Female,21/10/2006,187,41,Yes,8/11/2013,B,Foot,Flat foot,Yes,No,11,,,,,,,,
-282,Name_282,S0000282,392,Male,18/7/1939,199,77,Yes,28/11/2013,B,Hand,Achilles tendon rupture,Yes,No,45,,,,,,,,
-283,Name_283,S0000283,393,Female,20/1/1925,174,94,Yes,19/11/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,58,,,,,,,,
-284,Name_284,S0000284,394,Male,5/8/1934,144,87,Unknown,1/12/2013,A,Trauma,Treatment of muscle tears and strains ,No,No,22,,,,,,,,
-285,Name_285,S0000285,395,Female,26/10/1964,156,40,No,20/11/2013,A,Hand,Achilles tendon rupture,Yes,No,27,,,,,,,,
-286,Name_286,S0000286,396,Male,24/11/1939,177,97,Yes,29/11/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,19,,,,,,,,
-287,Name_287,S0000287,397,Male,14/5/1924,186,54,Unknown,1/11/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,12,,,,,,,,
-288,Name_288,S0000288,398,Female,28/11/1967,178,36,Yes,9/11/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,55,,,,,,,,
-289,Name_289,S0000289,399,Female,26/12/1981,197,64,Yes,18/11/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,5,,,,,,,,
-290,Name_290,S0000290,400,Female,14/2/1986,163,91,No,18/11/2013,A,Foot,Sesamoiditis,Yes,No,23,,,,,,,,
-291,Name_291,S0000291,401,Female,15/5/1927,185,54,Unknown,23/11/2013,B,Sports,Repetitive stress injuries,Yes,No,7,,,,,,,,
-292,Name_292,S0000292,402,Female,30/4/1969,193,84,Yes,19/11/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,23,,,,,,,,
-293,Name_293,S0000293,403,Male,29/9/1948,153,83,Unknown,29/11/2013,A,Sports,Repetitive stress injuries,Yes,No,45,,,,,,,,
-294,Name_294,S0000294,404,Female,4/1/1939,160,96,No,19/11/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,No,No,44,,,,,,,,
-295,Name_295,S0000295,405,Male,18/3/2000,154,60,No,2/11/2013,A,Hand,Achilles tendon rupture,Yes,No,12,,,,,,,,
-296,Name_296,S0000296,406,Male,10/10/1966,171,76,No,9/11/2013,A,Foot,Flat foot,Yes,No,19,,,,,,,,
-297,Name_297,S0000297,407,Male,8/8/1973,168,57,No,17/11/2013,A,Sports,Repetitive stress injuries,Yes,No,3,,,,,,,,
-298,Name_298,S0000298,408,Female,27/1/1996,142,34,Unknown,3/11/2013,A,Hand,Achilles tendon rupture,Yes,No,18,,,,,,,,
-299,Name_299,S0000299,409,Female,3/3/2009,169,46,No,15/11/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,22,,,,,,,,
-300,Name_300,S0000300,410,Male,11/11/1943,177,89,Yes,12/11/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,31,,,,,,,,
-301,Name_301,S0000301,411,Male,7/7/1948,195,66,No,5/11/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,43,,,,,,,,
-302,Name_302,S0000302,412,Female,25/8/1972,147,63,No,17/11/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,14,,,,,,,,
-303,Name_303,S0000303,413,Female,26/4/2008,187,56,Yes,30/11/2013,B,Foot,Flat foot,Yes,No,30,,,,,,,,
-304,Name_304,S0000304,414,Female,5/8/1941,175,45,No,17/11/2013,B,Hand,Fractures,Yes,No,37,,,,,,,,
-305,Name_305,S0000305,415,Female,10/2/2005,148,37,Unknown,6/11/2013,B,Hand,Achilles tendon rupture,Yes,No,43,,,,,,,,
-306,Name_306,S0000306,416,Female,23/5/1980,193,35,Unknown,11/11/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,42,,,,,,,,
-307,Name_307,S0000307,417,Female,17/8/1960,196,51,Unknown,24/11/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,50,,,,,,,,
-308,Name_308,S0000308,418,Male,31/10/1984,169,36,No,9/11/2013,B,Hand,Achilles tendon rupture,Yes,No,47,,,,,,,,
-309,Name_309,S0000309,419,Female,20/2/1939,168,59,Yes,26/11/2013,B,Hand,Achilles tendon rupture,Yes,No,23,,,,,,,,
-310,Name_310,S0000310,420,Male,8/4/1977,192,71,No,7/11/2013,A,Foot,Sesamoiditis,Yes,No,27,,,,,,,,
-311,Name_311,S0000311,421,Male,29/8/1944,153,40,Yes,26/11/2013,B,Hand,Fractures,Yes,No,26,,,,,,,,
-312,Name_312,S0000312,422,Male,19/7/2007,148,91,Yes,22/11/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,8,,,,,,,,
-313,Name_313,S0000313,423,Female,16/3/1963,156,82,No,28/11/2013,B,Hand,Ingrown toenail,Yes,No,24,,,,,,,,
-314,Name_314,S0000314,424,Female,13/10/1929,178,53,Yes,4/11/2013,B,Trauma,Stabilisation of shoulder dislocations ,No,No,25,,,,,,,,
-315,Name_315,S0000315,425,Female,13/12/1949,164,87,No,1/11/2013,B,Sports,Repetitive stress injuries,Yes,No,58,,,,,,,,
-316,Name_316,S0000316,426,Female,21/6/1979,183,65,Yes,29/11/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,57,,,,,,,,
-317,Name_317,S0000317,427,Male,28/9/1953,186,94,No,25/12/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,18,,,,,,,,
-318,Name_318,S0000318,428,Female,24/7/1980,144,90,Yes,24/12/2013,A,Trauma,Ankle ligament reconstructions  ,Yes,No,5,,,,,,,,
-319,Name_319,S0000319,429,Male,8/12/1985,173,68,No,28/12/2013,B,Foot,Sesamoiditis,Yes,No,29,,,,,,,,
-320,Name_320,S0000320,430,Male,1/7/1992,195,65,Unknown,18/12/2013,A,Hand,Ingrown toenail,No,No,2,,,,,,,,
-321,Name_321,S0000321,431,Male,25/9/1990,152,90,No,15/12/2013,B,Hand,Ingrown toenail,Yes,No,24,,,,,,,,
-322,Name_322,S0000322,432,Female,24/2/1924,168,68,Unknown,21/12/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,11,,,,,,,,
-323,Name_323,S0000323,433,Female,9/11/1961,179,60,No,26/12/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,59,,,,,,,,
-324,Name_324,S0000324,434,Male,31/5/2008,154,44,No,13/12/2013,B,Trauma,Ankle ligament reconstructions  ,Yes,No,60,,,,,,,,
-325,Name_325,S0000325,435,Male,12/8/1982,182,59,Yes,27/12/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,41,,,,,,,,
-326,Name_326,S0000326,436,Male,24/1/1988,185,32,Unknown,25/12/2013,A,Trauma,Stabilisation of shoulder dislocations ,Yes,No,34,,,,,,,,
-327,Name_327,S0000327,437,Male,24/8/1966,195,90,No,2/12/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,19,,,,,,,,
-328,Name_328,S0000328,438,Female,10/9/1972,160,31,No,26/12/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,6,,,,,,,,
-329,Name_329,S0000329,439,Male,21/6/2005,142,58,Yes,26/12/2013,A,Hand,Ingrown toenail,Yes,No,29,,,,,,,,
-330,Name_330,S0000330,440,Male,1/7/2005,179,99,No,15/12/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,25,,,,,,,,
-331,Name_331,S0000331,441,Female,28/9/1994,146,31,Yes,22/12/2013,A,Hand,Ingrown toenail,Yes,No,28,,,,,,,,
-332,Name_332,S0000332,442,Male,10/2/1998,142,56,Yes,13/12/2013,A,Hand,Fractures,Yes,No,13,,,,,,,,
-333,Name_333,S0000333,443,Male,31/12/1932,182,83,Yes,23/12/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,28,,,,,,,,
-334,Name_334,S0000334,444,Male,10/3/1958,157,64,Yes,7/12/2013,A,Hand,Fractures,Yes,No,21,,,,,,,,
-335,Name_335,S0000335,445,Female,1/2/1996,189,80,Yes,20/12/2013,B,Hand,Fractures,Yes,No,39,,,,,,,,
-336,Name_336,S0000336,446,Male,9/12/1999,158,55,Unknown,25/12/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,53,,,,,,,,
-337,Name_337,S0000337,447,Female,18/7/1992,190,94,Unknown,24/12/2013,A,Trauma,Treatment of muscle tears and strains ,Yes,No,30,,,,,,,,
-338,Name_338,S0000338,448,Male,19/5/1955,199,71,Yes,15/12/2013,B,Trauma,Treatment of muscle tears and strains ,Yes,No,24,,,,,,,,
-339,Name_339,S0000339,449,Male,26/12/1948,156,95,No,14/12/2013,A,Hand,Ingrown toenail,Yes,No,40,,,,,,,,
-340,Name_340,S0000340,450,Male,3/4/2008,186,53,Yes,14/12/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,53,,,,,,,,
-341,Name_341,S0000341,451,Male,17/9/1999,199,97,Unknown,27/12/2013,A,Hand,Ingrown toenail,Yes,No,1,,,,,,,,
-342,Name_342,S0000342,452,Male,20/11/1955,171,49,No,21/12/2013,A,Hand,Achilles tendon rupture,No,No,14,,,,,,,,
-343,Name_343,S0000343,453,Female,1/12/1968,198,36,Yes,3/12/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,6,,,,,,,,
-344,Name_344,S0000344,454,Female,2/4/1970,140,35,Unknown,12/12/2013,A,Hand,Achilles tendon rupture,Yes,No,1,,,,,,,,
+Number,Name,IC,CaseNo,Gender,DateOfBirth,Height,Weight,Smoking,AdmissionDate,Clinic,Subspecialty,ReasonAdmitted,Discharged,DeathCase,LengthOfStay,DischargeDate
+1,Name_1,S0000001,111,Female,9/7/1933,179,48,No,4/1/2013,A,Hand,Ingrown toenail,Yes,No,11,15/1/2013
+2,Name_2,S0000002,112,Female,18/9/1995,193,59,Yes,25/1/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,22,16/2/2013
+3,Name_3,S0000003,113,Male,18/2/1937,192,99,Unknown,15/1/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,36,20/2/2013
+4,Name_4,S0000004,114,Female,23/3/1940,187,96,Unknown,7/1/2013,B,Hand,Fractures,No,No,37,13/2/2013
+5,Name_5,S0000005,115,Female,8/12/1996,164,34,Unknown,1/1/2013,A,Hand,Achilles tendon rupture,Yes,No,35,5/2/2013
+6,Name_6,S0000006,116,Male,28/9/2005,183,98,Yes,20/1/2013,A,Foot,Sesamoiditis,Yes,No,41,2/3/2013
+7,Name_7,S0000007,117,Female,17/9/1972,158,82,No,8/1/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,54,3/3/2013
+8,Name_8,S0000008,118,Female,6/11/1977,160,75,No,27/1/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,56,24/3/2013
+9,Name_9,S0000009,119,Male,3/5/2006,193,100,Yes,30/1/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,8,7/2/2013
+10,Name_10,S0000010,120,Male,1/1/1952,180,60,Yes,2/1/2013,A,Hand,Ingrown toenail,Yes,No,23,25/1/2013
+11,Name_11,S0000011,121,Female,7/5/1968,164,70,No,28/1/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,56,25/3/2013
+12,Name_12,S0000012,122,Male,26/6/1993,147,58,Yes,21/1/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,18,8/2/2013
+13,Name_13,S0000013,123,Male,5/5/1930,190,83,No,23/1/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,43,7/3/2013
+14,Name_14,S0000014,124,Male,19/5/1980,144,85,Unknown,18/1/2013,A,Sports,Repetitive stress injuries,Yes,No,51,10/3/2013
+15,Name_15,S0000015,125,Male,5/5/1966,153,37,Unknown,28/1/2013,A,Sports,Repetitive stress injuries,Yes,No,7,4/2/2013
+16,Name_16,S0000016,126,Female,2/12/1992,180,40,No,1/2/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,30,3/3/2013
+17,Name_17,S0000017,127,Female,9/5/1983,152,68,No,15/1/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,20,4/2/2013
+18,Name_18,S0000018,128,Male,18/4/1965,166,45,No,4/1/2013,B,Sports,Repetitive stress injuries,Yes,No,31,4/2/2013
+19,Name_19,S0000019,129,Female,20/6/1986,176,51,Yes,5/1/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,25,30/1/2013
+20,Name_20,S0000020,130,Female,30/11/2001,149,76,No,24/1/2013,B,Hand,Fractures,Yes,No,5,29/1/2013
+21,Name_21,S0000021,131,Male,9/6/2008,189,31,Unknown,19/1/2013,A,Sports,Repetitive stress injuries,Yes,Yes,56,16/3/2013
+22,Name_22,S0000022,132,Male,31/3/1950,156,31,No,28/1/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,20,17/2/2013
+23,Name_23,S0000023,133,Male,4/10/1929,176,96,Yes,13/1/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,23,5/2/2013
+24,Name_24,S0000024,134,Female,12/2/1989,178,73,Yes,4/1/2013,A,Hand,Achilles tendon rupture,Yes,No,24,28/1/2013
+25,Name_25,S0000025,135,Male,8/9/1980,151,99,Unknown,7/1/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,58,6/3/2013
+26,Name_26,S0000026,136,Male,1/12/1988,145,33,No,15/1/2013,A,Sports,Repetitive stress injuries,Yes,No,52,8/3/2013
+27,Name_27,S0000027,137,Male,8/6/1946,177,55,Unknown,11/1/2013,A,Sports,Repetitive stress injuries,Yes,No,49,1/3/2013
+28,Name_28,S0000028,138,Male,2/7/1952,181,82,Unknown,2/1/2013,B,Foot,Flat foot,Yes,No,44,15/2/2013
+29,Name_29,S0000029,139,Female,20/4/1933,141,65,Unknown,27/1/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,31,27/2/2013
+30,Name_30,S0000030,140,Female,25/8/1978,191,39,Unknown,4/1/2013,A,Foot,Flat foot,Yes,No,48,21/2/2013
+31,Name_31,S0000031,141,Female,12/6/1961,182,65,Yes,14/1/2013,A,Foot,Sesamoiditis,Yes,No,12,26/1/2013
+32,Name_32,S0000032,142,Male,4/7/1967,183,75,Yes,30/1/2013,A,Hand,Ingrown toenail,Yes,No,39,10/3/2013
+33,Name_33,S0000033,143,Female,14/12/1991,178,66,Unknown,12/1/2013,A,Hand,Fractures,Yes,No,3,15/1/2013
+34,Name_34,S0000034,144,Male,12/5/2008,179,95,No,20/1/2013,A,Hand,Fractures,Yes,No,46,7/3/2013
+35,Name_35,S0000035,145,Female,26/11/1996,194,72,Yes,2/1/2013,B,Hand,Ingrown toenail,Yes,No,13,15/1/2013
+36,Name_36,S0000036,146,Female,19/11/1984,169,58,Yes,6/1/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,58,5/3/2013
+37,Name_37,S0000037,147,Female,6/10/1992,159,84,Yes,21/1/2013,B,Foot,Flat foot,Yes,No,5,26/1/2013
+38,Name_38,S0000038,148,Female,22/7/1955,145,36,Yes,24/2/2013,B,Trauma,Ankle ligament reconstructions,No,No,17,13/3/2013
+39,Name_39,S0000039,149,Female,7/8/1975,142,90,No,20/2/2013,B,Hand,Achilles tendon rupture,Yes,No,22,14/3/2013
+40,Name_40,S0000040,150,Female,22/11/1998,149,62,Yes,28/2/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,18,18/3/2013
+41,Name_41,S0000041,151,Male,16/12/1953,140,45,Unknown,28/2/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,40,9/4/2013
+42,Name_42,S0000042,152,Male,3/11/2011,179,97,Yes,17/2/2013,A,Hand,Achilles tendon rupture,Yes,No,25,14/3/2013
+43,Name_43,S0000043,153,Male,13/1/1982,142,79,Yes,10/2/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,29,11/3/2013
+44,Name_44,S0000044,154,Female,17/11/1956,166,93,Unknown,4/2/2013,B,Foot,Flat foot,Yes,No,37,13/3/2013
+45,Name_45,S0000045,155,Female,24/1/2003,146,96,Unknown,6/2/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,47,25/3/2013
+46,Name_46,S0000046,156,Female,28/9/1971,196,57,No,9/2/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,29,10/3/2013
+47,Name_47,S0000047,157,Male,24/11/1963,175,47,Unknown,9/2/2013,B,Hand,Achilles tendon rupture,No,No,20,1/3/2013
+48,Name_48,S0000048,158,Female,27/5/1986,152,76,Yes,10/2/2013,A,Foot,Flat foot,Yes,No,22,4/3/2013
+49,Name_49,S0000049,159,Female,25/8/2011,151,30,No,21/2/2013,A,Hand,Fractures,Yes,No,6,27/2/2013
+50,Name_50,S0000050,160,Male,11/9/1926,154,80,No,10/2/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,27,9/3/2013
+51,Name_51,S0000051,161,Male,16/5/1935,198,56,Yes,25/2/2013,A,Sports,Repetitive stress injuries,Yes,No,31,28/3/2013
+52,Name_52,S0000052,162,Female,9/4/1988,199,77,Yes,1/2/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,17,18/2/2013
+53,Name_53,S0000053,163,Female,14/3/1935,181,79,Yes,6/2/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,9,15/2/2013
+54,Name_54,S0000054,164,Male,11/3/1944,160,39,No,27/2/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,37,5/4/2013
+55,Name_55,S0000055,165,Male,3/12/1930,163,66,Unknown,1/2/2013,B,Trauma,Stabilisation of shoulder dislocations,Yes,No,48,21/3/2013
+56,Name_56,S0000056,166,Male,29/7/1979,179,81,Yes,22/2/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,34,28/3/2013
+57,Name_57,S0000057,167,Female,11/7/1933,141,38,Unknown,12/2/2013,A,Hand,Ingrown toenail,Yes,No,11,23/2/2013
+58,Name_58,S0000058,168,Male,12/3/1935,146,69,No,1/3/2013,A,Hand,Achilles tendon rupture,Yes,No,17,18/3/2013
+59,Name_59,S0000059,169,Female,19/9/1972,176,38,Yes,19/2/2013,A,Hand,Ingrown toenail,Yes,No,13,4/3/2013
+60,Name_60,S0000060,170,Female,7/10/1968,173,78,Yes,10/2/2013,A,Hand,Achilles tendon rupture,Yes,No,22,4/3/2013
+61,Name_61,S0000061,171,Male,4/3/2000,187,47,Unknown,2/2/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,6,8/2/2013
+62,Name_62,S0000062,172,Male,9/3/2006,192,64,Unknown,9/2/2013,B,Foot,Sesamoiditis,Yes,No,23,4/3/2013
+63,Name_63,S0000063,173,Male,21/6/1947,152,98,No,24/2/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,26,22/3/2013
+64,Name_64,S0000064,174,Female,6/4/1936,168,66,Yes,5/2/2013,B,Foot,Flat foot,Yes,No,21,26/2/2013
+65,Name_65,S0000065,175,Female,23/3/1986,194,36,No,6/2/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,43,21/3/2013
+66,Name_66,S0000066,176,Female,18/3/1990,194,93,Yes,25/2/2013,B,Foot,Sesamoiditis,Yes,No,56,22/4/2013
+67,Name_67,S0000067,177,Male,14/7/1930,163,73,Yes,2/3/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,60,1/5/2013
+68,Name_68,S0000068,178,Female,22/4/1952,157,59,Yes,13/3/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,23,5/4/2013
+69,Name_69,S0000069,179,Male,29/1/1961,175,73,No,1/3/2013,B,Trauma,Stabilisation of shoulder dislocations,Yes,No,39,9/4/2013
+70,Name_70,S0000070,180,Male,24/4/2007,186,79,No,1/3/2013,B,Hand,Fractures,Yes,No,7,8/3/2013
+71,Name_71,S0000071,181,Male,2/5/1931,161,64,Unknown,31/3/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,22,22/4/2013
+72,Name_72,S0000072,182,Female,8/10/1996,141,63,No,18/3/2013,A,Hand,Achilles tendon rupture,Yes,No,13,31/3/2013
+73,Name_73,S0000073,183,Female,13/8/1984,182,50,Unknown,22/3/2013,B,Trauma,Stabilisation of shoulder dislocations,Yes,No,5,27/3/2013
+74,Name_74,S0000074,184,Male,8/4/1971,188,98,Yes,17/3/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,18,4/4/2013
+75,Name_75,S0000075,185,Female,31/5/1974,177,30,Unknown,17/3/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,41,27/4/2013
+76,Name_76,S0000076,186,Female,6/12/1956,181,97,No,15/3/2013,A,Hand,Fractures,No,No,9,24/3/2013
+77,Name_77,S0000077,187,Male,22/11/1973,188,33,Yes,1/3/2013,B,Hand,Fractures,Yes,No,18,19/3/2013
+78,Name_78,S0000078,188,Female,28/8/1925,191,73,No,1/3/2013,B,Hand,Achilles tendon rupture,Yes,No,15,16/3/2013
+79,Name_79,S0000079,189,Female,23/1/1965,183,99,Unknown,5/3/2013,A,Foot,Flat foot,Yes,No,11,16/3/2013
+80,Name_80,S0000080,190,Male,28/2/1935,193,84,Yes,31/3/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,8,8/4/2013
+81,Name_81,S0000081,191,Female,25/1/1942,175,59,No,25/3/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,31,25/4/2013
+82,Name_82,S0000082,192,Male,30/11/1956,180,83,Yes,19/3/2013,B,Foot,Sesamoiditis,Yes,No,40,28/4/2013
+83,Name_83,S0000083,193,Female,22/6/1935,178,64,Yes,14/3/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,24,7/4/2013
+84,Name_84,S0000084,194,Male,6/6/1952,164,71,Yes,18/3/2013,B,Sports,Repetitive stress injuries,Yes,No,31,18/4/2013
+85,Name_85,S0000085,195,Female,9/7/1949,176,87,No,15/3/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,47,1/5/2013
+86,Name_86,S0000086,196,Male,13/3/2000,187,90,Yes,19/3/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,5,24/3/2013
+87,Name_87,S0000087,197,Male,24/6/1932,168,46,No,14/3/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,5,19/3/2013
+88,Name_88,S0000088,198,Female,29/6/1974,153,80,Unknown,22/3/2013,A,Sports,Repetitive stress injuries,Yes,No,4,26/3/2013
+89,Name_89,S0000089,199,Male,23/6/1987,184,37,Unknown,8/3/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,31,8/4/2013
+90,Name_90,S0000090,200,Male,26/7/1924,167,33,Unknown,19/3/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,14,2/4/2013
+91,Name_91,S0000091,201,Female,30/1/1934,156,50,Unknown,8/3/2013,B,Hand,Fractures,Yes,No,27,4/4/2013
+92,Name_92,S0000092,202,Male,27/11/1935,176,88,Yes,2/3/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,7,9/3/2013
+93,Name_93,S0000093,203,Female,10/7/1952,184,59,No,22/3/2013,B,Hand,Ingrown toenail,Yes,No,36,27/4/2013
+94,Name_94,S0000094,204,Male,16/7/1971,189,86,Yes,10/3/2013,B,Hand,Ingrown toenail,Yes,No,24,3/4/2013
+95,Name_95,S0000095,205,Female,18/12/1998,147,100,Yes,31/3/2013,A,Hand,Fractures,Yes,No,30,30/4/2013
+96,Name_96,S0000096,206,Female,1/6/1950,192,35,No,19/3/2013,B,Foot,Flat foot,Yes,No,24,12/4/2013
+97,Name_97,S0000097,207,Female,10/9/1924,151,56,No,9/3/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,18,27/3/2013
+98,Name_98,S0000098,208,Female,13/11/1968,157,68,No,10/3/2013,A,Hand,Achilles tendon rupture,Yes,No,8,18/3/2013
+99,Name_99,S0000099,209,Female,8/11/1933,187,31,Unknown,22/3/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,18,9/4/2013
+100,Name_100,S0000100,210,Male,30/7/1941,147,61,No,21/3/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,15,5/4/2013
+101,Name_101,S0000101,211,Male,14/6/1943,174,35,Unknown,20/3/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,26,15/4/2013
+102,Name_102,S0000102,212,Female,17/7/2012,155,85,Unknown,14/3/2013,A,Foot,Sesamoiditis,No,No,22,5/4/2013
+103,Name_103,S0000103,213,Female,11/4/1938,159,77,Unknown,3/3/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,19,22/3/2013
+104,Name_104,S0000104,214,Female,14/12/1939,147,100,Unknown,29/3/2013,B,Foot,Flat foot,Yes,No,12,10/4/2013
+105,Name_105,S0000105,215,Female,8/4/1924,149,56,Unknown,22/3/2013,A,Hand,Fractures,Yes,No,40,1/5/2013
+106,Name_106,S0000106,216,Female,4/12/2012,194,91,Unknown,24/4/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,23,17/5/2013
+107,Name_107,S0000107,217,Female,13/11/2008,192,87,No,19/4/2013,A,Foot,Sesamoiditis,Yes,No,18,7/5/2013
+108,Name_108,S0000108,218,Male,3/4/1947,186,57,No,30/4/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,11,11/5/2013
+109,Name_109,S0000109,219,Male,31/10/1984,191,53,Yes,16/4/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,8,24/4/2013
+110,Name_110,S0000110,220,Female,26/8/1945,196,78,Yes,18/4/2013,A,Hand,Ingrown toenail,Yes,No,4,22/4/2013
+111,Name_111,S0000111,221,Male,31/1/1976,162,74,Yes,3/4/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,13,16/4/2013
+112,Name_112,S0000112,222,Female,22/3/1999,177,88,No,19/4/2013,B,Sports,Repetitive stress injuries,Yes,No,30,19/5/2013
+113,Name_113,S0000113,223,Female,30/12/1959,141,67,Yes,23/4/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,17,10/5/2013
+114,Name_114,S0000114,224,Male,19/2/1970,147,43,No,29/4/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,47,15/6/2013
+115,Name_115,S0000115,225,Male,25/3/1941,186,89,No,5/4/2013,A,Hand,Fractures,Yes,No,41,16/5/2013
+116,Name_116,S0000116,226,Female,27/9/1941,151,36,Unknown,12/4/2013,A,Sports,Repetitive stress injuries,Yes,No,59,10/6/2013
+117,Name_117,S0000117,227,Female,9/1/1986,176,68,No,16/4/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,27,13/5/2013
+118,Name_118,S0000118,228,Female,29/3/1986,180,92,No,16/4/2013,B,Foot,Flat foot,Yes,No,3,19/4/2013
+119,Name_119,S0000119,229,Male,26/3/1984,176,93,Yes,28/4/2013,B,Hand,Achilles tendon rupture,Yes,No,40,7/6/2013
+120,Name_120,S0000120,230,Female,15/10/1947,183,43,No,20/4/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,18,8/5/2013
+121,Name_121,S0000121,231,Male,16/2/1953,178,42,No,22/4/2013,A,Hand,Ingrown toenail,Yes,No,11,3/5/2013
+122,Name_122,S0000122,232,Male,12/10/1924,188,67,Yes,18/4/2013,B,Sports,Repetitive stress injuries,Yes,No,30,18/5/2013
+123,Name_123,S0000123,233,Male,20/11/2002,183,70,Yes,4/4/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,39,13/5/2013
+124,Name_124,S0000124,234,Female,24/4/1994,196,35,No,6/4/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,9,15/4/2013
+125,Name_125,S0000125,235,Male,29/3/1997,149,59,Unknown,18/4/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,30,18/5/2013
+126,Name_126,S0000126,236,Male,10/7/2007,184,91,No,8/5/2013,B,Sports,Repetitive stress injuries,Yes,No,3,11/5/2013
+127,Name_127,S0000127,237,Female,27/3/1960,167,72,Yes,22/5/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,16,7/6/2013
+128,Name_128,S0000128,238,Female,12/5/1993,180,90,Yes,9/5/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,26,4/6/2013
+129,Name_129,S0000129,239,Male,5/11/2000,187,70,Unknown,24/5/2013,B,Hand,Ingrown toenail,Yes,No,39,2/7/2013
+130,Name_130,S0000130,240,Female,17/5/1954,145,59,Unknown,19/5/2013,B,Sports,Repetitive stress injuries,Yes,No,12,31/5/2013
+131,Name_131,S0000131,241,Female,12/7/1982,148,97,Unknown,21/5/2013,B,Hand,Ingrown toenail,Yes,No,43,3/7/2013
+132,Name_132,S0000132,242,Male,11/1/1962,160,64,Yes,1/6/2013,B,Sports,Repetitive stress injuries,Yes,No,60,31/7/2013
+133,Name_133,S0000133,243,Female,20/5/1944,144,46,No,3/5/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,22,25/5/2013
+134,Name_134,S0000134,244,Male,23/2/1999,167,38,Yes,18/5/2013,B,Trauma,Stabilisation of shoulder dislocations,Yes,No,16,3/6/2013
+135,Name_135,S0000135,245,Male,22/8/1958,166,87,Unknown,24/5/2013,B,Foot,Flat foot,Yes,No,3,27/5/2013
+136,Name_136,S0000136,246,Male,9/2/1995,149,66,Unknown,11/5/2013,A,Hand,Ingrown toenail,Yes,No,10,21/5/2013
+137,Name_137,S0000137,247,Female,28/2/2001,152,100,Unknown,24/5/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,19,12/6/2013
+138,Name_138,S0000138,248,Male,9/11/1944,170,47,Yes,30/5/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,5,4/6/2013
+139,Name_139,S0000139,249,Male,21/5/1925,149,77,No,8/5/2013,A,Sports,Repetitive stress injuries,Yes,No,3,11/5/2013
+140,Name_140,S0000140,250,Female,9/1/1952,186,80,No,6/5/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,55,30/6/2013
+141,Name_141,S0000141,251,Male,14/11/1949,143,70,No,26/5/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,25,20/6/2013
+142,Name_142,S0000142,252,Female,1/11/1932,191,57,No,5/5/2013,A,Trauma,Treatment of muscle tears and strains,No,No,42,16/6/2013
+143,Name_143,S0000143,253,Male,2/9/1925,189,87,Unknown,8/5/2013,B,Foot,Sesamoiditis,Yes,No,22,30/5/2013
+144,Name_144,S0000144,254,Female,24/12/1954,173,87,Unknown,10/5/2013,A,Foot,Flat foot,Yes,No,50,29/6/2013
+145,Name_145,S0000145,255,Male,18/2/1952,193,35,Yes,15/5/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,45,29/6/2013
+146,Name_146,S0000146,256,Female,9/7/1948,164,74,Yes,10/5/2013,B,Foot,Flat foot,Yes,No,27,6/6/2013
+147,Name_147,S0000147,257,Female,30/5/1955,187,33,Unknown,27/5/2013,A,Sports,Repetitive stress injuries,Yes,No,35,1/7/2013
+148,Name_148,S0000148,258,Female,25/10/1933,176,65,Yes,13/5/2013,B,Foot,Sesamoiditis,Yes,No,10,23/5/2013
+149,Name_149,S0000149,259,Female,24/2/1960,145,75,Unknown,20/5/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,16,5/6/2013
+150,Name_150,S0000150,260,Male,16/12/1930,154,53,Unknown,8/5/2013,B,Foot,Flat foot,Yes,No,52,29/6/2013
+151,Name_151,S0000151,261,Male,20/11/1961,194,69,No,11/6/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,6,17/6/2013
+152,Name_152,S0000152,262,Male,30/7/1995,157,93,Yes,2/6/2013,B,Hand,Ingrown toenail,Yes,No,3,5/6/2013
+153,Name_153,S0000153,263,Male,14/2/2011,153,51,Yes,21/6/2013,B,Foot,Sesamoiditis,Yes,No,45,5/8/2013
+154,Name_154,S0000154,264,Female,16/5/1957,153,35,No,22/6/2013,B,Hand,Achilles tendon rupture,Yes,No,10,2/7/2013
+155,Name_155,S0000155,265,Female,13/10/1925,140,85,Unknown,23/6/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,11,4/7/2013
+156,Name_156,S0000156,266,Male,23/4/1961,153,95,Yes,3/6/2013,A,Hand,Achilles tendon rupture,Yes,No,31,4/7/2013
+157,Name_157,S0000157,267,Female,19/8/1977,181,32,Yes,4/6/2013,B,Hand,Ingrown toenail,Yes,No,30,4/7/2013
+158,Name_158,S0000158,268,Female,27/4/2007,140,41,No,24/6/2013,A,Sports,Repetitive stress injuries,Yes,No,41,4/8/2013
+159,Name_159,S0000159,269,Male,2/1/1994,145,35,Unknown,28/6/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,21,19/7/2013
+160,Name_160,S0000160,270,Female,19/4/1974,156,46,No,16/6/2013,B,Hand,Ingrown toenail,Yes,No,1,17/6/2013
+161,Name_161,S0000161,271,Male,31/10/1934,161,42,Unknown,14/6/2013,B,Hand,Fractures,Yes,No,8,22/6/2013
+162,Name_162,S0000162,272,Male,24/4/1935,195,76,No,24/6/2013,B,Foot,Flat foot,Yes,No,50,13/8/2013
+163,Name_163,S0000163,273,Female,22/6/1927,187,64,No,7/6/2013,A,Hand,Ingrown toenail,Yes,No,57,3/8/2013
+164,Name_164,S0000164,274,Female,22/12/1949,162,38,Yes,21/6/2013,B,Foot,Sesamoiditis,Yes,No,54,14/8/2013
+165,Name_165,S0000165,275,Female,11/2/1952,140,100,Unknown,11/6/2013,A,Foot,Flat foot,Yes,No,16,27/6/2013
+166,Name_166,S0000166,276,Male,11/5/1948,175,32,Unknown,28/6/2013,A,Foot,Sesamoiditis,Yes,No,17,15/7/2013
+167,Name_167,S0000167,277,Male,21/4/1946,194,81,No,21/6/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,4,25/6/2013
+168,Name_168,S0000168,278,Female,27/2/1963,149,31,Yes,25/6/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,12,7/7/2013
+169,Name_169,S0000169,279,Male,15/11/1956,184,79,No,17/6/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,17,4/7/2013
+170,Name_170,S0000170,280,Female,5/1/1967,146,32,Yes,21/6/2013,A,Hand,Achilles tendon rupture,Yes,No,12,3/7/2013
+171,Name_171,S0000171,281,Female,22/12/1931,196,35,Yes,21/6/2013,A,Hand,Ingrown toenail,Yes,No,4,25/6/2013
+172,Name_172,S0000172,282,Male,15/2/1991,182,39,Unknown,21/6/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,19,10/7/2013
+173,Name_173,S0000173,283,Male,19/10/1941,183,32,Unknown,9/6/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,21,30/6/2013
+174,Name_174,S0000174,284,Male,7/2/1996,181,95,Yes,28/6/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,23,21/7/2013
+175,Name_175,S0000175,285,Male,3/3/2011,173,74,Yes,12/6/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,59,10/8/2013
+176,Name_176,S0000176,286,Female,17/5/1941,144,98,Unknown,11/6/2013,A,Foot,Sesamoiditis,Yes,No,13,24/6/2013
+177,Name_177,S0000177,287,Male,7/8/1972,187,90,Yes,2/6/2013,A,Hand,Fractures,Yes,No,46,18/7/2013
+178,Name_178,S0000178,288,Male,15/2/1981,148,57,No,3/6/2013,A,Hand,Achilles tendon rupture,Yes,No,57,30/7/2013
+179,Name_179,S0000179,289,Male,27/11/1977,151,55,Unknown,13/6/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,51,3/8/2013
+180,Name_180,S0000180,290,Female,17/4/2010,164,96,Yes,17/6/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,43,30/7/2013
+181,Name_181,S0000181,291,Female,8/8/1929,165,93,No,7/6/2013,A,Hand,Ingrown toenail,Yes,No,57,3/8/2013
+182,Name_182,S0000182,292,Male,29/3/2011,190,44,No,11/6/2013,B,Hand,Ingrown toenail,Yes,No,36,17/7/2013
+183,Name_183,S0000183,293,Female,16/4/1966,163,68,Unknown,29/6/2013,B,Sports,Repetitive stress injuries,Yes,No,18,17/7/2013
+184,Name_184,S0000184,294,Male,9/6/1997,142,94,Yes,8/6/2013,B,Hand,Achilles tendon rupture,Yes,No,10,18/6/2013
+185,Name_185,S0000185,295,Female,8/7/1940,157,66,Unknown,1/6/2013,A,Hand,Achilles tendon rupture,Yes,No,29,30/6/2013
+186,Name_186,S0000186,296,Female,27/1/1942,159,88,No,13/7/2013,B,Hand,Ingrown toenail,Yes,No,26,8/8/2013
+187,Name_187,S0000187,297,Male,11/12/1931,152,92,Unknown,1/7/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,29,30/7/2013
+188,Name_188,S0000188,298,Female,9/4/1946,190,35,Yes,11/7/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,8,19/7/2013
+189,Name_189,S0000189,299,Male,22/1/1933,199,97,Yes,13/7/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,20,2/8/2013
+190,Name_190,S0000190,300,Female,29/10/1930,197,68,Yes,18/7/2013,A,Foot,Flat foot,Yes,No,29,16/8/2013
+191,Name_191,S0000191,301,Male,14/8/1989,193,92,Yes,8/7/2013,A,Foot,Sesamoiditis,Yes,No,14,22/7/2013
+192,Name_192,S0000192,302,Female,16/1/1965,145,38,No,26/7/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,26,21/8/2013
+193,Name_193,S0000193,303,Male,5/5/1998,191,99,Yes,22/7/2013,B,Trauma,Stabilisation of shoulder dislocations,Yes,No,52,12/9/2013
+194,Name_194,S0000194,304,Male,27/8/1964,157,49,Yes,8/7/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,9,17/7/2013
+195,Name_195,S0000195,305,Female,27/9/1958,180,84,Yes,29/7/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,2,31/7/2013
+196,Name_196,S0000196,306,Female,27/12/2012,157,76,Unknown,1/8/2013,A,Foot,Sesamoiditis,Yes,No,3,4/8/2013
+197,Name_197,S0000197,307,Male,15/3/1929,190,59,No,12/7/2013,B,Hand,Fractures,Yes,No,22,3/8/2013
+198,Name_198,S0000198,308,Female,7/11/1991,140,30,Yes,23/7/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,5,28/7/2013
+199,Name_199,S0000199,309,Male,4/11/1974,159,43,Unknown,8/7/2013,A,Hand,Fractures,Yes,No,19,27/7/2013
+200,Name_200,S0000200,310,Male,28/1/1956,152,66,Yes,7/7/2013,B,Foot,Sesamoiditis,Yes,No,28,4/8/2013
+201,Name_201,S0000201,311,Female,18/1/1939,195,95,No,18/7/2013,B,Trauma,Stabilisation of shoulder dislocations,Yes,No,29,16/8/2013
+202,Name_202,S0000202,312,Male,5/10/1935,188,44,Yes,10/7/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,18,28/7/2013
+203,Name_203,S0000203,313,Male,13/9/1970,187,89,No,27/7/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,56,21/9/2013
+204,Name_204,S0000204,314,Female,29/6/1928,192,35,Yes,12/7/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,13,25/7/2013
+205,Name_205,S0000205,315,Male,6/8/2011,189,74,No,7/7/2013,B,Trauma,Stabilisation of shoulder dislocations,Yes,No,12,19/7/2013
+206,Name_206,S0000206,316,Male,30/6/2009,141,66,Unknown,25/7/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,44,7/9/2013
+207,Name_207,S0000207,317,Female,20/4/1995,194,42,No,12/7/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,32,13/8/2013
+208,Name_208,S0000208,318,Female,7/5/1952,169,68,Unknown,2/7/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,27,29/7/2013
+209,Name_209,S0000209,319,Male,29/11/1941,143,71,Unknown,11/7/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,26,6/8/2013
+210,Name_210,S0000210,320,Male,25/5/1929,152,97,No,15/7/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,45,29/8/2013
+211,Name_211,S0000211,321,Male,13/7/1960,195,64,No,28/7/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,8,5/8/2013
+212,Name_212,S0000212,322,Female,8/2/1969,151,53,Unknown,16/7/2013,A,Hand,Achilles tendon rupture,Yes,No,28,13/8/2013
+213,Name_213,S0000213,323,Female,27/4/1973,158,51,No,2/7/2013,B,Hand,Fractures,Yes,No,12,14/7/2013
+214,Name_214,S0000214,324,Female,3/7/1927,199,91,Yes,16/7/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,56,10/9/2013
+215,Name_215,S0000215,325,Female,25/7/1995,194,46,Unknown,2/8/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,14,16/8/2013
+216,Name_216,S0000216,326,Male,27/12/1997,170,56,Unknown,5/8/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,13,18/8/2013
+217,Name_217,S0000217,327,Female,6/11/1967,183,84,Unknown,16/8/2013,A,Hand,Achilles tendon rupture,Yes,No,40,25/9/2013
+218,Name_218,S0000218,328,Male,8/2/1966,142,81,No,6/8/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,3,9/8/2013
+219,Name_219,S0000219,329,Female,14/8/1968,165,39,Yes,2/8/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,31,2/9/2013
+220,Name_220,S0000220,330,Male,28/6/1959,194,39,No,3/8/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,9,12/8/2013
+221,Name_221,S0000221,331,Female,8/8/1940,157,97,Yes,15/8/2013,B,Hand,Fractures,Yes,No,7,22/8/2013
+222,Name_222,S0000222,332,Female,9/2/1995,170,96,Yes,23/8/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,3,26/8/2013
+223,Name_223,S0000223,333,Female,21/7/1930,194,37,Yes,11/8/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,60,10/10/2013
+224,Name_224,S0000224,334,Female,14/2/1969,161,61,No,26/8/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,30,25/9/2013
+225,Name_225,S0000225,335,Female,30/3/1956,181,65,Yes,1/9/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,19,20/9/2013
+226,Name_226,S0000226,336,Male,12/6/1946,191,45,No,3/8/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,4,7/8/2013
+227,Name_227,S0000227,337,Male,8/7/1971,199,64,No,3/8/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,46,18/9/2013
+228,Name_228,S0000228,338,Female,24/11/1959,188,86,Yes,29/8/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,47,15/10/2013
+229,Name_229,S0000229,339,Male,25/12/1974,199,84,Unknown,28/8/2013,A,Foot,Sesamoiditis,Yes,No,38,5/10/2013
+230,Name_230,S0000230,340,Female,24/5/1943,175,41,No,27/8/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,1,28/8/2013
+231,Name_231,S0000231,341,Female,12/6/1959,179,95,No,5/8/2013,A,Sports,Repetitive stress injuries,Yes,No,27,1/9/2013
+232,Name_232,S0000232,342,Female,13/5/1997,194,96,No,14/8/2013,A,Sports,Repetitive stress injuries,Yes,No,23,6/9/2013
+233,Name_233,S0000233,343,Female,7/3/1989,169,58,Yes,10/8/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,14,24/8/2013
+234,Name_234,S0000234,344,Male,24/6/1931,170,85,Unknown,11/8/2013,B,Trauma,Stabilisation of shoulder dislocations,Yes,No,54,4/10/2013
+235,Name_235,S0000235,345,Male,31/8/2012,177,93,Unknown,25/9/2013,A,Hand,Fractures,Yes,No,60,24/11/2013
+236,Name_236,S0000236,346,Male,12/9/1997,160,64,Yes,2/9/2013,A,Hand,Achilles tendon rupture,Yes,No,24,26/9/2013
+237,Name_237,S0000237,347,Male,16/1/1994,153,76,Unknown,25/9/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,3,28/9/2013
+238,Name_238,S0000238,348,Female,23/6/1969,170,97,Unknown,23/9/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,4,27/9/2013
+239,Name_239,S0000239,349,Female,16/12/1971,174,76,Unknown,21/9/2013,B,Foot,Sesamoiditis,Yes,No,25,16/10/2013
+240,Name_240,S0000240,350,Female,20/5/2005,145,96,Unknown,16/9/2013,B,Trauma,Stabilisation of shoulder dislocations,Yes,No,2,18/9/2013
+241,Name_241,S0000241,351,Female,4/9/1985,163,85,Unknown,27/9/2013,B,Hand,Ingrown toenail,Yes,No,14,11/10/2013
+242,Name_242,S0000242,352,Female,15/2/1972,153,52,Yes,1/10/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,58,28/11/2013
+243,Name_243,S0000243,353,Male,27/6/1981,144,61,Unknown,15/9/2013,A,Hand,Achilles tendon rupture,Yes,No,25,10/10/2013
+244,Name_244,S0000244,354,Male,28/5/1959,199,70,Yes,7/9/2013,A,Hand,Achilles tendon rupture,Yes,No,12,19/9/2013
+245,Name_245,S0000245,355,Male,24/10/2010,166,65,No,20/9/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,52,11/11/2013
+246,Name_246,S0000246,356,Male,9/2/1993,151,33,Unknown,29/9/2013,A,Foot,Flat foot,Yes,No,39,7/11/2013
+247,Name_247,S0000247,357,Female,27/12/1931,157,75,Yes,22/9/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,2,24/9/2013
+248,Name_248,S0000248,358,Male,5/5/1981,174,54,No,16/9/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,45,31/10/2013
+249,Name_249,S0000249,359,Female,3/7/1981,146,99,Unknown,25/9/2013,B,Hand,Achilles tendon rupture,Yes,No,52,16/11/2013
+250,Name_250,S0000250,360,Male,18/12/1962,177,37,No,22/9/2013,A,Sports,Fractures of the hand/wrist/forearm,No,No,30,22/10/2013
+251,Name_251,S0000251,361,Female,4/6/1928,164,55,Unknown,10/9/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,39,19/10/2013
+252,Name_252,S0000252,362,Male,24/7/1927,153,48,No,6/9/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,7,13/9/2013
+253,Name_253,S0000253,363,Female,2/12/2011,173,66,Unknown,16/9/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,60,15/11/2013
+254,Name_254,S0000254,364,Female,25/9/1966,181,92,Unknown,9/10/2013,A,Foot,Sesamoiditis,Yes,No,23,1/11/2013
+255,Name_255,S0000255,365,Male,17/3/1998,156,30,Unknown,15/10/2013,A,Trauma,Treatment of muscle tears and strains,No,No,30,14/11/2013
+256,Name_256,S0000256,366,Male,7/4/1927,164,100,Yes,18/10/2013,A,Sports,Repetitive stress injuries,Yes,No,4,22/10/2013
+257,Name_257,S0000257,367,Female,9/1/1962,163,95,No,28/10/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,32,29/11/2013
+258,Name_258,S0000258,368,Female,19/9/1941,143,93,Unknown,11/10/2013,B,Hand,Ingrown toenail,Yes,No,19,30/10/2013
+259,Name_259,S0000259,369,Male,12/8/1945,146,66,Yes,1/11/2013,A,Hand,Achilles tendon rupture,Yes,No,26,27/11/2013
+260,Name_260,S0000260,370,Female,7/11/1924,170,78,Unknown,16/10/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,37,22/11/2013
+261,Name_261,S0000261,371,Female,6/12/1975,181,88,Unknown,16/10/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,11,27/10/2013
+262,Name_262,S0000262,372,Female,13/4/1965,198,83,Unknown,21/10/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,60,20/12/2013
+263,Name_263,S0000263,373,Female,27/9/1944,156,90,Yes,1/10/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,7,8/10/2013
+264,Name_264,S0000264,374,Male,28/10/2000,177,43,No,12/10/2013,B,Trauma,Treatment of muscle tears and strains,No,No,25,6/11/2013
+265,Name_265,S0000265,375,Male,10/3/1964,144,48,Yes,14/10/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,6,20/10/2013
+266,Name_266,S0000266,376,Male,13/10/1980,176,79,Unknown,19/10/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,17,5/11/2013
+267,Name_267,S0000267,377,Female,13/1/1997,159,64,Yes,1/11/2013,B,Hand,Achilles tendon rupture,Yes,No,35,6/12/2013
+268,Name_268,S0000268,378,Male,20/2/1970,142,62,Unknown,3/10/2013,B,Hand,Fractures,Yes,No,17,20/10/2013
+269,Name_269,S0000269,379,Female,31/3/1944,178,73,No,19/10/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,56,14/12/2013
+270,Name_270,S0000270,380,Male,21/11/1927,171,77,Yes,24/10/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,6,30/10/2013
+271,Name_271,S0000271,381,Female,23/10/1944,193,63,Unknown,6/10/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,34,9/11/2013
+272,Name_272,S0000272,382,Male,8/4/1981,142,47,Unknown,25/10/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,46,10/12/2013
+273,Name_273,S0000273,383,Female,6/3/1992,174,70,No,12/10/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,44,25/11/2013
+274,Name_274,S0000274,384,Male,7/6/1979,149,94,Yes,24/10/2013,B,Trauma,Stabilisation of shoulder dislocations,Yes,No,44,7/12/2013
+275,Name_275,S0000275,385,Female,4/1/1966,163,55,No,3/10/2013,B,Hand,Fractures,Yes,No,26,29/10/2013
+276,Name_276,S0000276,386,Male,30/6/1998,150,76,Yes,21/10/2013,B,Foot,Sesamoiditis,Yes,No,19,9/11/2013
+277,Name_277,S0000277,387,Female,8/4/1967,167,46,Yes,4/10/2013,B,Sports,Fractures of the hand/wrist/forearm,No,No,55,28/11/2013
+278,Name_278,S0000278,388,Male,19/10/1980,144,47,Yes,30/10/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,54,23/12/2013
+279,Name_279,S0000279,389,Male,15/7/1933,180,94,Unknown,11/10/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,22,2/11/2013
+280,Name_280,S0000280,390,Male,19/8/1961,197,89,Yes,1/11/2013,B,Foot,Sesamoiditis,Yes,No,11,12/11/2013
+281,Name_281,S0000281,391,Female,21/10/2006,187,41,Yes,8/11/2013,B,Foot,Flat foot,Yes,No,11,19/11/2013
+282,Name_282,S0000282,392,Male,18/7/1939,199,77,Yes,28/11/2013,B,Hand,Achilles tendon rupture,Yes,No,45,12/1/2014
+283,Name_283,S0000283,393,Female,20/1/1925,174,94,Yes,19/11/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,58,16/1/2014
+284,Name_284,S0000284,394,Male,5/8/1934,144,87,Unknown,1/12/2013,A,Trauma,Treatment of muscle tears and strains,No,No,22,23/12/2013
+285,Name_285,S0000285,395,Female,26/10/1964,156,40,No,20/11/2013,A,Hand,Achilles tendon rupture,Yes,No,27,17/12/2013
+286,Name_286,S0000286,396,Male,24/11/1939,177,97,Yes,29/11/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,19,18/12/2013
+287,Name_287,S0000287,397,Male,14/5/1924,186,54,Unknown,1/11/2013,B,Foot,Hammer / claw / mallet toes,Yes,No,12,13/11/2013
+288,Name_288,S0000288,398,Female,28/11/1967,178,36,Yes,9/11/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,55,3/1/2014
+289,Name_289,S0000289,399,Female,26/12/1981,197,64,Yes,18/11/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,5,23/11/2013
+290,Name_290,S0000290,400,Female,14/2/1986,163,91,No,18/11/2013,A,Foot,Sesamoiditis,Yes,No,23,11/12/2013
+291,Name_291,S0000291,401,Female,15/5/1927,185,54,Unknown,23/11/2013,B,Sports,Repetitive stress injuries,Yes,No,7,30/11/2013
+292,Name_292,S0000292,402,Female,30/4/1969,193,84,Yes,19/11/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,23,12/12/2013
+293,Name_293,S0000293,403,Male,29/9/1948,153,83,Unknown,29/11/2013,A,Sports,Repetitive stress injuries,Yes,No,45,13/1/2014
+294,Name_294,S0000294,404,Female,4/1/1939,160,96,No,19/11/2013,B,Sports,Soft tissue reconstruction of the upper and lower extremity,No,No,44,2/1/2014
+295,Name_295,S0000295,405,Male,18/3/2000,154,60,No,2/11/2013,A,Hand,Achilles tendon rupture,Yes,No,12,14/11/2013
+296,Name_296,S0000296,406,Male,10/10/1966,171,76,No,9/11/2013,A,Foot,Flat foot,Yes,No,19,28/11/2013
+297,Name_297,S0000297,407,Male,8/8/1973,168,57,No,17/11/2013,A,Sports,Repetitive stress injuries,Yes,No,3,20/11/2013
+298,Name_298,S0000298,408,Female,27/1/1996,142,34,Unknown,3/11/2013,A,Hand,Achilles tendon rupture,Yes,No,18,21/11/2013
+299,Name_299,S0000299,409,Female,3/3/2009,169,46,No,15/11/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,22,7/12/2013
+300,Name_300,S0000300,410,Male,11/11/1943,177,89,Yes,12/11/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,31,13/12/2013
+301,Name_301,S0000301,411,Male,7/7/1948,195,66,No,5/11/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,43,18/12/2013
+302,Name_302,S0000302,412,Female,25/8/1972,147,63,No,17/11/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,14,1/12/2013
+303,Name_303,S0000303,413,Female,26/4/2008,187,56,Yes,30/11/2013,B,Foot,Flat foot,Yes,No,30,30/12/2013
+304,Name_304,S0000304,414,Female,5/8/1941,175,45,No,17/11/2013,B,Hand,Fractures,Yes,No,37,24/12/2013
+305,Name_305,S0000305,415,Female,10/2/2005,148,37,Unknown,6/11/2013,B,Hand,Achilles tendon rupture,Yes,No,43,19/12/2013
+306,Name_306,S0000306,416,Female,23/5/1980,193,35,Unknown,11/11/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,42,23/12/2013
+307,Name_307,S0000307,417,Female,17/8/1960,196,51,Unknown,24/11/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,50,13/1/2014
+308,Name_308,S0000308,418,Male,31/10/1984,169,36,No,9/11/2013,B,Hand,Achilles tendon rupture,Yes,No,47,26/12/2013
+309,Name_309,S0000309,419,Female,20/2/1939,168,59,Yes,26/11/2013,B,Hand,Achilles tendon rupture,Yes,No,23,19/12/2013
+310,Name_310,S0000310,420,Male,8/4/1977,192,71,No,7/11/2013,A,Foot,Sesamoiditis,Yes,No,27,4/12/2013
+311,Name_311,S0000311,421,Male,29/8/1944,153,40,Yes,26/11/2013,B,Hand,Fractures,Yes,No,26,22/12/2013
+312,Name_312,S0000312,422,Male,19/7/2007,148,91,Yes,22/11/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,8,30/11/2013
+313,Name_313,S0000313,423,Female,16/3/1963,156,82,No,28/11/2013,B,Hand,Ingrown toenail,Yes,No,24,22/12/2013
+314,Name_314,S0000314,424,Female,13/10/1929,178,53,Yes,4/11/2013,B,Trauma,Stabilisation of shoulder dislocations,No,No,25,29/11/2013
+315,Name_315,S0000315,425,Female,13/12/1949,164,87,No,1/11/2013,B,Sports,Repetitive stress injuries,Yes,No,58,29/12/2013
+316,Name_316,S0000316,426,Female,21/6/1979,183,65,Yes,29/11/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,57,25/1/2014
+317,Name_317,S0000317,427,Male,28/9/1953,186,94,No,25/12/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,18,12/1/2014
+318,Name_318,S0000318,428,Female,24/7/1980,144,90,Yes,24/12/2013,A,Trauma,Ankle ligament reconstructions,Yes,No,5,29/12/2013
+319,Name_319,S0000319,429,Male,8/12/1985,173,68,No,28/12/2013,B,Foot,Sesamoiditis,Yes,No,29,26/1/2014
+320,Name_320,S0000320,430,Male,1/7/1992,195,65,Unknown,18/12/2013,A,Hand,Ingrown toenail,No,No,2,20/12/2013
+321,Name_321,S0000321,431,Male,25/9/1990,152,90,No,15/12/2013,B,Hand,Ingrown toenail,Yes,No,24,8/1/2014
+322,Name_322,S0000322,432,Female,24/2/1924,168,68,Unknown,21/12/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,11,1/1/2014
+323,Name_323,S0000323,433,Female,9/11/1961,179,60,No,26/12/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,59,23/2/2014
+324,Name_324,S0000324,434,Male,31/5/2008,154,44,No,13/12/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,60,11/2/2014
+325,Name_325,S0000325,435,Male,12/8/1982,182,59,Yes,27/12/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,41,6/2/2014
+326,Name_326,S0000326,436,Male,24/1/1988,185,32,Unknown,25/12/2013,A,Trauma,Stabilisation of shoulder dislocations,Yes,No,34,28/1/2014
+327,Name_327,S0000327,437,Male,24/8/1966,195,90,No,2/12/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,19,21/12/2013
+328,Name_328,S0000328,438,Female,10/9/1972,160,31,No,26/12/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,6,1/1/2014
+329,Name_329,S0000329,439,Male,21/6/2005,142,58,Yes,26/12/2013,A,Hand,Ingrown toenail,Yes,No,29,24/1/2014
+330,Name_330,S0000330,440,Male,1/7/2005,179,99,No,15/12/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,25,9/1/2014
+331,Name_331,S0000331,441,Female,28/9/1994,146,31,Yes,22/12/2013,A,Hand,Ingrown toenail,Yes,No,28,19/1/2014
+332,Name_332,S0000332,442,Male,10/2/1998,142,56,Yes,13/12/2013,A,Hand,Fractures,Yes,No,13,26/12/2013
+333,Name_333,S0000333,443,Male,31/12/1932,182,83,Yes,23/12/2013,A,Sports,Fractures of the hand/wrist/forearm,Yes,No,28,20/1/2014
+334,Name_334,S0000334,444,Male,10/3/1958,157,64,Yes,7/12/2013,A,Hand,Fractures,Yes,No,21,28/12/2013
+335,Name_335,S0000335,445,Female,1/2/1996,189,80,Yes,20/12/2013,B,Hand,Fractures,Yes,No,39,28/1/2014
+336,Name_336,S0000336,446,Male,9/12/1999,158,55,Unknown,25/12/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,53,16/2/2014
+337,Name_337,S0000337,447,Female,18/7/1992,190,94,Unknown,24/12/2013,A,Trauma,Treatment of muscle tears and strains,Yes,No,30,23/1/2014
+338,Name_338,S0000338,448,Male,19/5/1955,199,71,Yes,15/12/2013,B,Trauma,Treatment of muscle tears and strains,Yes,No,24,8/1/2014
+339,Name_339,S0000339,449,Male,26/12/1948,156,95,No,14/12/2013,A,Hand,Ingrown toenail,Yes,No,40,23/1/2014
+340,Name_340,S0000340,450,Male,3/4/2008,186,53,Yes,14/12/2013,A,Sports,Soft tissue reconstruction of the upper and lower extremity,Yes,No,53,5/2/2014
+341,Name_341,S0000341,451,Male,17/9/1999,199,97,Unknown,27/12/2013,A,Hand,Ingrown toenail,Yes,No,1,28/12/2013
+342,Name_342,S0000342,452,Male,20/11/1955,171,49,No,21/12/2013,A,Hand,Achilles tendon rupture,No,No,14,4/1/2014
+343,Name_343,S0000343,453,Female,1/12/1968,198,36,Yes,3/12/2013,A,Foot,Hammer / claw / mallet toes,Yes,No,6,9/12/2013
+344,Name_344,S0000344,454,Female,2/4/1970,140,35,Unknown,12/12/2013,A,Hand,Achilles tendon rupture,Yes,No,1,13/12/2013

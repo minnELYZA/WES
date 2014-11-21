@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js flexbox canvas canvastext webgl touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>PSS</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <!-- CSS concatenated and minified via ant build script-->
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- end CSS-->
+    <script src="./vis_files/ga.js"></script>
+    <script src="./vis_files/modernizr-2.0.6.min.js"></script>
+</head>
+<body>
+    <div class='widecontainer'>
+        <header>
+            <h1>WES - PSS</h1>
+        </header>
+        <div id='vis'>
+        </div>      
+        <div id='left-sidebar'>
+
+            <div id='left-sidebar-toggle-div'>
+                <a id='left-sidebar-toggle' href='#'>show/hide</a>
+            </div>
+            <div id='left-sidebar-container'>
+                <h2>Group by:</h2>
+                <div>
+                    <select id='group-everything-by' >
+                        <option value=''></option>
+                    </select>
+                </div>
+                <h2>Colour:</h2>
+                <div>
+                    <select id='color-everything-by'>
+                        <option value=''></option>
+                    </select>
+                </div>
+                <div id='clear_filters'>
+                    <a href='#'>(clear)</a>
+                </div>
+                <h2>Filters:</h2>
+                <div id="filter-list">
+                </div>
+            </div>
+        </div>
+
+
+        <footer>
+        </footer>
+    </div>
+    <!--! end of #container -->
+    <script>        window.jQuery || document.write('<script src="./vis_files/jquery-1.6.2.min.js"><\/script>')</script>
+    <script src="./vis_files/jquery-1.6.2.min.js"></script>
+    <script defer="" src="./vis_files/plugins.js"></script>
+    <script defer="" src="./vis_files/script.js"></script>
+    <script src="./vis_files/CustomTooltip.js"></script>
+    <script src="./vis_files/coffee-script.js"></script>
+    <script src="./vis_files/d3.min.js"></script>
+    <script src="./vis_files/d3.csv.min.js"></script>
+    <script src="./vis_files/d3.layout.min.js"></script>
+    <script src="./vis_files/d3.geom.min.js"></script>
+    <script type="text/coffeescript" src="./vis_files/vis.coffee.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            var controlsVisible = true;
+            $('#left-sidebar-toggle').click(function() {
+                controlsVisible = ! controlsVisible;
+                if (controlsVisible) 
+                    $('#left-sidebar-container').slideDown('fast');
+                else 
+                    $('#left-sidebar-container').slideUp('fast');
+            });
+        });
+        $(function() {
+            var controlsVisible = true;
+            $('#right-sidebar-toggle').click(function() {
+                controlsVisible = ! controlsVisible;
+                if (controlsVisible) 
+                    $('#right-sidebar-container').slideDown('fast');
+                else 
+                    $('#right-sidebar-container').slideUp('fast');
+            });
+        });
+        var initialise_form = function (selectionOptions) {
+
+            var GetDiscreteFilters = function () {
+                var filters = [];
+                $('.filter_block').each(function (index, element) {
+                    var target = $(this).attr('data-target');
+                    var removeValues = {};
+                    $(this).find('input:not(:checked)').each(function (innerIndex, innerElement) {
+                        removeValues[$(this).val()] = true;
+                    });
+                    var toAdd = {
+                        target: target,
+                        removeValues: removeValues
+                    };
+                    filters.push(toAdd);
+                });
+                return filters;
+            };
+            var ResetFilters = function () {
+                var filters = {
+                    discrete: GetDiscreteFilters(),
+                    numeric: [] // numeric not done yet!
+                };
+                console.log(filters);
+                use_filters(filters);
+            };
+
+            var groupSelect = $('#group-everything-by');
+            for (var opt in selectionOptions) {
+                var lookup = selectionOptions[opt];
+                groupSelect.append('<option value="' + lookup.key + '">' + lookup.title + '</option>');
+            }
+            var ResetGrouping = function () {
+                var groupBy = groupSelect.val();
+                console.log(groupBy);
+                group_by(groupBy);
+            };
+
+            groupSelect.change(ResetGrouping);
+
+            var colorSelect = $('#color-everything-by');
+            for (var opt in selectionOptions) {
+                var lookup = selectionOptions[opt];
+                colorSelect.append('<option value="' + lookup.key + '">' + lookup.title + '</option>');
+            }
+            var ResetColors = function () {
+                var colorBy = colorSelect.val();
+                console.log(colorBy);
+                color_by(colorBy);
+            };
+
+            $('#clear_filters').click(function () {
+                $('.filter_block input').attr('checked', 'checked');
+                ResetFilters();
+            });
+            colorSelect.change(ResetColors);
+
+            $('.filter_block input').change(function () { ResetFilters(); });
+
+            $('#left-sidebar').fadeIn(2000);
+        };
+
+        function get_distinct_values(csv, keyType, key) {
+            var allValues = {};
+            for (var i in csv) {
+                var value = csv[i][key];
+                allValues[value] = true;
+            }
+
+            var allValuesArray = [];
+            for (var i in allValues)
+                allValuesArray.push(i);
+
+            if (keyType == 'Month')
+                allValuesArray.sort(function (a, b) { return Number(a) - Number(b); });
+            else if (keyType == "Day")
+                allValuesArray.sort(function (a, b) { return Number(a) - Number(b); });
+            else if (keyType == 'Year')
+                allValuesArray.sort(function (a, b) { return Number(a) - Number(b); });
+            else
+                allValuesArray.sort();
+            return allValuesArray
+        }
+
+        function keyToLookup(key) {
+            var firstPartEnds = key.indexOf(':');
+            
+            if (firstPartEnds <= 0)
+                return { key: key, type: key, title: key };
+
+            var firstPart = key.substring(0, firstPartEnds);
+            var secondPart = key.substring(firstPartEnds + 1);
+            console.log(firstPartEnds);
+            console.log(secondPart);
+            return { key: key, type: firstPart, title: secondPart };
+        }
+        function render_filters_colors_and_groups(csv) {
+            var first = csv[0];
+            var lookups = [];
+            for (var key in first) {
+                var lookup = keyToLookup(key);
+                switch (lookup.type) {
+                    case "Lookup":
+                    case "Grade":
+                    case "Month":
+                        lookups.push(lookup);
+                        break;
+                    default:
+                        break;
+                }
+            }
+
+            var filterList = $('#filter-list');
+            for (var i in lookups) {
+                var lookup = lookups[i];
+                var values = get_distinct_values(csv, lookup.type, lookup.key);
+                var item = $('<div class="filter_block" data-target="' + lookup.key + '"><h3 class="filter_title">' + lookup.title + '</h3></div>');
+                for (var j in values) {
+                    var checkbox = $('<div class="sub-filter-block"><input type="checkbox" checked="checked" value="' + values[j] + '"/> ' + values[j] + '</div>');
+                    checkbox.appendTo(item);
+                }
+                item.appendTo(filterList);
+            }
+
+            initialise_form(lookups);
+        }
+
+        function hide_color_chart() {
+            var right = $('#right-sidebar');
+            var rightContainer = $('#right-sidebar-container');
+            right.fadeOut(500, function () {
+                rightContainer.empty();
+            });
+        }
+        function show_color_chart(what_to_color_by, color_mapper) {
+            var right = $('#right-sidebar');
+            rightContainer = $('#right-sidebar-container');
+            right.fadeOut(500, function () {
+                rightContainer.empty();
+
+                var lookup = keyToLookup(what_to_color_by);
+                $('<h3>' + lookup.title + '</h3>').appendTo(rightContainer);
+
+                var table = $('<table />');
+                for (var key in color_mapper) {
+                    var row = $('<tr/>');
+
+                    var cell = $('<td/>');
+                    var square = $('<div style="width: 20px; height: 20x; background: ' + color_mapper[key] + ';">&nbsp;</div>');
+                    square.appendTo(cell);
+                    cell.appendTo(row);
+
+                    cell = $('<td/>');
+                    cell.text(' ' + key + ' ');
+                    cell.appendTo(row);
+                    row.appendTo(table);
+                }
+
+                table.appendTo(rightContainer);
+                right.fadeIn(500);
+            });
+        }
+  </script>
+</body>
+</html>
