@@ -1,16 +1,16 @@
 class BubbleChart
   constructor: (data) ->
     @data = data
-    @width = 1500
+    @width = 1000
     @height = 900
-    @default_radius = 10
+    @default_radius = 5
 
     @tooltip = CustomTooltip("my_tooltip", 240)
 
     # locations the nodes will move towards
     # depending on which view is currently being
     # used
-    @center = {x: @width / 2, y: @height / 2}
+    @center = {x: @width / 2, y: @height / 3}
 
     # used when setting up force and
     # moving around nodes
@@ -60,7 +60,7 @@ class BubbleChart
     # radius will be set to 0 initially.
     # see transition below
     @circles.enter().append("circle")
-      .attr("r", 100)
+      .attr("r", 50)
       .style("fill", (d) => '#cfcfcf')
       .attr("stroke-width", 2)
       .attr("stroke", (d) => '#404040')
@@ -119,6 +119,7 @@ class BubbleChart
   get_color_map_month: (allValuesArray) =>
     color_map = {}
     for value in allValuesArray
+      console.log(allValuesArray)
       if value = 1
         color_map[value] = '#ff0000'
       else if value = 2
@@ -160,15 +161,12 @@ class BubbleChart
   get_type_from_key_name: (keyName) =>
     if /^Month/.test(keyName)
       return "Month" 
-    if /^Grade/.test(keyName)
-      return "Grade" 
     return "Other"
 
   get_color_map: (keyName, allValuesArray) =>
     key_type = @get_type_from_key_name(keyName)
     switch key_type 
         when "Month" then return @get_color_map_lookup_set(allValuesArray) 
-        when "Grade" then return @get_color_map_lookup_set(allValuesArray)
         else return @get_color_map_lookup_set(allValuesArray)
 
   sort: (keyName, allValuesArray) =>
@@ -208,8 +206,8 @@ class BubbleChart
     position = 2
     total_slots = allValuesArray.length + 4
     allValuesArray.forEach (i) => 
-      x_position = @width * position / total_slots
-      @group_centers[i] = { x: x_position, y : @height /2 }
+      x_position = @width * position / (total_slots - 1)
+      @group_centers[i] = { x: x_position, y : @height /5 }
       @group_labels[i] = x_position
       position = position + 1
 
@@ -228,9 +226,10 @@ class BubbleChart
   move_towards_group_center: (alpha) =>
     (d) =>
       value = d.original[@what_to_group_by]
+      console.log(@what_to_group_by)
       target = @group_centers[value]
-      d.x = d.x + (target.x - d.x) * (@damper + 0.02) * alpha * 1.1
-      d.y = d.y + (target.y - d.y) * (@damper + 0.02) * alpha * 1.1
+      d.x = d.x + (target.x - d.x) * (@damper + 0.05) * alpha * 1.5
+      d.y = d.y + (target.y - d.y) * (@damper + 0.05) * alpha * 1.5
     
 
   # sets the display of bubbles to be separated
@@ -262,7 +261,7 @@ class BubbleChart
     labels.enter().append("text")
       .attr("class", "top_labels")
       .attr("x", (d) => @group_labels[d] )
-      .attr("y", 40)
+      .attr("y", 50)
       .attr("text-anchor", "start")
       .text((d) -> d)
 

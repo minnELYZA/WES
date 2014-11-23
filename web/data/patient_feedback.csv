@@ -1,376 +1,376 @@
 Name,Lookup:Clinic,Lookup:Subspecialty,Lookup:Feedback Type,Day,Month,Year,Date,Comment
-Patient 1,A,Sports,Complain,2,1,2013,2/1/2013,Registration Receptionist Long No
-Patient 2,B,Sports,Complain,23,1,2013,23/1/2013,Cleanliness Slow Dirty Slow No Disrespect
-Patient 3,A,Trauma,Complain,13,1,2013,13/1/2013,Reschedule Disrespect
-Patient 4,B,Sports,Compliment,9,1,2013,9/1/2013,Facilities Facilities Brightness Brightness Ward Short Clean Clean
-Patient 5,A,Hand,Complain,24,1,2013,24/1/2013,Ward Bed Bad No
-Patient 6,A,Trauma,Compliment,6,1,2013,6/1/2013,Queue Receptionist Clean
-Patient 7,B,Foot,Compliment,9,1,2013,9/1/2013,Bed Bed Facilities Ward Brightness Clean Good Patient Good Helpful Short
-Patient 8,A,Foot,Complain,21,1,2013,21/1/2013,Concern Operation Procedure Operation Nurse Bad Disrespect Bad Slow Dirty
-Patient 9,A,Trauma,Compliment,7,1,2013,7/1/2013,Doctor Care Short Fast Fast Good
-Patient 10,B,Trauma,Compliment,8,1,2013,8/1/2013,Doctor Patient Good Short Fast Short Clean
-Patient 11,A,Hand,Complain,22,1,2013,22/1/2013,Doctor Doctor Concern Nurse Procedure Procedure Slow Disrespect Long
-Patient 12,A,Foot,Complain,16,1,2013,16/1/2013,Care No Dirty Slow Long Bad
-Patient 13,B,Sports,Compliment,7,1,2013,7/1/2013,Procedure Care Concern Nurse Doctor Concern Patient Fast Helpful Helpful Clean Good
-Patient 14,A,Foot,Compliment,5,1,2013,5/1/2013,Ward Brightness Ward Brightness Facilities Brightness Good Short
-Patient 15,A,Hand,Complain,28,1,2013,28/1/2013,Receptionist Receptionist Registration Receptionist Disrespect Slow Bad Dirty Dirty Disrespect
-Patient 16,A,Sports,Compliment,29,1,2013,29/1/2013,Direction Visiting Clean Short Short
-Patient 17,B,Trauma,Compliment,19,1,2013,19/1/2013,Visiting Registration Queue Receptionist Visiting Short Short Short Patient Clean Fast
-Patient 18,A,Sports,Complain,15,2,2013,15/2/2013,Cancellation Venue Appointment Check-up Booking Venue Bad
-Patient 19,A,Sports,Compliment,1,3,2013,1/3/2013,Visiting Hours Visiting Hours Short Short Clean Patient Good
-Patient 20,A,Sports,Complain,26,2,2013,26/2/2013,Nurse Care Slow No Disrespect
-Patient 21,A,Foot,Complain,18,2,2013,18/2/2013,Care Operation Operation Bad No Long No
-Patient 22,B,Hand,Complain,24,2,2013,24/2/2013,Care Nurse Nurse Procedure Concern Care Disrespect Dirty Dirty
-Patient 23,B,Foot,Compliment,1,3,2013,1/3/2013,Appointment Check-up Check-up Reschedule Reschedule Patient Good Patient
-Patient 24,A,Sports,Complain,6,2,2013,6/2/2013,Ward Ward Room Facilities Bad Disrespect Long Dirty
-Patient 25,A,Sports,Complain,18,2,2013,18/2/2013,Cleanliness Bad Dirty No No
-Patient 26,A,Sports,Complain,23,2,2013,23/2/2013,Bed Room Ward Brightness Facilities Bed No No Dirty Long
-Patient 27,A,Trauma,Compliment,22,2,2013,22/2/2013,Direction Receptionist Receptionist Queue Receptionist Receptionist Clean
-Patient 28,B,Foot,Complain,17,2,2013,17/2/2013,Operation Dirty No Slow Dirty Bad
-Patient 29,B,Trauma,Complain,1,2,2013,1/2/2013,Doctor Concern Care Concern Operation Dirty Bad Dirty
-Patient 30,A,Foot,Compliment,25,2,2013,25/2/2013,Booking Booking Cancellation Check-up Short Clean Short
-Patient 31,A,Hand,Complain,22,2,2013,22/2/2013,Appointment Long Long Long
-Patient 32,B,Sports,Complain,9,3,2013,9/3/2013,Reschedule Long Bad Disrespect Long
-Patient 33,B,Foot,Complain,7,3,2013,7/3/2013,Direction Dirty Bad Long Bad Long
-Patient 34,B,Sports,Complain,17,3,2013,17/3/2013,Facilities Ward Brightness Cleanliness Bed Ward No
-Patient 35,A,Trauma,Complain,11,3,2013,11/3/2013,Receptionist Direction Registration Bad No No Long
-Patient 36,A,Foot,Complain,22,3,2013,22/3/2013,Direction Hours Queue Registration Receptionist Queue Long
-Patient 37,B,Trauma,Compliment,23,3,2013,23/3/2013,Hours Direction Hours Registration Queue Fast Short Patient
-Patient 38,A,Sports,Compliment,1,3,2013,1/3/2013,Booking Check-up Reschedule Booking Booking Venue Short Short
-Patient 39,B,Sports,Compliment,1,3,2013,1/3/2013,Venue Cancellation Venue Fast Patient Helpful
-Patient 40,B,Hand,Compliment,5,3,2013,5/3/2013,Procedure Concern Good Short Clean Helpful Short
-Patient 41,B,Trauma,Compliment,6,3,2013,6/3/2013,Receptionist Hours Visiting Registration Direction Receptionist Helpful Fast Fast Helpful Helpful
-Patient 42,B,Sports,Compliment,21,3,2013,21/3/2013,Facilities Short Patient Helpful Helpful
-Patient 43,A,Hand,Compliment,7,3,2013,7/3/2013,Room Short Patient Fast Fast Patient
-Patient 44,B,Foot,Complain,1,4,2013,1/4/2013,Venue Reschedule Reschedule Bad
-Patient 45,A,Trauma,Compliment,29,3,2013,29/3/2013,Queue Direction Hours Receptionist Short
-Patient 46,B,Sports,Compliment,20,3,2013,20/3/2013,Facilities Cleanliness Cleanliness Patient Short
-Patient 47,B,Foot,Compliment,31,3,2013,31/3/2013,Operation Nurse Doctor Patient Short Short
-Patient 48,A,Hand,Complain,21,3,2013,21/3/2013,Concern Doctor Bad Slow Bad No No Disrespect
-Patient 49,B,Sports,Compliment,1,3,2013,1/3/2013,Queue Patient Patient Clean
-Patient 50,B,Foot,Complain,16,3,2013,16/3/2013,Visiting Receptionist Long
-Patient 51,B,Sports,Complain,7,3,2013,7/3/2013,Reschedule Reschedule Reschedule Venue Cancellation Disrespect Disrespect Bad Slow
-Patient 52,A,Sports,Compliment,1,5,2013,1/5/2013,Doctor Operation Procedure Procedure Nurse Care Short Helpful
-Patient 53,B,Trauma,Compliment,1,5,2013,1/5/2013,Booking Helpful Short Patient
-Patient 54,A,Sports,Compliment,18,4,2013,18/4/2013,Queue Receptionist Good Helpful
-Patient 55,A,Foot,Compliment,10,4,2013,10/4/2013,Procedure Clean Clean
-Patient 56,B,Foot,Compliment,10,4,2013,10/4/2013,Concern Clean Patient
-Patient 57,B,Sports,Compliment,21,4,2013,21/4/2013,Appointment Reschedule Venue Booking Fast
-Patient 58,B,Sports,Compliment,8,4,2013,8/4/2013,Receptionist Queue Receptionist Queue Short Good
-Patient 59,A,Trauma,Complain,16,4,2013,16/4/2013,Nurse Slow Dirty Slow Dirty Dirty No
-Patient 60,A,Foot,Complain,19,4,2013,19/4/2013,Doctor Nurse Concern Nurse Concern Care No Long Dirty
-Patient 61,B,Hand,Complain,2,4,2013,2/4/2013,Venue Reschedule Venue Check-up Disrespect Long Dirty Slow Dirty
-Patient 62,A,Hand,Complain,29,4,2013,29/4/2013,Ward Disrespect
-Patient 63,B,Foot,Complain,9,4,2013,9/4/2013,Booking Slow Disrespect Bad Slow Dirty
-Patient 64,A,Trauma,Complain,16,4,2013,16/4/2013,Receptionist Registration Registration Registration Visiting Long Disrespect Dirty Bad
-Patient 65,B,Sports,Complain,29,4,2013,29/4/2013,Concern Slow Dirty Disrespect Slow Slow
-Patient 66,B,Hand,Complain,12,4,2013,12/4/2013,Procedure Doctor Doctor Care Doctor Procedure Dirty No
-Patient 67,A,Sports,Complain,18,4,2013,18/4/2013,Venue Reschedule Appointment Dirty Bad Bad Dirty Disrespect
-Patient 68,B,Foot,Compliment,21,4,2013,21/4/2013,Hours Clean Good Fast Fast Short Short
-Patient 69,B,Foot,Complain,23,4,2013,23/4/2013,Hours Hours Visiting Hours Visiting Hours Slow Long Dirty Bad
-Patient 70,B,Sports,Compliment,4,4,2013,4/4/2013,Ward Helpful
-Patient 71,B,Foot,Complain,20,4,2013,20/4/2013,Visiting Hours Hours Visiting Long No Disrespect No
-Patient 72,A,Sports,Complain,8,4,2013,8/4/2013,Operation Nurse Doctor Bad Dirty
-Patient 73,B,Sports,Compliment,7,4,2013,7/4/2013,Room Facilities Facilities Brightness Facilities Room Short Fast Clean Patient
-Patient 74,A,Sports,Compliment,6,4,2013,6/4/2013,Venue Cancellation Reschedule Venue Check-up Short Short Good Clean Fast Clean
-Patient 75,B,Hand,Compliment,21,4,2013,21/4/2013,Concern Procedure Helpful Clean Patient Good Short
-Patient 76,A,Foot,Compliment,7,4,2013,7/4/2013,Facilities Facilities Brightness Patient Short
-Patient 77,B,Foot,Complain,29,4,2013,29/4/2013,Brightness Slow Slow Bad Long
-Patient 78,B,Trauma,Compliment,26,4,2013,26/4/2013,Operation Fast Clean Patient
-Patient 79,B,Hand,Compliment,13,4,2013,13/4/2013,Venue Venue Fast
-Patient 80,B,Sports,Complain,13,4,2013,13/4/2013,Bed Ward Bed Facilities Long Dirty Slow Long Disrespect
-Patient 81,A,Sports,Compliment,31,5,2013,31/5/2013,Cancellation Venue Appointment Clean Short
-Patient 82,B,Sports,Compliment,3,5,2013,3/5/2013,Visiting Visiting Registration Queue Short Clean Clean
-Patient 83,B,Trauma,Complain,31,5,2013,31/5/2013,Check-up Appointment Reschedule Venue Venue Check-up Disrespect Bad Dirty Dirty Bad
-Patient 84,B,Sports,Complain,7,5,2013,7/5/2013,Reschedule Booking Venue Booking Slow Disrespect Bad Dirty Disrespect Dirty
-Patient 85,B,Sports,Complain,11,5,2013,11/5/2013,Registration Direction Direction Registration Visiting Queue No Long No No Slow Long
-Patient 86,B,Trauma,Compliment,20,5,2013,20/5/2013,Room Brightness Brightness Cleanliness Cleanliness Room Clean Fast Patient Patient Helpful Patient
-Patient 87,B,Sports,Compliment,6,5,2013,6/5/2013,Concern Care Nurse Care Procedure Good Short Helpful
-Patient 88,A,Hand,Complain,17,5,2013,17/5/2013,Queue Receptionist Hours Receptionist Hours Queue Slow Bad Long Disrespect
-Patient 89,A,Trauma,Compliment,4,5,2013,4/5/2013,Brightness Cleanliness Cleanliness Brightness Fast Short
-Patient 90,A,Foot,Compliment,6,5,2013,6/5/2013,Direction Visiting Direction Hours Receptionist Helpful Helpful Fast Fast Good
-Patient 91,A,Hand,Complain,22,5,2013,22/5/2013,Direction No Slow Disrespect
-Patient 92,B,Trauma,Complain,11,5,2013,11/5/2013,Operation Slow Disrespect Long Slow Dirty
-Patient 93,A,Hand,Complain,9,5,2013,9/5/2013,Ward Bed Cleanliness Long Slow Dirty Long
-Patient 94,A,Trauma,Complain,4,6,2013,4/6/2013,Procedure Care No Disrespect Disrespect No
-Patient 95,A,Foot,Compliment,26,6,2013,26/6/2013,Queue Direction Hours Hours Good Short Short Short Patient
-Patient 96,A,Trauma,Compliment,16,6,2013,16/6/2013,Operation Nurse Procedure Nurse Doctor Patient Good
-Patient 97,A,Trauma,Compliment,13,6,2013,13/6/2013,Brightness Cleanliness Room Bed Bed Clean Helpful Fast Helpful
-Patient 98,A,Trauma,Complain,15,6,2013,15/6/2013,Venue Dirty Dirty Long Disrespect
-Patient 99,B,Trauma,Compliment,30,6,2013,30/6/2013,Operation Patient Clean Helpful
-Patient 100,B,Foot,Complain,23,6,2013,23/6/2013,Queue Registration Hours Queue Direction Bad Slow Long
-Patient 101,B,Trauma,Compliment,24,6,2013,24/6/2013,Room Brightness Ward Facilities Fast Fast Clean Fast
-Patient 102,B,Hand,Complain,26,6,2013,26/6/2013,Concern Operation Care Concern Nurse Doctor No Dirty Dirty
-Patient 103,B,Trauma,Compliment,11,6,2013,11/6/2013,Ward Brightness Fast Good Good Short Fast
-Patient 104,A,Sports,Complain,13,6,2013,13/6/2013,Procedure Nurse Concern Operation Bad Disrespect Dirty
-Patient 105,B,Sports,Complain,20,6,2013,20/6/2013,Check-up Reschedule Disrespect No Slow Bad Slow Dirty
-Patient 106,B,Trauma,Complain,5,6,2013,5/6/2013,Care Procedure Doctor Bad
-Patient 107,B,Sports,Complain,25,6,2013,25/6/2013,Nurse Doctor Procedure Doctor Procedure Procedure Slow Bad Slow Dirty No Long
-Patient 108,B,Foot,Compliment,1,7,2013,1/7/2013,Concern Nurse Care Nurse Operation Good Patient Good Clean Patient
-Patient 109,A,Sports,Complain,25,6,2013,25/6/2013,Direction Hours Bad Dirty No No No
-Patient 110,B,Sports,Compliment,2,6,2013,2/6/2013,Queue Hours Direction Receptionist Hours Registration Good Clean Fast Good Helpful Good
-Patient 111,A,Foot,Complain,27,6,2013,27/6/2013,Room Ward Room Cleanliness Cleanliness No No Long No
-Patient 112,B,Trauma,Compliment,8,7,2013,8/7/2013,Queue Registration Direction Receptionist Registration Visiting Clean Good Patient Short
-Patient 113,B,Sports,Complain,29,7,2013,29/7/2013,Concern Nurse Doctor Operation Procedure Disrespect Disrespect Disrespect Long
-Patient 114,B,Hand,Complain,29,7,2013,29/7/2013,Brightness No Long Disrespect Long
-Patient 115,A,Sports,Complain,25,7,2013,25/7/2013,Bed Cleanliness No No Disrespect Dirty
-Patient 116,A,Sports,Compliment,29,7,2013,29/7/2013,Check-up Cancellation Check-up Patient Fast Patient
-Patient 117,B,Foot,Compliment,20,7,2013,20/7/2013,Bed Facilities Cleanliness Bed Clean Fast Clean Patient
-Patient 118,B,Hand,Complain,6,7,2013,6/7/2013,Appointment Booking Cancellation No Dirty Long No Long No
-Patient 119,B,Sports,Complain,11,7,2013,11/7/2013,Venue Check-up Booking Venue Booking Disrespect No No Dirty
-Patient 120,B,Trauma,Complain,25,7,2013,25/7/2013,Queue Registration Direction No Slow Slow
-Patient 121,B,Foot,Complain,26,7,2013,26/7/2013,Appointment Slow Long Bad Bad
-Patient 122,B,Foot,Compliment,25,7,2013,25/7/2013,Check-up Check-up Venue Appointment Fast Helpful Good Clean Fast Patient
-Patient 123,A,Sports,Complain,16,7,2013,16/7/2013,Direction Queue Direction Receptionist Direction No Dirty
-Patient 124,A,Foot,Complain,19,8,2013,19/8/2013,Check-up Reschedule Booking Disrespect Disrespect Long Dirty
-Patient 125,B,Trauma,Complain,5,8,2013,5/8/2013,Visiting Registration Direction Queue Hours Hours Bad Slow Dirty Bad Disrespect
-Patient 126,B,Trauma,Complain,25,8,2013,25/8/2013,Receptionist Long Bad Bad Bad No
-Patient 127,A,Trauma,Compliment,25,8,2013,25/8/2013,Brightness Room Brightness Cleanliness Cleanliness Brightness Fast Fast Fast Good Short
-Patient 128,B,Hand,Complain,28,8,2013,28/8/2013,Visiting Long Long Dirty Disrespect Disrespect Long
-Patient 129,B,Foot,Complain,3,8,2013,3/8/2013,Check-up Check-up Appointment Dirty Bad No Dirty
-Patient 130,A,Hand,Compliment,14,8,2013,14/8/2013,Operation Nurse Nurse Good Good Clean
-Patient 131,B,Foot,Complain,6,8,2013,6/8/2013,Room Cleanliness Cleanliness Long Dirty Dirty
-Patient 132,B,Trauma,Complain,8,8,2013,8/8/2013,Venue Venue Reschedule Booking Appointment Booking Dirty Long Disrespect Slow Long Long
-Patient 133,B,Sports,Complain,1,8,2013,1/8/2013,Visiting Queue Visiting Receptionist Dirty No Dirty Slow Disrespect Dirty
-Patient 134,A,Trauma,Complain,10,8,2013,10/8/2013,Cancellation Long Disrespect Dirty Dirty No
-Patient 135,B,Foot,Compliment,15,8,2013,15/8/2013,Operation Care Operation Concern Good Short Clean Short
-Patient 136,B,Hand,Complain,4,8,2013,4/8/2013,Venue Venue Booking No
-Patient 137,A,Trauma,Complain,16,8,2013,16/8/2013,Receptionist Visiting Registration Visiting Direction No No Slow Slow
-Patient 138,B,Hand,Compliment,24,8,2013,24/8/2013,Direction Receptionist Visiting Clean Short
-Patient 139,A,Trauma,Complain,28,8,2013,28/8/2013,Booking Reschedule Booking Venue Appointment Check-up Disrespect Disrespect
-Patient 140,A,Trauma,Complain,29,8,2013,29/8/2013,Direction Visiting Disrespect Disrespect Disrespect Bad
-Patient 141,A,Hand,Complain,17,8,2013,17/8/2013,Procedure Concern Disrespect Slow No Dirty Dirty
-Patient 142,A,Hand,Compliment,14,8,2013,14/8/2013,Ward Room Fast Helpful Helpful
-Patient 143,B,Sports,Complain,18,9,2013,18/9/2013,Visiting Direction Hours Registration Visiting Disrespect Bad Dirty Slow
-Patient 144,B,Trauma,Compliment,1,9,2013,1/9/2013,Operation Helpful
-Patient 145,A,Hand,Compliment,25,9,2013,25/9/2013,Venue Cancellation Reschedule Cancellation Cancellation Patient Short Helpful Good
-Patient 146,B,Trauma,Compliment,7,9,2013,7/9/2013,Ward Bed Bed Patient
-Patient 147,A,Foot,Complain,3,9,2013,3/9/2013,Ward Bed Room Room Cleanliness Cleanliness Dirty Long Disrespect
-Patient 148,A,Trauma,Compliment,17,9,2013,17/9/2013,Brightness Fast Clean Patient Clean Clean
-Patient 149,A,Sports,Complain,23,9,2013,23/9/2013,Concern Operation Care Bad Slow Dirty Slow
-Patient 150,B,Sports,Complain,28,9,2013,28/9/2013,Visiting Queue Visiting Direction No Bad No Disrespect No
-Patient 151,A,Foot,Compliment,17,9,2013,17/9/2013,Reschedule Patient Short Good Patient
-Patient 152,B,Trauma,Compliment,20,9,2013,20/9/2013,Venue Reschedule Check-up Venue Cancellation Fast Short Good Good Good Patient
-Patient 153,A,Foot,Compliment,22,9,2013,22/9/2013,Care Operation Care Doctor Operation Fast Good
-Patient 154,A,Trauma,Complain,20,9,2013,20/9/2013,Cleanliness Facilities Brightness Slow Slow
-Patient 155,A,Hand,Complain,2,9,2013,2/9/2013,Appointment Long Slow Bad No
-Patient 156,B,Trauma,Compliment,1,10,2013,1/10/2013,Receptionist Good Good Patient
-Patient 157,A,Hand,Complain,12,9,2013,12/9/2013,Procedure Slow Dirty Slow Disrespect Long Disrespect
-Patient 158,B,Trauma,Complain,7,9,2013,7/9/2013,Cancellation Venue Booking Disrespect Disrespect No No Long
-Patient 159,A,Hand,Complain,1,9,2013,1/9/2013,Appointment Booking Booking Long
-Patient 160,B,Hand,Complain,21,9,2013,21/9/2013,Check-up Check-up Booking Appointment Venue Disrespect Dirty Disrespect Bad Bad
-Patient 161,B,Sports,Complain,14,9,2013,14/9/2013,Cleanliness Room Facilities Facilities Brightness Slow Disrespect
-Patient 162,A,Sports,Compliment,23,9,2013,23/9/2013,Room Room Facilities Room Helpful Patient Fast Short Fast
-Patient 163,B,Trauma,Complain,26,9,2013,26/9/2013,Queue Receptionist Receptionist Visiting Registration Direction Disrespect Dirty No
-Patient 164,B,Trauma,Complain,30,9,2013,30/9/2013,Doctor Doctor Doctor Operation Care Care Bad Bad No Bad
-Patient 165,A,Sports,Compliment,10,9,2013,10/9/2013,Direction Good Patient Patient
-Patient 166,A,Hand,Complain,5,9,2013,5/9/2013,Appointment Venue Check-up Long No Long Bad Long
-Patient 167,B,Sports,Complain,18,9,2013,18/9/2013,Bed Cleanliness Bed Room Long Dirty
-Patient 168,A,Trauma,Complain,1,9,2013,1/9/2013,Brightness Slow Bad Slow
-Patient 169,A,Trauma,Compliment,10,9,2013,10/9/2013,Procedure Nurse Nurse Doctor Nurse Procedure Patient Fast
-Patient 170,B,Hand,Complain,22,9,2013,22/9/2013,Nurse Procedure Concern Operation Doctor Procedure Dirty Slow Bad Dirty Slow
-Patient 171,B,Hand,Complain,13,9,2013,13/9/2013,Receptionist Hours Dirty Bad Disrespect Disrespect Slow
-Patient 172,B,Foot,Compliment,24,9,2013,24/9/2013,Ward Brightness Cleanliness Short
-Patient 173,A,Trauma,Complain,6,10,2013,6/10/2013,Reschedule Reschedule Appointment Booking Booking Cancellation Long No
-Patient 174,B,Trauma,Compliment,19,10,2013,19/10/2013,Facilities Facilities Brightness Patient Patient Clean Patient
-Patient 175,B,Hand,Complain,2,10,2013,2/10/2013,Direction Visiting Queue Long
-Patient 176,B,Sports,Complain,10,10,2013,10/10/2013,Cleanliness Room Cleanliness Cleanliness Room Bed Slow Slow Bad
-Patient 177,A,Trauma,Compliment,14,10,2013,14/10/2013,Reschedule Reschedule Venue Helpful Good
-Patient 178,B,Trauma,Complain,25,10,2013,25/10/2013,Hours Receptionist Disrespect Disrespect
-Patient 179,A,Hand,Compliment,9,10,2013,9/10/2013,Hours Direction Visiting Registration Clean Patient Patient Fast Helpful Fast
-Patient 180,B,Foot,Compliment,17,10,2013,17/10/2013,Procedure Care Procedure Procedure Care Clean
-Patient 181,A,Sports,Complain,27,10,2013,27/10/2013,Direction Visiting Queue Receptionist No
-Patient 182,B,Sports,Complain,2,10,2013,2/10/2013,Hours Hours Visiting Visiting Hours Hours Long No Long Dirty
-Patient 183,A,Trauma,Compliment,29,10,2013,29/10/2013,Facilities Ward Cleanliness Cleanliness Cleanliness Patient
-Patient 184,B,Trauma,Compliment,17,10,2013,17/10/2013,Hours Direction Visiting Registration Visiting Helpful Helpful
-Patient 185,A,Hand,Compliment,3,10,2013,3/10/2013,Doctor Operation Concern Concern Operation Clean Clean
-Patient 186,A,Trauma,Compliment,27,10,2013,27/10/2013,Booking Reschedule Check-up Booking Helpful Patient Good Short Clean
-Patient 187,B,Trauma,Compliment,30,10,2013,30/10/2013,Registration Visiting Hours Visiting Short Fast Patient
-Patient 188,B,Sports,Compliment,27,10,2013,27/10/2013,Procedure Clean Short Short
-Patient 189,B,Sports,Compliment,19,10,2013,19/10/2013,Bed Brightness Room Facilities Brightness Brightness Good Patient Short
-Patient 190,B,Hand,Compliment,12,10,2013,12/10/2013,Appointment Check-up Appointment Clean Helpful Fast Clean Fast Patient
-Patient 191,A,Foot,Compliment,2,11,2013,2/11/2013,Hours Visiting Visiting Short Patient Good Clean Good
-Patient 192,B,Trauma,Compliment,8,11,2013,8/11/2013,Check-up Booking Fast
-Patient 193,A,Hand,Complain,2,11,2013,2/11/2013,Brightness Slow Dirty Disrespect
-Patient 194,B,Sports,Complain,9,11,2013,9/11/2013,Room Bad No No Dirty Disrespect Long
-Patient 195,B,Hand,Complain,26,11,2013,26/11/2013,Brightness Bad Long
-Patient 196,A,Foot,Complain,10,11,2013,10/11/2013,Registration Direction Queue Visiting Long Bad Bad Slow No Disrespect
-Patient 197,A,Hand,Compliment,28,11,2013,28/11/2013,Ward Bed Facilities Room Cleanliness Helpful Short Fast Helpful Helpful Fast
-Patient 198,B,Sports,Complain,6,11,2013,6/11/2013,Nurse Operation Care Nurse Dirty Bad Disrespect
-Patient 199,A,Hand,Complain,1,11,2013,1/11/2013,Concern Procedure Care Operation No Dirty Disrespect No No No
-Patient 200,B,Sports,Compliment,18,11,2013,18/11/2013,Queue Visiting Visiting Registration Registration Helpful
-Patient 201,A,Hand,Complain,30,11,2013,30/11/2013,Room Room Bed Facilities Brightness Ward No No Long
-Patient 202,A,Sports,Complain,21,11,2013,21/11/2013,Doctor Concern Doctor Procedure Bad Slow Bad Long Bad
-Patient 203,A,Sports,Compliment,29,11,2013,29/11/2013,Reschedule Reschedule Short
-Patient 204,B,Foot,Compliment,23,11,2013,23/11/2013,Booking Reschedule Patient Patient Helpful Patient
-Patient 205,A,Hand,Compliment,1,11,2013,1/11/2013,Ward Brightness Brightness Room Brightness Brightness Good Helpful Fast Clean Clean
-Patient 206,B,Trauma,Complain,25,11,2013,25/11/2013,Venue Reschedule Appointment Booking Booking Booking Disrespect Disrespect Dirty Disrespect Slow
-Patient 207,A,Hand,Compliment,19,12,2013,19/12/2013,Doctor Procedure Concern Clean Helpful Short Short Good Patient
-Patient 208,B,Sports,Complain,18,12,2013,18/12/2013,Operation Slow Disrespect Bad No Dirty Long
-Patient 209,A,Trauma,Complain,22,12,2013,22/12/2013,Facilities Ward Ward Facilities Ward Dirty Disrespect No No
-Patient 210,A,Sports,Compliment,31,12,2013,31/12/2013,Hours Registration Registration Queue Queue Good Good Helpful Clean
-Patient 211,A,Sports,Compliment,26,12,2013,26/12/2013,Direction Hours Hours Good
-Patient 212,A,Foot,Compliment,23,12,2013,23/12/2013,Bed Brightness Ward Ward Ward Good Good Good Patient
-Patient 213,A,Hand,Compliment,16,12,2013,16/12/2013,Room Bed Helpful
-Patient 214,A,Trauma,Complain,30,12,2013,30/12/2013,Venue Appointment No Dirty
-Patient 215,B,Sports,Compliment,20,12,2013,20/12/2013,Booking Check-up Reschedule Check-up Appointment Appointment Patient Patient
-Patient 216,B,Sports,Compliment,30,12,2013,30/12/2013,Queue Patient Fast Helpful Fast Short Patient
-Patient 217,A,Hand,Compliment,3,12,2013,3/12/2013,Operation Nurse Care Nurse Doctor Good Short Fast Clean Fast Clean
-Patient 218,B,Trauma,Complain,3,12,2013,3/12/2013,Care Care Doctor Procedure Care Concern Long Slow Disrespect Bad Bad Long
-Patient 219,B,Trauma,Complain,25,12,2013,25/12/2013,Venue Check-up Check-up Booking Reschedule Appointment Long
-Patient 220,B,Hand,Compliment,23,12,2013,23/12/2013,Queue Direction Good Patient Patient
-Patient 221,B,Trauma,Compliment,28,12,2013,28/12/2013,Nurse Concern Good Helpful Clean Helpful Helpful Helpful
-Patient 222,B,Hand,Compliment,28,12,2013,28/12/2013,Operation Doctor Clean Fast Helpful Clean
-Patient 223,A,Hand,Compliment,15,12,2013,15/12/2013,Booking Booking Reschedule Fast Short Short Patient
-Patient 224,B,Sports,Complain,1,12,2013,1/12/2013,Registration Registration Disrespect Disrespect Dirty Bad
-Patient 225,B,Trauma,Complain,28,12,2013,28/12/2013,Registration Bad
-Patient 226,A,Foot,Compliment,20,12,2013,20/12/2013,Visiting Hours Visiting Hours Hours Clean Good
-Patient 227,B,Trauma,Compliment,26,4,2013,26/4/2013,Operation Fast Clean Patient
-Patient 228,B,Hand,Compliment,13,4,2013,13/4/2013,Venue Venue Fast
-Patient 229,B,Sports,Complain,13,4,2013,13/4/2013,Bed Ward Bed Facilities Long Dirty Slow Long Disrespect
-Patient 230,A,Sports,Compliment,31,5,2013,31/5/2013,Cancellation Venue Appointment Clean Short
-Patient 231,B,Sports,Compliment,3,5,2013,3/5/2013,Visiting Visiting Registration Queue Short Clean Clean
-Patient 232,B,Trauma,Complain,31,5,2013,31/5/2013,Check-up Appointment Reschedule Venue Venue Check-up Disrespect Bad Dirty Dirty Bad
-Patient 233,B,Sports,Complain,7,5,2013,7/5/2013,Reschedule Booking Venue Booking Slow Disrespect Bad Dirty Disrespect Dirty
-Patient 234,B,Sports,Complain,11,5,2013,11/5/2013,Registration Direction Direction Registration Visiting Queue No Long No No Slow Long
-Patient 235,B,Trauma,Compliment,20,5,2013,20/5/2013,Room Brightness Brightness Cleanliness Cleanliness Room Clean Fast Patient Patient Helpful Patient
-Patient 236,B,Sports,Compliment,6,5,2013,6/5/2013,Concern Care Nurse Care Procedure Good Short Helpful
-Patient 237,A,Hand,Complain,17,5,2013,17/5/2013,Queue Receptionist Hours Receptionist Hours Queue Slow Bad Long Disrespect
-Patient 238,A,Trauma,Compliment,4,5,2013,4/5/2013,Brightness Cleanliness Cleanliness Brightness Fast Short
-Patient 239,A,Foot,Compliment,6,5,2013,6/5/2013,Direction Visiting Direction Hours Receptionist Helpful Helpful Fast Fast Good
-Patient 240,A,Hand,Complain,22,5,2013,22/5/2013,Direction No Slow Disrespect
-Patient 241,B,Trauma,Complain,11,5,2013,11/5/2013,Operation Slow Disrespect Long Slow Dirty
-Patient 242,A,Hand,Complain,9,5,2013,9/5/2013,Ward Bed Cleanliness Long Slow Dirty Long
-Patient 243,A,Trauma,Complain,4,6,2013,4/6/2013,Procedure Care No Disrespect Disrespect No
-Patient 244,A,Foot,Compliment,26,6,2013,26/6/2013,Queue Direction Hours Hours Good Short Short Short Patient
-Patient 245,A,Trauma,Compliment,16,6,2013,16/6/2013,Operation Nurse Procedure Nurse Doctor Patient Good
-Patient 246,A,Trauma,Compliment,13,6,2013,13/6/2013,Brightness Cleanliness Room Bed Bed Clean Helpful Fast Helpful
-Patient 247,A,Trauma,Complain,15,6,2013,15/6/2013,Venue Dirty Dirty Long Disrespect
-Patient 248,B,Trauma,Compliment,30,6,2013,30/6/2013,Operation Patient Clean Helpful
-Patient 249,B,Foot,Complain,23,6,2013,23/6/2013,Queue Registration Hours Queue Direction Bad Slow Long
-Patient 250,B,Trauma,Compliment,24,6,2013,24/6/2013,Room Brightness Ward Facilities Fast Fast Clean Fast
-Patient 251,B,Hand,Complain,26,6,2013,26/6/2013,Concern Operation Care Concern Nurse Doctor No Dirty Dirty
-Patient 252,B,Trauma,Compliment,11,6,2013,11/6/2013,Ward Brightness Fast Good Good Short Fast
-Patient 253,A,Sports,Complain,13,6,2013,13/6/2013,Procedure Nurse Concern Operation Bad Disrespect Dirty
-Patient 254,B,Sports,Complain,20,6,2013,20/6/2013,Check-up Reschedule Disrespect No Slow Bad Slow Dirty
-Patient 255,B,Trauma,Complain,5,6,2013,5/6/2013,Care Procedure Doctor Bad
-Patient 256,B,Sports,Complain,25,6,2013,25/6/2013,Nurse Doctor Procedure Doctor Procedure Procedure Slow Bad Slow Dirty No Long
-Patient 257,B,Foot,Compliment,1,7,2013,1/7/2013,Concern Nurse Care Nurse Operation Good Patient Good Clean Patient
-Patient 258,A,Sports,Complain,25,6,2013,25/6/2013,Direction Hours Bad Dirty No No No
-Patient 259,B,Sports,Compliment,2,6,2013,2/6/2013,Queue Hours Direction Receptionist Hours Registration Good Clean Fast Good Helpful Good
-Patient 260,A,Foot,Complain,27,6,2013,27/6/2013,Room Ward Room Cleanliness Cleanliness No No Long No
-Patient 261,B,Trauma,Compliment,8,7,2013,8/7/2013,Queue Registration Direction Receptionist Registration Visiting Clean Good Patient Short
-Patient 262,B,Sports,Complain,29,7,2013,29/7/2013,Concern Nurse Doctor Operation Procedure Disrespect Disrespect Disrespect Long
-Patient 263,B,Hand,Complain,29,7,2013,29/7/2013,Brightness No Long Disrespect Long
-Patient 264,A,Sports,Complain,25,7,2013,25/7/2013,Bed Cleanliness No No Disrespect Dirty
-Patient 265,A,Sports,Compliment,29,7,2013,29/7/2013,Check-up Cancellation Check-up Patient Fast Patient
-Patient 266,B,Foot,Compliment,20,7,2013,20/7/2013,Bed Facilities Cleanliness Bed Clean Fast Clean Patient
-Patient 267,B,Hand,Complain,6,7,2013,6/7/2013,Appointment Booking Cancellation No Dirty Long No Long No
-Patient 268,B,Sports,Complain,11,7,2013,11/7/2013,Venue Check-up Booking Venue Booking Disrespect No No Dirty
-Patient 269,B,Trauma,Complain,25,7,2013,25/7/2013,Queue Registration Direction No Slow Slow
-Patient 270,B,Foot,Complain,26,7,2013,26/7/2013,Appointment Slow Long Bad Bad
-Patient 271,B,Foot,Compliment,25,7,2013,25/7/2013,Check-up Check-up Venue Appointment Fast Helpful Good Clean Fast Patient
-Patient 272,A,Sports,Complain,16,7,2013,16/7/2013,Direction Queue Direction Receptionist Direction No Dirty
-Patient 273,A,Foot,Complain,19,8,2013,19/8/2013,Check-up Reschedule Booking Disrespect Disrespect Long Dirty
-Patient 274,B,Trauma,Complain,5,8,2013,5/8/2013,Visiting Registration Direction Queue Hours Hours Bad Slow Dirty Bad Disrespect
-Patient 275,B,Trauma,Complain,25,8,2013,25/8/2013,Receptionist Long Bad Bad Bad No
-Patient 276,A,Trauma,Compliment,25,8,2013,25/8/2013,Brightness Room Brightness Cleanliness Cleanliness Brightness Fast Fast Fast Good Short
-Patient 277,B,Hand,Complain,28,8,2013,28/8/2013,Visiting Long Long Dirty Disrespect Disrespect Long
-Patient 278,B,Foot,Complain,3,8,2013,3/8/2013,Check-up Check-up Appointment Dirty Bad No Dirty
-Patient 279,A,Hand,Compliment,14,8,2013,14/8/2013,Operation Nurse Nurse Good Good Clean
-Patient 280,B,Foot,Complain,6,8,2013,6/8/2013,Room Cleanliness Cleanliness Long Dirty Dirty
-Patient 281,B,Trauma,Complain,8,8,2013,8/8/2013,Venue Venue Reschedule Booking Appointment Booking Dirty Long Disrespect Slow Long Long
-Patient 282,B,Sports,Complain,1,8,2013,1/8/2013,Visiting Queue Visiting Receptionist Dirty No Dirty Slow Disrespect Dirty
-Patient 283,A,Trauma,Complain,10,8,2013,10/8/2013,Cancellation Long Disrespect Dirty Dirty No
-Patient 284,B,Foot,Compliment,15,8,2013,15/8/2013,Operation Care Operation Concern Good Short Clean Short
-Patient 285,B,Hand,Complain,4,8,2013,4/8/2013,Venue Venue Booking No
-Patient 286,A,Trauma,Complain,16,8,2013,16/8/2013,Receptionist Visiting Registration Visiting Direction No No Slow Slow
-Patient 287,B,Hand,Compliment,24,8,2013,24/8/2013,Direction Receptionist Visiting Clean Short
-Patient 288,A,Trauma,Complain,28,8,2013,28/8/2013,Booking Reschedule Booking Venue Appointment Check-up Disrespect Disrespect
-Patient 289,A,Trauma,Complain,29,8,2013,29/8/2013,Direction Visiting Disrespect Disrespect Disrespect Bad
-Patient 290,A,Hand,Complain,17,8,2013,17/8/2013,Procedure Concern Disrespect Slow No Dirty Dirty
-Patient 291,A,Hand,Compliment,14,8,2013,14/8/2013,Ward Room Fast Helpful Helpful
-Patient 292,B,Sports,Complain,18,9,2013,18/9/2013,Visiting Direction Hours Registration Visiting Disrespect Bad Dirty Slow
-Patient 293,B,Trauma,Compliment,1,9,2013,1/9/2013,Operation Helpful
-Patient 294,A,Hand,Compliment,25,9,2013,25/9/2013,Venue Cancellation Reschedule Cancellation Cancellation Patient Short Helpful Good
-Patient 295,B,Trauma,Compliment,7,9,2013,7/9/2013,Ward Bed Bed Patient
-Patient 296,A,Foot,Complain,3,9,2013,3/9/2013,Ward Bed Room Room Cleanliness Cleanliness Dirty Long Disrespect
-Patient 297,A,Trauma,Compliment,17,9,2013,17/9/2013,Brightness Fast Clean Patient Clean Clean
-Patient 298,A,Sports,Complain,23,9,2013,23/9/2013,Concern Operation Care Bad Slow Dirty Slow
-Patient 299,B,Sports,Complain,28,9,2013,28/9/2013,Visiting Queue Visiting Direction No Bad No Disrespect No
-Patient 300,A,Foot,Compliment,17,9,2013,17/9/2013,Reschedule Patient Short Good Patient
-Patient 301,B,Trauma,Compliment,20,9,2013,20/9/2013,Venue Reschedule Check-up Venue Cancellation Fast Short Good Good Good Patient
-Patient 302,A,Foot,Compliment,22,9,2013,22/9/2013,Care Operation Care Doctor Operation Fast Good
-Patient 303,A,Trauma,Complain,20,9,2013,20/9/2013,Cleanliness Facilities Brightness Slow Slow
-Patient 304,A,Hand,Complain,2,9,2013,2/9/2013,Appointment Long Slow Bad No
-Patient 305,B,Trauma,Compliment,1,10,2013,1/10/2013,Receptionist Good Good Patient
-Patient 306,A,Hand,Complain,12,9,2013,12/9/2013,Procedure Slow Dirty Slow Disrespect Long Disrespect
-Patient 307,B,Trauma,Complain,7,9,2013,7/9/2013,Cancellation Venue Booking Disrespect Disrespect No No Long
-Patient 308,A,Hand,Complain,1,9,2013,1/9/2013,Appointment Booking Booking Long
-Patient 309,B,Hand,Complain,21,9,2013,21/9/2013,Check-up Check-up Booking Appointment Venue Disrespect Dirty Disrespect Bad Bad
-Patient 310,B,Sports,Complain,14,9,2013,14/9/2013,Cleanliness Room Facilities Facilities Brightness Slow Disrespect
-Patient 311,A,Sports,Compliment,23,9,2013,23/9/2013,Room Room Facilities Room Helpful Patient Fast Short Fast
-Patient 312,B,Trauma,Complain,26,9,2013,26/9/2013,Queue Receptionist Receptionist Visiting Registration Direction Disrespect Dirty No
-Patient 313,B,Trauma,Complain,30,9,2013,30/9/2013,Doctor Doctor Doctor Operation Care Care Bad Bad No Bad
-Patient 314,A,Sports,Compliment,10,9,2013,10/9/2013,Direction Good Patient Patient
-Patient 315,A,Hand,Complain,5,9,2013,5/9/2013,Appointment Venue Check-up Long No Long Bad Long
-Patient 316,B,Sports,Complain,18,9,2013,18/9/2013,Bed Cleanliness Bed Room Long Dirty
-Patient 317,A,Trauma,Complain,1,9,2013,1/9/2013,Brightness Slow Bad Slow
-Patient 318,A,Trauma,Compliment,10,9,2013,10/9/2013,Procedure Nurse Nurse Doctor Nurse Procedure Patient Fast
-Patient 319,B,Hand,Complain,22,9,2013,22/9/2013,Nurse Procedure Concern Operation Doctor Procedure Dirty Slow Bad Dirty Slow
-Patient 320,B,Hand,Complain,13,9,2013,13/9/2013,Receptionist Hours Dirty Bad Disrespect Disrespect Slow
-Patient 321,B,Foot,Compliment,24,9,2013,24/9/2013,Ward Brightness Cleanliness Short
-Patient 322,A,Trauma,Complain,6,10,2013,6/10/2013,Reschedule Reschedule Appointment Booking Booking Cancellation Long No
-Patient 323,B,Trauma,Compliment,19,10,2013,19/10/2013,Facilities Facilities Brightness Patient Patient Clean Patient
-Patient 324,B,Hand,Complain,2,10,2013,2/10/2013,Direction Visiting Queue Long
-Patient 325,B,Sports,Complain,10,10,2013,10/10/2013,Cleanliness Room Cleanliness Cleanliness Room Bed Slow Slow Bad
-Patient 326,A,Trauma,Compliment,14,10,2013,14/10/2013,Reschedule Reschedule Venue Helpful Good
-Patient 327,B,Trauma,Complain,25,10,2013,25/10/2013,Hours Receptionist Disrespect Disrespect
-Patient 328,A,Hand,Compliment,9,10,2013,9/10/2013,Hours Direction Visiting Registration Clean Patient Patient Fast Helpful Fast
-Patient 329,B,Foot,Compliment,17,10,2013,17/10/2013,Procedure Care Procedure Procedure Care Clean
-Patient 330,A,Sports,Complain,27,10,2013,27/10/2013,Direction Visiting Queue Receptionist No
-Patient 331,B,Sports,Complain,2,10,2013,2/10/2013,Hours Hours Visiting Visiting Hours Hours Long No Long Dirty
-Patient 332,A,Trauma,Compliment,29,10,2013,29/10/2013,Facilities Ward Cleanliness Cleanliness Cleanliness Patient
-Patient 333,B,Trauma,Compliment,17,10,2013,17/10/2013,Hours Direction Visiting Registration Visiting Helpful Helpful
-Patient 334,A,Hand,Compliment,3,10,2013,3/10/2013,Doctor Operation Concern Concern Operation Clean Clean
-Patient 335,A,Trauma,Compliment,27,10,2013,27/10/2013,Booking Reschedule Check-up Booking Helpful Patient Good Short Clean
-Patient 336,B,Trauma,Compliment,30,10,2013,30/10/2013,Registration Visiting Hours Visiting Short Fast Patient
-Patient 337,B,Sports,Compliment,27,10,2013,27/10/2013,Procedure Clean Short Short
-Patient 338,B,Sports,Compliment,19,10,2013,19/10/2013,Bed Brightness Room Facilities Brightness Brightness Good Patient Short
-Patient 339,B,Hand,Compliment,12,10,2013,12/10/2013,Appointment Check-up Appointment Clean Helpful Fast Clean Fast Patient
-Patient 340,A,Foot,Compliment,2,11,2013,2/11/2013,Hours Visiting Visiting Short Patient Good Clean Good
-Patient 341,B,Trauma,Compliment,8,11,2013,8/11/2013,Check-up Booking Fast
-Patient 342,A,Hand,Complain,2,11,2013,2/11/2013,Brightness Slow Dirty Disrespect
-Patient 343,B,Sports,Complain,9,11,2013,9/11/2013,Room Bad No No Dirty Disrespect Long
-Patient 344,B,Hand,Complain,26,11,2013,26/11/2013,Brightness Bad Long
-Patient 345,A,Foot,Complain,10,11,2013,10/11/2013,Registration Direction Queue Visiting Long Bad Bad Slow No Disrespect
-Patient 346,A,Hand,Compliment,28,11,2013,28/11/2013,Ward Bed Facilities Room Cleanliness Helpful Short Fast Helpful Helpful Fast
-Patient 347,B,Sports,Complain,6,11,2013,6/11/2013,Nurse Operation Care Nurse Dirty Bad Disrespect
-Patient 348,A,Hand,Complain,1,11,2013,1/11/2013,Concern Procedure Care Operation No Dirty Disrespect No No No
-Patient 349,B,Sports,Compliment,18,11,2013,18/11/2013,Queue Visiting Visiting Registration Registration Helpful
-Patient 350,A,Hand,Complain,30,11,2013,30/11/2013,Room Room Bed Facilities Brightness Ward No No Long
-Patient 351,A,Sports,Complain,21,11,2013,21/11/2013,Doctor Concern Doctor Procedure Bad Slow Bad Long Bad
-Patient 352,A,Sports,Compliment,29,11,2013,29/11/2013,Reschedule Reschedule Short
-Patient 353,B,Foot,Compliment,23,11,2013,23/11/2013,Booking Reschedule Patient Patient Helpful Patient
-Patient 354,A,Hand,Compliment,1,11,2013,1/11/2013,Ward Brightness Brightness Room Brightness Brightness Good Helpful Fast Clean Clean
-Patient 355,B,Trauma,Complain,25,11,2013,25/11/2013,Venue Reschedule Appointment Booking Booking Booking Disrespect Disrespect Dirty Disrespect Slow
-Patient 356,A,Hand,Compliment,19,12,2013,19/12/2013,Doctor Procedure Concern Clean Helpful Short Short Good Patient
-Patient 357,B,Sports,Complain,18,12,2013,18/12/2013,Operation Slow Disrespect Bad No Dirty Long
-Patient 358,A,Trauma,Complain,22,12,2013,22/12/2013,Facilities Ward Ward Facilities Ward Dirty Disrespect No No
-Patient 359,A,Sports,Compliment,31,12,2013,31/12/2013,Hours Registration Registration Queue Queue Good Good Helpful Clean
-Patient 360,A,Sports,Compliment,26,12,2013,26/12/2013,Direction Hours Hours Good
-Patient 361,A,Foot,Compliment,23,12,2013,23/12/2013,Bed Brightness Ward Ward Ward Good Good Good Patient
-Patient 362,A,Hand,Compliment,16,12,2013,16/12/2013,Room Bed Helpful
-Patient 363,A,Trauma,Complain,30,12,2013,30/12/2013,Venue Appointment No Dirty
-Patient 364,B,Sports,Compliment,20,12,2013,20/12/2013,Booking Check-up Reschedule Check-up Appointment Appointment Patient Patient
-Patient 365,B,Sports,Compliment,30,12,2013,30/12/2013,Queue Patient Fast Helpful Fast Short Patient
-Patient 366,A,Hand,Compliment,3,12,2013,3/12/2013,Operation Nurse Care Nurse Doctor Good Short Fast Clean Fast Clean
-Patient 367,B,Trauma,Complain,3,12,2013,3/12/2013,Care Care Doctor Procedure Care Concern Long Slow Disrespect Bad Bad Long
-Patient 368,B,Trauma,Complain,25,12,2013,25/12/2013,Venue Check-up Check-up Booking Reschedule Appointment Long
-Patient 369,B,Hand,Compliment,23,12,2013,23/12/2013,Queue Direction Good Patient Patient
-Patient 370,B,Trauma,Compliment,28,12,2013,28/12/2013,Nurse Concern Good Helpful Clean Helpful Helpful Helpful
-Patient 371,B,Hand,Compliment,28,12,2013,28/12/2013,Operation Doctor Clean Fast Helpful Clean
-Patient 372,A,Hand,Compliment,15,12,2013,15/12/2013,Booking Booking Reschedule Fast Short Short Patient
-Patient 373,B,Sports,Complain,1,12,2013,1/12/2013,Registration Registration Disrespect Disrespect Dirty Bad
-Patient 374,B,Trauma,Complain,28,12,2013,28/12/2013,Registration Bad
-Patient 375,A,Foot,Compliment,20,12,2013,20/12/2013,Visiting Hours Visiting Hours Hours Clean Good
+Patient 1,A,Sports,Complain,2,Jan,2013,2/1/2013,Registration Receptionist Long No
+Patient 2,B,Sports,Complain,23,Jan,2013,23/1/2013,Cleanliness Slow Dirty Slow No Disrespect
+Patient 3,A,Trauma,Complain,13,Jan,2013,13/1/2013,Reschedule Disrespect
+Patient 4,B,Sports,Compliment,9,Jan,2013,9/1/2013,Facilities Facilities Brightness Brightness Ward Short Clean Clean
+Patient 5,A,Hand,Complain,24,Jan,2013,24/1/2013,Ward Bed Bad No
+Patient 6,A,Trauma,Compliment,6,Jan,2013,6/1/2013,Queue Receptionist Clean
+Patient 7,B,Foot,Compliment,9,Jan,2013,9/1/2013,Bed Bed Facilities Ward Brightness Clean Good Patient Good Helpful Short
+Patient 8,A,Foot,Complain,21,Jan,2013,21/1/2013,Concern Operation Procedure Operation Nurse Bad Disrespect Bad Slow Dirty
+Patient 9,A,Trauma,Compliment,7,Jan,2013,7/1/2013,Doctor Care Short Fast Fast Good
+Patient 10,B,Trauma,Compliment,8,Jan,2013,8/1/2013,Doctor Patient Good Short Fast Short Clean
+Patient 11,A,Hand,Complain,22,Jan,2013,22/1/2013,Doctor Doctor Concern Nurse Procedure Procedure Slow Disrespect Long
+Patient 12,A,Foot,Complain,16,Jan,2013,16/1/2013,Care No Dirty Slow Long Bad
+Patient 13,B,Sports,Compliment,7,Jan,2013,7/1/2013,Procedure Care Concern Nurse Doctor Concern Patient Fast Helpful Helpful Clean Good
+Patient 14,A,Foot,Compliment,5,Jan,2013,5/1/2013,Ward Brightness Ward Brightness Facilities Brightness Good Short
+Patient 15,A,Hand,Complain,28,Jan,2013,28/1/2013,Receptionist Receptionist Registration Receptionist Disrespect Slow Bad Dirty Dirty Disrespect
+Patient 16,A,Sports,Compliment,29,Jan,2013,29/1/2013,Direction Visiting Clean Short Short
+Patient 17,B,Trauma,Compliment,19,Jan,2013,19/1/2013,Visiting Registration Queue Receptionist Visiting Short Short Short Patient Clean Fast
+Patient 18,A,Sports,Complain,15,Feb,2013,15/2/2013,Cancellation Venue Appointment Check-up Booking Venue Bad
+Patient 19,A,Sports,Compliment,1,Mar,2013,1/3/2013,Visiting Hours Visiting Hours Short Short Clean Patient Good
+Patient 20,A,Sports,Complain,26,Feb,2013,26/2/2013,Nurse Care Slow No Disrespect
+Patient 21,A,Foot,Complain,18,Feb,2013,18/2/2013,Care Operation Operation Bad No Long No
+Patient 22,B,Hand,Complain,24,Feb,2013,24/2/2013,Care Nurse Nurse Procedure Concern Care Disrespect Dirty Dirty
+Patient 23,B,Foot,Compliment,1,Mar,2013,1/3/2013,Appointment Check-up Check-up Reschedule Reschedule Patient Good Patient
+Patient 24,A,Sports,Complain,6,Feb,2013,6/2/2013,Ward Ward Room Facilities Bad Disrespect Long Dirty
+Patient 25,A,Sports,Complain,18,Feb,2013,18/2/2013,Cleanliness Bad Dirty No No
+Patient 26,A,Sports,Complain,23,Feb,2013,23/2/2013,Bed Room Ward Brightness Facilities Bed No No Dirty Long
+Patient 27,A,Trauma,Compliment,22,Feb,2013,22/2/2013,Direction Receptionist Receptionist Queue Receptionist Receptionist Clean
+Patient 28,B,Foot,Complain,17,Feb,2013,17/2/2013,Operation Dirty No Slow Dirty Bad
+Patient 29,B,Trauma,Complain,1,Feb,2013,1/2/2013,Doctor Concern Care Concern Operation Dirty Bad Dirty
+Patient 30,A,Foot,Compliment,25,Feb,2013,25/2/2013,Booking Booking Cancellation Check-up Short Clean Short
+Patient 31,A,Hand,Complain,22,Feb,2013,22/2/2013,Appointment Long Long Long
+Patient 32,B,Sports,Complain,9,Mar,2013,9/3/2013,Reschedule Long Bad Disrespect Long
+Patient 33,B,Foot,Complain,7,Mar,2013,7/3/2013,Direction Dirty Bad Long Bad Long
+Patient 34,B,Sports,Complain,17,Mar,2013,17/3/2013,Facilities Ward Brightness Cleanliness Bed Ward No
+Patient 35,A,Trauma,Complain,11,Mar,2013,11/3/2013,Receptionist Direction Registration Bad No No Long
+Patient 36,A,Foot,Complain,22,Mar,2013,22/3/2013,Direction Hours Queue Registration Receptionist Queue Long
+Patient 37,B,Trauma,Compliment,23,Mar,2013,23/3/2013,Hours Direction Hours Registration Queue Fast Short Patient
+Patient 38,A,Sports,Compliment,1,Mar,2013,1/3/2013,Booking Check-up Reschedule Booking Booking Venue Short Short
+Patient 39,B,Sports,Compliment,1,Mar,2013,1/3/2013,Venue Cancellation Venue Fast Patient Helpful
+Patient 40,B,Hand,Compliment,5,Mar,2013,5/3/2013,Procedure Concern Good Short Clean Helpful Short
+Patient 41,B,Trauma,Compliment,6,Mar,2013,6/3/2013,Receptionist Hours Visiting Registration Direction Receptionist Helpful Fast Fast Helpful Helpful
+Patient 42,B,Sports,Compliment,21,Mar,2013,21/3/2013,Facilities Short Patient Helpful Helpful
+Patient 43,A,Hand,Compliment,7,Mar,2013,7/3/2013,Room Short Patient Fast Fast Patient
+Patient 44,B,Foot,Complain,1,Apr,2013,1/4/2013,Venue Reschedule Reschedule Bad
+Patient 45,A,Trauma,Compliment,29,Mar,2013,29/3/2013,Queue Direction Hours Receptionist Short
+Patient 46,B,Sports,Compliment,20,Mar,2013,20/3/2013,Facilities Cleanliness Cleanliness Patient Short
+Patient 47,B,Foot,Compliment,31,Mar,2013,31/3/2013,Operation Nurse Doctor Patient Short Short
+Patient 48,A,Hand,Complain,21,Mar,2013,21/3/2013,Concern Doctor Bad Slow Bad No No Disrespect
+Patient 49,B,Sports,Compliment,1,Mar,2013,1/3/2013,Queue Patient Patient Clean
+Patient 50,B,Foot,Complain,16,Mar,2013,16/3/2013,Visiting Receptionist Long
+Patient 51,B,Sports,Complain,7,Mar,2013,7/3/2013,Reschedule Reschedule Reschedule Venue Cancellation Disrespect Disrespect Bad Slow
+Patient 52,A,Sports,Compliment,1,May,2013,1/5/2013,Doctor Operation Procedure Procedure Nurse Care Short Helpful
+Patient 53,B,Trauma,Compliment,1,May,2013,1/5/2013,Booking Helpful Short Patient
+Patient 54,A,Sports,Compliment,18,Apr,2013,18/4/2013,Queue Receptionist Good Helpful
+Patient 55,A,Foot,Compliment,10,Apr,2013,10/4/2013,Procedure Clean Clean
+Patient 56,B,Foot,Compliment,10,Apr,2013,10/4/2013,Concern Clean Patient
+Patient 57,B,Sports,Compliment,21,Apr,2013,21/4/2013,Appointment Reschedule Venue Booking Fast
+Patient 58,B,Sports,Compliment,8,Apr,2013,8/4/2013,Receptionist Queue Receptionist Queue Short Good
+Patient 59,A,Trauma,Complain,16,Apr,2013,16/4/2013,Nurse Slow Dirty Slow Dirty Dirty No
+Patient 60,A,Foot,Complain,19,Apr,2013,19/4/2013,Doctor Nurse Concern Nurse Concern Care No Long Dirty
+Patient 61,B,Hand,Complain,2,Apr,2013,2/4/2013,Venue Reschedule Venue Check-up Disrespect Long Dirty Slow Dirty
+Patient 62,A,Hand,Complain,29,Apr,2013,29/4/2013,Ward Disrespect
+Patient 63,B,Foot,Complain,9,Apr,2013,9/4/2013,Booking Slow Disrespect Bad Slow Dirty
+Patient 64,A,Trauma,Complain,16,Apr,2013,16/4/2013,Receptionist Registration Registration Registration Visiting Long Disrespect Dirty Bad
+Patient 65,B,Sports,Complain,29,Apr,2013,29/4/2013,Concern Slow Dirty Disrespect Slow Slow
+Patient 66,B,Hand,Complain,12,Apr,2013,12/4/2013,Procedure Doctor Doctor Care Doctor Procedure Dirty No
+Patient 67,A,Sports,Complain,18,Apr,2013,18/4/2013,Venue Reschedule Appointment Dirty Bad Bad Dirty Disrespect
+Patient 68,B,Foot,Compliment,21,Apr,2013,21/4/2013,Hours Clean Good Fast Fast Short Short
+Patient 69,B,Foot,Complain,23,Apr,2013,23/4/2013,Hours Hours Visiting Hours Visiting Hours Slow Long Dirty Bad
+Patient 70,B,Sports,Compliment,4,Apr,2013,4/4/2013,Ward Helpful
+Patient 71,B,Foot,Complain,20,Apr,2013,20/4/2013,Visiting Hours Hours Visiting Long No Disrespect No
+Patient 72,A,Sports,Complain,8,Apr,2013,8/4/2013,Operation Nurse Doctor Bad Dirty
+Patient 73,B,Sports,Compliment,7,Apr,2013,7/4/2013,Room Facilities Facilities Brightness Facilities Room Short Fast Clean Patient
+Patient 74,A,Sports,Compliment,6,Apr,2013,6/4/2013,Venue Cancellation Reschedule Venue Check-up Short Short Good Clean Fast Clean
+Patient 75,B,Hand,Compliment,21,Apr,2013,21/4/2013,Concern Procedure Helpful Clean Patient Good Short
+Patient 76,A,Foot,Compliment,7,Apr,2013,7/4/2013,Facilities Facilities Brightness Patient Short
+Patient 77,B,Foot,Complain,29,Apr,2013,29/4/2013,Brightness Slow Slow Bad Long
+Patient 78,B,Trauma,Compliment,26,Apr,2013,26/4/2013,Operation Fast Clean Patient
+Patient 79,B,Hand,Compliment,13,Apr,2013,13/4/2013,Venue Venue Fast
+Patient 80,B,Sports,Complain,13,Apr,2013,13/4/2013,Bed Ward Bed Facilities Long Dirty Slow Long Disrespect
+Patient 81,A,Sports,Compliment,31,May,2013,31/5/2013,Cancellation Venue Appointment Clean Short
+Patient 82,B,Sports,Compliment,3,May,2013,3/5/2013,Visiting Visiting Registration Queue Short Clean Clean
+Patient 83,B,Trauma,Complain,31,May,2013,31/5/2013,Check-up Appointment Reschedule Venue Venue Check-up Disrespect Bad Dirty Dirty Bad
+Patient 84,B,Sports,Complain,7,May,2013,7/5/2013,Reschedule Booking Venue Booking Slow Disrespect Bad Dirty Disrespect Dirty
+Patient 85,B,Sports,Complain,11,May,2013,11/5/2013,Registration Direction Direction Registration Visiting Queue No Long No No Slow Long
+Patient 86,B,Trauma,Compliment,20,May,2013,20/5/2013,Room Brightness Brightness Cleanliness Cleanliness Room Clean Fast Patient Patient Helpful Patient
+Patient 87,B,Sports,Compliment,6,May,2013,6/5/2013,Concern Care Nurse Care Procedure Good Short Helpful
+Patient 88,A,Hand,Complain,17,May,2013,17/5/2013,Queue Receptionist Hours Receptionist Hours Queue Slow Bad Long Disrespect
+Patient 89,A,Trauma,Compliment,4,May,2013,4/5/2013,Brightness Cleanliness Cleanliness Brightness Fast Short
+Patient 90,A,Foot,Compliment,6,May,2013,6/5/2013,Direction Visiting Direction Hours Receptionist Helpful Helpful Fast Fast Good
+Patient 91,A,Hand,Complain,22,May,2013,22/5/2013,Direction No Slow Disrespect
+Patient 92,B,Trauma,Complain,11,May,2013,11/5/2013,Operation Slow Disrespect Long Slow Dirty
+Patient 93,A,Hand,Complain,9,May,2013,9/5/2013,Ward Bed Cleanliness Long Slow Dirty Long
+Patient 94,A,Trauma,Complain,4,Jun,2013,4/6/2013,Procedure Care No Disrespect Disrespect No
+Patient 95,A,Foot,Compliment,26,Jun,2013,26/6/2013,Queue Direction Hours Hours Good Short Short Short Patient
+Patient 96,A,Trauma,Compliment,16,Jun,2013,16/6/2013,Operation Nurse Procedure Nurse Doctor Patient Good
+Patient 97,A,Trauma,Compliment,13,Jun,2013,13/6/2013,Brightness Cleanliness Room Bed Bed Clean Helpful Fast Helpful
+Patient 98,A,Trauma,Complain,15,Jun,2013,15/6/2013,Venue Dirty Dirty Long Disrespect
+Patient 99,B,Trauma,Compliment,30,Jun,2013,30/6/2013,Operation Patient Clean Helpful
+Patient 100,B,Foot,Complain,23,Jun,2013,23/6/2013,Queue Registration Hours Queue Direction Bad Slow Long
+Patient 101,B,Trauma,Compliment,24,Jun,2013,24/6/2013,Room Brightness Ward Facilities Fast Fast Clean Fast
+Patient 102,B,Hand,Complain,26,Jun,2013,26/6/2013,Concern Operation Care Concern Nurse Doctor No Dirty Dirty
+Patient 103,B,Trauma,Compliment,11,Jun,2013,11/6/2013,Ward Brightness Fast Good Good Short Fast
+Patient 104,A,Sports,Complain,13,Jun,2013,13/6/2013,Procedure Nurse Concern Operation Bad Disrespect Dirty
+Patient 105,B,Sports,Complain,20,Jun,2013,20/6/2013,Check-up Reschedule Disrespect No Slow Bad Slow Dirty
+Patient 106,B,Trauma,Complain,5,Jun,2013,5/6/2013,Care Procedure Doctor Bad
+Patient 107,B,Sports,Complain,25,Jun,2013,25/6/2013,Nurse Doctor Procedure Doctor Procedure Procedure Slow Bad Slow Dirty No Long
+Patient 108,B,Foot,Compliment,1,Jul,2013,1/7/2013,Concern Nurse Care Nurse Operation Good Patient Good Clean Patient
+Patient 109,A,Sports,Complain,25,Jun,2013,25/6/2013,Direction Hours Bad Dirty No No No
+Patient 110,B,Sports,Compliment,2,Jun,2013,2/6/2013,Queue Hours Direction Receptionist Hours Registration Good Clean Fast Good Helpful Good
+Patient 111,A,Foot,Complain,27,Jun,2013,27/6/2013,Room Ward Room Cleanliness Cleanliness No No Long No
+Patient 112,B,Trauma,Compliment,8,Jul,2013,8/7/2013,Queue Registration Direction Receptionist Registration Visiting Clean Good Patient Short
+Patient 113,B,Sports,Complain,29,Jul,2013,29/7/2013,Concern Nurse Doctor Operation Procedure Disrespect Disrespect Disrespect Long
+Patient 114,B,Hand,Complain,29,Jul,2013,29/7/2013,Brightness No Long Disrespect Long
+Patient 115,A,Sports,Complain,25,Jul,2013,25/7/2013,Bed Cleanliness No No Disrespect Dirty
+Patient 116,A,Sports,Compliment,29,Jul,2013,29/7/2013,Check-up Cancellation Check-up Patient Fast Patient
+Patient 117,B,Foot,Compliment,20,Jul,2013,20/7/2013,Bed Facilities Cleanliness Bed Clean Fast Clean Patient
+Patient 118,B,Hand,Complain,6,Jul,2013,6/7/2013,Appointment Booking Cancellation No Dirty Long No Long No
+Patient 119,B,Sports,Complain,11,Jul,2013,11/7/2013,Venue Check-up Booking Venue Booking Disrespect No No Dirty
+Patient 120,B,Trauma,Complain,25,Jul,2013,25/7/2013,Queue Registration Direction No Slow Slow
+Patient 121,B,Foot,Complain,26,Jul,2013,26/7/2013,Appointment Slow Long Bad Bad
+Patient 122,B,Foot,Compliment,25,Jul,2013,25/7/2013,Check-up Check-up Venue Appointment Fast Helpful Good Clean Fast Patient
+Patient 123,A,Sports,Complain,16,Jul,2013,16/7/2013,Direction Queue Direction Receptionist Direction No Dirty
+Patient 124,A,Foot,Complain,19,Aug,2013,19/8/2013,Check-up Reschedule Booking Disrespect Disrespect Long Dirty
+Patient 125,B,Trauma,Complain,5,Aug,2013,5/8/2013,Visiting Registration Direction Queue Hours Hours Bad Slow Dirty Bad Disrespect
+Patient 126,B,Trauma,Complain,25,Aug,2013,25/8/2013,Receptionist Long Bad Bad Bad No
+Patient 127,A,Trauma,Compliment,25,Aug,2013,25/8/2013,Brightness Room Brightness Cleanliness Cleanliness Brightness Fast Fast Fast Good Short
+Patient 128,B,Hand,Complain,28,Aug,2013,28/8/2013,Visiting Long Long Dirty Disrespect Disrespect Long
+Patient 129,B,Foot,Complain,3,Aug,2013,3/8/2013,Check-up Check-up Appointment Dirty Bad No Dirty
+Patient 130,A,Hand,Compliment,14,Aug,2013,14/8/2013,Operation Nurse Nurse Good Good Clean
+Patient 131,B,Foot,Complain,6,Aug,2013,6/8/2013,Room Cleanliness Cleanliness Long Dirty Dirty
+Patient 132,B,Trauma,Complain,8,Aug,2013,8/8/2013,Venue Venue Reschedule Booking Appointment Booking Dirty Long Disrespect Slow Long Long
+Patient 133,B,Sports,Complain,1,Aug,2013,1/8/2013,Visiting Queue Visiting Receptionist Dirty No Dirty Slow Disrespect Dirty
+Patient 134,A,Trauma,Complain,10,Aug,2013,10/8/2013,Cancellation Long Disrespect Dirty Dirty No
+Patient 135,B,Foot,Compliment,15,Aug,2013,15/8/2013,Operation Care Operation Concern Good Short Clean Short
+Patient 136,B,Hand,Complain,4,Aug,2013,4/8/2013,Venue Venue Booking No
+Patient 137,A,Trauma,Complain,16,Aug,2013,16/8/2013,Receptionist Visiting Registration Visiting Direction No No Slow Slow
+Patient 138,B,Hand,Compliment,24,Aug,2013,24/8/2013,Direction Receptionist Visiting Clean Short
+Patient 139,A,Trauma,Complain,28,Aug,2013,28/8/2013,Booking Reschedule Booking Venue Appointment Check-up Disrespect Disrespect
+Patient 140,A,Trauma,Complain,29,Aug,2013,29/8/2013,Direction Visiting Disrespect Disrespect Disrespect Bad
+Patient 141,A,Hand,Complain,17,Aug,2013,17/8/2013,Procedure Concern Disrespect Slow No Dirty Dirty
+Patient 142,A,Hand,Compliment,14,Aug,2013,14/8/2013,Ward Room Fast Helpful Helpful
+Patient 143,B,Sports,Complain,18,Sep,2013,18/9/2013,Visiting Direction Hours Registration Visiting Disrespect Bad Dirty Slow
+Patient 144,B,Trauma,Compliment,1,Sep,2013,1/9/2013,Operation Helpful
+Patient 145,A,Hand,Compliment,25,Sep,2013,25/9/2013,Venue Cancellation Reschedule Cancellation Cancellation Patient Short Helpful Good
+Patient 146,B,Trauma,Compliment,7,Sep,2013,7/9/2013,Ward Bed Bed Patient
+Patient 147,A,Foot,Complain,3,Sep,2013,3/9/2013,Ward Bed Room Room Cleanliness Cleanliness Dirty Long Disrespect
+Patient 148,A,Trauma,Compliment,17,Sep,2013,17/9/2013,Brightness Fast Clean Patient Clean Clean
+Patient 149,A,Sports,Complain,23,Sep,2013,23/9/2013,Concern Operation Care Bad Slow Dirty Slow
+Patient 150,B,Sports,Complain,28,Sep,2013,28/9/2013,Visiting Queue Visiting Direction No Bad No Disrespect No
+Patient 151,A,Foot,Compliment,17,Sep,2013,17/9/2013,Reschedule Patient Short Good Patient
+Patient 152,B,Trauma,Compliment,20,Sep,2013,20/9/2013,Venue Reschedule Check-up Venue Cancellation Fast Short Good Good Good Patient
+Patient 153,A,Foot,Compliment,22,Sep,2013,22/9/2013,Care Operation Care Doctor Operation Fast Good
+Patient 154,A,Trauma,Complain,20,Sep,2013,20/9/2013,Cleanliness Facilities Brightness Slow Slow
+Patient 155,A,Hand,Complain,2,Sep,2013,2/9/2013,Appointment Long Slow Bad No
+Patient 156,B,Trauma,Compliment,1,Oct,2013,1/10/2013,Receptionist Good Good Patient
+Patient 157,A,Hand,Complain,12,Sep,2013,12/9/2013,Procedure Slow Dirty Slow Disrespect Long Disrespect
+Patient 158,B,Trauma,Complain,7,Sep,2013,7/9/2013,Cancellation Venue Booking Disrespect Disrespect No No Long
+Patient 159,A,Hand,Complain,1,Sep,2013,1/9/2013,Appointment Booking Booking Long
+Patient 160,B,Hand,Complain,21,Sep,2013,21/9/2013,Check-up Check-up Booking Appointment Venue Disrespect Dirty Disrespect Bad Bad
+Patient 161,B,Sports,Complain,14,Sep,2013,14/9/2013,Cleanliness Room Facilities Facilities Brightness Slow Disrespect
+Patient 162,A,Sports,Compliment,23,Sep,2013,23/9/2013,Room Room Facilities Room Helpful Patient Fast Short Fast
+Patient 163,B,Trauma,Complain,26,Sep,2013,26/9/2013,Queue Receptionist Receptionist Visiting Registration Direction Disrespect Dirty No
+Patient 164,B,Trauma,Complain,30,Sep,2013,30/9/2013,Doctor Doctor Doctor Operation Care Care Bad Bad No Bad
+Patient 165,A,Sports,Compliment,10,Sep,2013,10/9/2013,Direction Good Patient Patient
+Patient 166,A,Hand,Complain,5,Sep,2013,5/9/2013,Appointment Venue Check-up Long No Long Bad Long
+Patient 167,B,Sports,Complain,18,Sep,2013,18/9/2013,Bed Cleanliness Bed Room Long Dirty
+Patient 168,A,Trauma,Complain,1,Sep,2013,1/9/2013,Brightness Slow Bad Slow
+Patient 169,A,Trauma,Compliment,10,Sep,2013,10/9/2013,Procedure Nurse Nurse Doctor Nurse Procedure Patient Fast
+Patient 170,B,Hand,Complain,22,Sep,2013,22/9/2013,Nurse Procedure Concern Operation Doctor Procedure Dirty Slow Bad Dirty Slow
+Patient 171,B,Hand,Complain,13,Sep,2013,13/9/2013,Receptionist Hours Dirty Bad Disrespect Disrespect Slow
+Patient 172,B,Foot,Compliment,24,Sep,2013,24/9/2013,Ward Brightness Cleanliness Short
+Patient 173,A,Trauma,Complain,6,Oct,2013,6/10/2013,Reschedule Reschedule Appointment Booking Booking Cancellation Long No
+Patient 174,B,Trauma,Compliment,19,Oct,2013,19/10/2013,Facilities Facilities Brightness Patient Patient Clean Patient
+Patient 175,B,Hand,Complain,2,Oct,2013,2/10/2013,Direction Visiting Queue Long
+Patient 176,B,Sports,Complain,10,Oct,2013,10/10/2013,Cleanliness Room Cleanliness Cleanliness Room Bed Slow Slow Bad
+Patient 177,A,Trauma,Compliment,14,Oct,2013,14/10/2013,Reschedule Reschedule Venue Helpful Good
+Patient 178,B,Trauma,Complain,25,Oct,2013,25/10/2013,Hours Receptionist Disrespect Disrespect
+Patient 179,A,Hand,Compliment,9,Oct,2013,9/10/2013,Hours Direction Visiting Registration Clean Patient Patient Fast Helpful Fast
+Patient 180,B,Foot,Compliment,17,Oct,2013,17/10/2013,Procedure Care Procedure Procedure Care Clean
+Patient 181,A,Sports,Complain,27,Oct,2013,27/10/2013,Direction Visiting Queue Receptionist No
+Patient 182,B,Sports,Complain,2,Oct,2013,2/10/2013,Hours Hours Visiting Visiting Hours Hours Long No Long Dirty
+Patient 183,A,Trauma,Compliment,29,Oct,2013,29/10/2013,Facilities Ward Cleanliness Cleanliness Cleanliness Patient
+Patient 184,B,Trauma,Compliment,17,Oct,2013,17/10/2013,Hours Direction Visiting Registration Visiting Helpful Helpful
+Patient 185,A,Hand,Compliment,3,Oct,2013,3/10/2013,Doctor Operation Concern Concern Operation Clean Clean
+Patient 186,A,Trauma,Compliment,27,Oct,2013,27/10/2013,Booking Reschedule Check-up Booking Helpful Patient Good Short Clean
+Patient 187,B,Trauma,Compliment,30,Oct,2013,30/10/2013,Registration Visiting Hours Visiting Short Fast Patient
+Patient 188,B,Sports,Compliment,27,Oct,2013,27/10/2013,Procedure Clean Short Short
+Patient 189,B,Sports,Compliment,19,Oct,2013,19/10/2013,Bed Brightness Room Facilities Brightness Brightness Good Patient Short
+Patient 190,B,Hand,Compliment,12,Oct,2013,12/10/2013,Appointment Check-up Appointment Clean Helpful Fast Clean Fast Patient
+Patient 191,A,Foot,Compliment,2,Nov,2013,2/11/2013,Hours Visiting Visiting Short Patient Good Clean Good
+Patient 192,B,Trauma,Compliment,8,Nov,2013,8/11/2013,Check-up Booking Fast
+Patient 193,A,Hand,Complain,2,Nov,2013,2/11/2013,Brightness Slow Dirty Disrespect
+Patient 194,B,Sports,Complain,9,Nov,2013,9/11/2013,Room Bad No No Dirty Disrespect Long
+Patient 195,B,Hand,Complain,26,Nov,2013,26/11/2013,Brightness Bad Long
+Patient 196,A,Foot,Complain,10,Nov,2013,10/11/2013,Registration Direction Queue Visiting Long Bad Bad Slow No Disrespect
+Patient 197,A,Hand,Compliment,28,Nov,2013,28/11/2013,Ward Bed Facilities Room Cleanliness Helpful Short Fast Helpful Helpful Fast
+Patient 198,B,Sports,Complain,6,Nov,2013,6/11/2013,Nurse Operation Care Nurse Dirty Bad Disrespect
+Patient 199,A,Hand,Complain,1,Nov,2013,1/11/2013,Concern Procedure Care Operation No Dirty Disrespect No No No
+Patient 200,B,Sports,Compliment,18,Nov,2013,18/11/2013,Queue Visiting Visiting Registration Registration Helpful
+Patient 201,A,Hand,Complain,30,Nov,2013,30/11/2013,Room Room Bed Facilities Brightness Ward No No Long
+Patient 202,A,Sports,Complain,21,Nov,2013,21/11/2013,Doctor Concern Doctor Procedure Bad Slow Bad Long Bad
+Patient 203,A,Sports,Compliment,29,Nov,2013,29/11/2013,Reschedule Reschedule Short
+Patient 204,B,Foot,Compliment,23,Nov,2013,23/11/2013,Booking Reschedule Patient Patient Helpful Patient
+Patient 205,A,Hand,Compliment,1,Nov,2013,1/11/2013,Ward Brightness Brightness Room Brightness Brightness Good Helpful Fast Clean Clean
+Patient 206,B,Trauma,Complain,25,Nov,2013,25/11/2013,Venue Reschedule Appointment Booking Booking Booking Disrespect Disrespect Dirty Disrespect Slow
+Patient 207,A,Hand,Compliment,19,Dec,2013,19/12/2013,Doctor Procedure Concern Clean Helpful Short Short Good Patient
+Patient 208,B,Sports,Complain,18,Dec,2013,18/12/2013,Operation Slow Disrespect Bad No Dirty Long
+Patient 209,A,Trauma,Complain,22,Dec,2013,22/12/2013,Facilities Ward Ward Facilities Ward Dirty Disrespect No No
+Patient 210,A,Sports,Compliment,31,Dec,2013,31/12/2013,Hours Registration Registration Queue Queue Good Good Helpful Clean
+Patient 211,A,Sports,Compliment,26,Dec,2013,26/12/2013,Direction Hours Hours Good
+Patient 212,A,Foot,Compliment,23,Dec,2013,23/12/2013,Bed Brightness Ward Ward Ward Good Good Good Patient
+Patient 213,A,Hand,Compliment,16,Dec,2013,16/12/2013,Room Bed Helpful
+Patient 214,A,Trauma,Complain,30,Dec,2013,30/12/2013,Venue Appointment No Dirty
+Patient 215,B,Sports,Compliment,20,Dec,2013,20/12/2013,Booking Check-up Reschedule Check-up Appointment Appointment Patient Patient
+Patient 216,B,Sports,Compliment,30,Dec,2013,30/12/2013,Queue Patient Fast Helpful Fast Short Patient
+Patient 217,A,Hand,Compliment,3,Dec,2013,3/12/2013,Operation Nurse Care Nurse Doctor Good Short Fast Clean Fast Clean
+Patient 218,B,Trauma,Complain,3,Dec,2013,3/12/2013,Care Care Doctor Procedure Care Concern Long Slow Disrespect Bad Bad Long
+Patient 219,B,Trauma,Complain,25,Dec,2013,25/12/2013,Venue Check-up Check-up Booking Reschedule Appointment Long
+Patient 220,B,Hand,Compliment,23,Dec,2013,23/12/2013,Queue Direction Good Patient Patient
+Patient 221,B,Trauma,Compliment,28,Dec,2013,28/12/2013,Nurse Concern Good Helpful Clean Helpful Helpful Helpful
+Patient 222,B,Hand,Compliment,28,Dec,2013,28/12/2013,Operation Doctor Clean Fast Helpful Clean
+Patient 223,A,Hand,Compliment,15,Dec,2013,15/12/2013,Booking Booking Reschedule Fast Short Short Patient
+Patient 224,B,Sports,Complain,1,Dec,2013,1/12/2013,Registration Registration Disrespect Disrespect Dirty Bad
+Patient 225,B,Trauma,Complain,28,Dec,2013,28/12/2013,Registration Bad
+Patient 226,A,Foot,Compliment,20,Dec,2013,20/12/2013,Visiting Hours Visiting Hours Hours Clean Good
+Patient 227,B,Trauma,Compliment,26,Apr,2013,26/4/2013,Operation Fast Clean Patient
+Patient 228,B,Hand,Compliment,13,Apr,2013,13/4/2013,Venue Venue Fast
+Patient 229,B,Sports,Complain,13,Apr,2013,13/4/2013,Bed Ward Bed Facilities Long Dirty Slow Long Disrespect
+Patient 230,A,Sports,Compliment,31,May,2013,31/5/2013,Cancellation Venue Appointment Clean Short
+Patient 231,B,Sports,Compliment,3,May,2013,3/5/2013,Visiting Visiting Registration Queue Short Clean Clean
+Patient 232,B,Trauma,Complain,31,May,2013,31/5/2013,Check-up Appointment Reschedule Venue Venue Check-up Disrespect Bad Dirty Dirty Bad
+Patient 233,B,Sports,Complain,7,May,2013,7/5/2013,Reschedule Booking Venue Booking Slow Disrespect Bad Dirty Disrespect Dirty
+Patient 234,B,Sports,Complain,11,May,2013,11/5/2013,Registration Direction Direction Registration Visiting Queue No Long No No Slow Long
+Patient 235,B,Trauma,Compliment,20,May,2013,20/5/2013,Room Brightness Brightness Cleanliness Cleanliness Room Clean Fast Patient Patient Helpful Patient
+Patient 236,B,Sports,Compliment,6,May,2013,6/5/2013,Concern Care Nurse Care Procedure Good Short Helpful
+Patient 237,A,Hand,Complain,17,May,2013,17/5/2013,Queue Receptionist Hours Receptionist Hours Queue Slow Bad Long Disrespect
+Patient 238,A,Trauma,Compliment,4,May,2013,4/5/2013,Brightness Cleanliness Cleanliness Brightness Fast Short
+Patient 239,A,Foot,Compliment,6,May,2013,6/5/2013,Direction Visiting Direction Hours Receptionist Helpful Helpful Fast Fast Good
+Patient 240,A,Hand,Complain,22,May,2013,22/5/2013,Direction No Slow Disrespect
+Patient 241,B,Trauma,Complain,11,May,2013,11/5/2013,Operation Slow Disrespect Long Slow Dirty
+Patient 242,A,Hand,Complain,9,May,2013,9/5/2013,Ward Bed Cleanliness Long Slow Dirty Long
+Patient 243,A,Trauma,Complain,4,Jun,2013,4/6/2013,Procedure Care No Disrespect Disrespect No
+Patient 244,A,Foot,Compliment,26,Jun,2013,26/6/2013,Queue Direction Hours Hours Good Short Short Short Patient
+Patient 245,A,Trauma,Compliment,16,Jun,2013,16/6/2013,Operation Nurse Procedure Nurse Doctor Patient Good
+Patient 246,A,Trauma,Compliment,13,Jun,2013,13/6/2013,Brightness Cleanliness Room Bed Bed Clean Helpful Fast Helpful
+Patient 247,A,Trauma,Complain,15,Jun,2013,15/6/2013,Venue Dirty Dirty Long Disrespect
+Patient 248,B,Trauma,Compliment,30,Jun,2013,30/6/2013,Operation Patient Clean Helpful
+Patient 249,B,Foot,Complain,23,Jun,2013,23/6/2013,Queue Registration Hours Queue Direction Bad Slow Long
+Patient 250,B,Trauma,Compliment,24,Jun,2013,24/6/2013,Room Brightness Ward Facilities Fast Fast Clean Fast
+Patient 251,B,Hand,Complain,26,Jun,2013,26/6/2013,Concern Operation Care Concern Nurse Doctor No Dirty Dirty
+Patient 252,B,Trauma,Compliment,11,Jun,2013,11/6/2013,Ward Brightness Fast Good Good Short Fast
+Patient 253,A,Sports,Complain,13,Jun,2013,13/6/2013,Procedure Nurse Concern Operation Bad Disrespect Dirty
+Patient 254,B,Sports,Complain,20,Jun,2013,20/6/2013,Check-up Reschedule Disrespect No Slow Bad Slow Dirty
+Patient 255,B,Trauma,Complain,5,Jun,2013,5/6/2013,Care Procedure Doctor Bad
+Patient 256,B,Sports,Complain,25,Jun,2013,25/6/2013,Nurse Doctor Procedure Doctor Procedure Procedure Slow Bad Slow Dirty No Long
+Patient 257,B,Foot,Compliment,1,Jul,2013,1/7/2013,Concern Nurse Care Nurse Operation Good Patient Good Clean Patient
+Patient 258,A,Sports,Complain,25,Jun,2013,25/6/2013,Direction Hours Bad Dirty No No No
+Patient 259,B,Sports,Compliment,2,Jun,2013,2/6/2013,Queue Hours Direction Receptionist Hours Registration Good Clean Fast Good Helpful Good
+Patient 260,A,Foot,Complain,27,Jun,2013,27/6/2013,Room Ward Room Cleanliness Cleanliness No No Long No
+Patient 261,B,Trauma,Compliment,8,Jul,2013,8/7/2013,Queue Registration Direction Receptionist Registration Visiting Clean Good Patient Short
+Patient 262,B,Sports,Complain,29,Jul,2013,29/7/2013,Concern Nurse Doctor Operation Procedure Disrespect Disrespect Disrespect Long
+Patient 263,B,Hand,Complain,29,Jul,2013,29/7/2013,Brightness No Long Disrespect Long
+Patient 264,A,Sports,Complain,25,Jul,2013,25/7/2013,Bed Cleanliness No No Disrespect Dirty
+Patient 265,A,Sports,Compliment,29,Jul,2013,29/7/2013,Check-up Cancellation Check-up Patient Fast Patient
+Patient 266,B,Foot,Compliment,20,Jul,2013,20/7/2013,Bed Facilities Cleanliness Bed Clean Fast Clean Patient
+Patient 267,B,Hand,Complain,6,Jul,2013,6/7/2013,Appointment Booking Cancellation No Dirty Long No Long No
+Patient 268,B,Sports,Complain,11,Jul,2013,11/7/2013,Venue Check-up Booking Venue Booking Disrespect No No Dirty
+Patient 269,B,Trauma,Complain,25,Jul,2013,25/7/2013,Queue Registration Direction No Slow Slow
+Patient 270,B,Foot,Complain,26,Jul,2013,26/7/2013,Appointment Slow Long Bad Bad
+Patient 271,B,Foot,Compliment,25,Jul,2013,25/7/2013,Check-up Check-up Venue Appointment Fast Helpful Good Clean Fast Patient
+Patient 272,A,Sports,Complain,16,Jul,2013,16/7/2013,Direction Queue Direction Receptionist Direction No Dirty
+Patient 273,A,Foot,Complain,19,Aug,2013,19/8/2013,Check-up Reschedule Booking Disrespect Disrespect Long Dirty
+Patient 274,B,Trauma,Complain,5,Aug,2013,5/8/2013,Visiting Registration Direction Queue Hours Hours Bad Slow Dirty Bad Disrespect
+Patient 275,B,Trauma,Complain,25,Aug,2013,25/8/2013,Receptionist Long Bad Bad Bad No
+Patient 276,A,Trauma,Compliment,25,Aug,2013,25/8/2013,Brightness Room Brightness Cleanliness Cleanliness Brightness Fast Fast Fast Good Short
+Patient 277,B,Hand,Complain,28,Aug,2013,28/8/2013,Visiting Long Long Dirty Disrespect Disrespect Long
+Patient 278,B,Foot,Complain,3,Aug,2013,3/8/2013,Check-up Check-up Appointment Dirty Bad No Dirty
+Patient 279,A,Hand,Compliment,14,Aug,2013,14/8/2013,Operation Nurse Nurse Good Good Clean
+Patient 280,B,Foot,Complain,6,Aug,2013,6/8/2013,Room Cleanliness Cleanliness Long Dirty Dirty
+Patient 281,B,Trauma,Complain,8,Aug,2013,8/8/2013,Venue Venue Reschedule Booking Appointment Booking Dirty Long Disrespect Slow Long Long
+Patient 282,B,Sports,Complain,1,Aug,2013,1/8/2013,Visiting Queue Visiting Receptionist Dirty No Dirty Slow Disrespect Dirty
+Patient 283,A,Trauma,Complain,10,Aug,2013,10/8/2013,Cancellation Long Disrespect Dirty Dirty No
+Patient 284,B,Foot,Compliment,15,Aug,2013,15/8/2013,Operation Care Operation Concern Good Short Clean Short
+Patient 285,B,Hand,Complain,4,Aug,2013,4/8/2013,Venue Venue Booking No
+Patient 286,A,Trauma,Complain,16,Aug,2013,16/8/2013,Receptionist Visiting Registration Visiting Direction No No Slow Slow
+Patient 287,B,Hand,Compliment,24,Aug,2013,24/8/2013,Direction Receptionist Visiting Clean Short
+Patient 288,A,Trauma,Complain,28,Aug,2013,28/8/2013,Booking Reschedule Booking Venue Appointment Check-up Disrespect Disrespect
+Patient 289,A,Trauma,Complain,29,Aug,2013,29/8/2013,Direction Visiting Disrespect Disrespect Disrespect Bad
+Patient 290,A,Hand,Complain,17,Aug,2013,17/8/2013,Procedure Concern Disrespect Slow No Dirty Dirty
+Patient 291,A,Hand,Compliment,14,Aug,2013,14/8/2013,Ward Room Fast Helpful Helpful
+Patient 292,B,Sports,Complain,18,Sep,2013,18/9/2013,Visiting Direction Hours Registration Visiting Disrespect Bad Dirty Slow
+Patient 293,B,Trauma,Compliment,1,Sep,2013,1/9/2013,Operation Helpful
+Patient 294,A,Hand,Compliment,25,Sep,2013,25/9/2013,Venue Cancellation Reschedule Cancellation Cancellation Patient Short Helpful Good
+Patient 295,B,Trauma,Compliment,7,Sep,2013,7/9/2013,Ward Bed Bed Patient
+Patient 296,A,Foot,Complain,3,Sep,2013,3/9/2013,Ward Bed Room Room Cleanliness Cleanliness Dirty Long Disrespect
+Patient 297,A,Trauma,Compliment,17,Sep,2013,17/9/2013,Brightness Fast Clean Patient Clean Clean
+Patient 298,A,Sports,Complain,23,Sep,2013,23/9/2013,Concern Operation Care Bad Slow Dirty Slow
+Patient 299,B,Sports,Complain,28,Sep,2013,28/9/2013,Visiting Queue Visiting Direction No Bad No Disrespect No
+Patient 300,A,Foot,Compliment,17,Sep,2013,17/9/2013,Reschedule Patient Short Good Patient
+Patient 301,B,Trauma,Compliment,20,Sep,2013,20/9/2013,Venue Reschedule Check-up Venue Cancellation Fast Short Good Good Good Patient
+Patient 302,A,Foot,Compliment,22,Sep,2013,22/9/2013,Care Operation Care Doctor Operation Fast Good
+Patient 303,A,Trauma,Complain,20,Sep,2013,20/9/2013,Cleanliness Facilities Brightness Slow Slow
+Patient 304,A,Hand,Complain,2,Sep,2013,2/9/2013,Appointment Long Slow Bad No
+Patient 305,B,Trauma,Compliment,1,Oct,2013,1/10/2013,Receptionist Good Good Patient
+Patient 306,A,Hand,Complain,12,Sep,2013,12/9/2013,Procedure Slow Dirty Slow Disrespect Long Disrespect
+Patient 307,B,Trauma,Complain,7,Sep,2013,7/9/2013,Cancellation Venue Booking Disrespect Disrespect No No Long
+Patient 308,A,Hand,Complain,1,Sep,2013,1/9/2013,Appointment Booking Booking Long
+Patient 309,B,Hand,Complain,21,Sep,2013,21/9/2013,Check-up Check-up Booking Appointment Venue Disrespect Dirty Disrespect Bad Bad
+Patient 310,B,Sports,Complain,14,Sep,2013,14/9/2013,Cleanliness Room Facilities Facilities Brightness Slow Disrespect
+Patient 311,A,Sports,Compliment,23,Sep,2013,23/9/2013,Room Room Facilities Room Helpful Patient Fast Short Fast
+Patient 312,B,Trauma,Complain,26,Sep,2013,26/9/2013,Queue Receptionist Receptionist Visiting Registration Direction Disrespect Dirty No
+Patient 313,B,Trauma,Complain,30,Sep,2013,30/9/2013,Doctor Doctor Doctor Operation Care Care Bad Bad No Bad
+Patient 314,A,Sports,Compliment,10,Sep,2013,10/9/2013,Direction Good Patient Patient
+Patient 315,A,Hand,Complain,5,Sep,2013,5/9/2013,Appointment Venue Check-up Long No Long Bad Long
+Patient 316,B,Sports,Complain,18,Sep,2013,18/9/2013,Bed Cleanliness Bed Room Long Dirty
+Patient 317,A,Trauma,Complain,1,Sep,2013,1/9/2013,Brightness Slow Bad Slow
+Patient 318,A,Trauma,Compliment,10,Sep,2013,10/9/2013,Procedure Nurse Nurse Doctor Nurse Procedure Patient Fast
+Patient 319,B,Hand,Complain,22,Sep,2013,22/9/2013,Nurse Procedure Concern Operation Doctor Procedure Dirty Slow Bad Dirty Slow
+Patient 320,B,Hand,Complain,13,Sep,2013,13/9/2013,Receptionist Hours Dirty Bad Disrespect Disrespect Slow
+Patient 321,B,Foot,Compliment,24,Sep,2013,24/9/2013,Ward Brightness Cleanliness Short
+Patient 322,A,Trauma,Complain,6,Oct,2013,6/10/2013,Reschedule Reschedule Appointment Booking Booking Cancellation Long No
+Patient 323,B,Trauma,Compliment,19,Oct,2013,19/10/2013,Facilities Facilities Brightness Patient Patient Clean Patient
+Patient 324,B,Hand,Complain,2,Oct,2013,2/10/2013,Direction Visiting Queue Long
+Patient 325,B,Sports,Complain,10,Oct,2013,10/10/2013,Cleanliness Room Cleanliness Cleanliness Room Bed Slow Slow Bad
+Patient 326,A,Trauma,Compliment,14,Oct,2013,14/10/2013,Reschedule Reschedule Venue Helpful Good
+Patient 327,B,Trauma,Complain,25,Oct,2013,25/10/2013,Hours Receptionist Disrespect Disrespect
+Patient 328,A,Hand,Compliment,9,Oct,2013,9/10/2013,Hours Direction Visiting Registration Clean Patient Patient Fast Helpful Fast
+Patient 329,B,Foot,Compliment,17,Oct,2013,17/10/2013,Procedure Care Procedure Procedure Care Clean
+Patient 330,A,Sports,Complain,27,Oct,2013,27/10/2013,Direction Visiting Queue Receptionist No
+Patient 331,B,Sports,Complain,2,Oct,2013,2/10/2013,Hours Hours Visiting Visiting Hours Hours Long No Long Dirty
+Patient 332,A,Trauma,Compliment,29,Oct,2013,29/10/2013,Facilities Ward Cleanliness Cleanliness Cleanliness Patient
+Patient 333,B,Trauma,Compliment,17,Oct,2013,17/10/2013,Hours Direction Visiting Registration Visiting Helpful Helpful
+Patient 334,A,Hand,Compliment,3,Oct,2013,3/10/2013,Doctor Operation Concern Concern Operation Clean Clean
+Patient 335,A,Trauma,Compliment,27,Oct,2013,27/10/2013,Booking Reschedule Check-up Booking Helpful Patient Good Short Clean
+Patient 336,B,Trauma,Compliment,30,Oct,2013,30/10/2013,Registration Visiting Hours Visiting Short Fast Patient
+Patient 337,B,Sports,Compliment,27,Oct,2013,27/10/2013,Procedure Clean Short Short
+Patient 338,B,Sports,Compliment,19,Oct,2013,19/10/2013,Bed Brightness Room Facilities Brightness Brightness Good Patient Short
+Patient 339,B,Hand,Compliment,12,Oct,2013,12/10/2013,Appointment Check-up Appointment Clean Helpful Fast Clean Fast Patient
+Patient 340,A,Foot,Compliment,2,Nov,2013,2/11/2013,Hours Visiting Visiting Short Patient Good Clean Good
+Patient 341,B,Trauma,Compliment,8,Nov,2013,8/11/2013,Check-up Booking Fast
+Patient 342,A,Hand,Complain,2,Nov,2013,2/11/2013,Brightness Slow Dirty Disrespect
+Patient 343,B,Sports,Complain,9,Nov,2013,9/11/2013,Room Bad No No Dirty Disrespect Long
+Patient 344,B,Hand,Complain,26,Nov,2013,26/11/2013,Brightness Bad Long
+Patient 345,A,Foot,Complain,10,Nov,2013,10/11/2013,Registration Direction Queue Visiting Long Bad Bad Slow No Disrespect
+Patient 346,A,Hand,Compliment,28,Nov,2013,28/11/2013,Ward Bed Facilities Room Cleanliness Helpful Short Fast Helpful Helpful Fast
+Patient 347,B,Sports,Complain,6,Nov,2013,6/11/2013,Nurse Operation Care Nurse Dirty Bad Disrespect
+Patient 348,A,Hand,Complain,1,Nov,2013,1/11/2013,Concern Procedure Care Operation No Dirty Disrespect No No No
+Patient 349,B,Sports,Compliment,18,Nov,2013,18/11/2013,Queue Visiting Visiting Registration Registration Helpful
+Patient 350,A,Hand,Complain,30,Nov,2013,30/11/2013,Room Room Bed Facilities Brightness Ward No No Long
+Patient 351,A,Sports,Complain,21,Nov,2013,21/11/2013,Doctor Concern Doctor Procedure Bad Slow Bad Long Bad
+Patient 352,A,Sports,Compliment,29,Nov,2013,29/11/2013,Reschedule Reschedule Short
+Patient 353,B,Foot,Compliment,23,Nov,2013,23/11/2013,Booking Reschedule Patient Patient Helpful Patient
+Patient 354,A,Hand,Compliment,1,Nov,2013,1/11/2013,Ward Brightness Brightness Room Brightness Brightness Good Helpful Fast Clean Clean
+Patient 355,B,Trauma,Complain,25,Nov,2013,25/11/2013,Venue Reschedule Appointment Booking Booking Booking Disrespect Disrespect Dirty Disrespect Slow
+Patient 356,A,Hand,Compliment,19,Dec,2013,19/12/2013,Doctor Procedure Concern Clean Helpful Short Short Good Patient
+Patient 357,B,Sports,Complain,18,Dec,2013,18/12/2013,Operation Slow Disrespect Bad No Dirty Long
+Patient 358,A,Trauma,Complain,22,Dec,2013,22/12/2013,Facilities Ward Ward Facilities Ward Dirty Disrespect No No
+Patient 359,A,Sports,Compliment,31,Dec,2013,31/12/2013,Hours Registration Registration Queue Queue Good Good Helpful Clean
+Patient 360,A,Sports,Compliment,26,Dec,2013,26/12/2013,Direction Hours Hours Good
+Patient 361,A,Foot,Compliment,23,Dec,2013,23/12/2013,Bed Brightness Ward Ward Ward Good Good Good Patient
+Patient 362,A,Hand,Compliment,16,Dec,2013,16/12/2013,Room Bed Helpful
+Patient 363,A,Trauma,Complain,30,Dec,2013,30/12/2013,Venue Appointment No Dirty
+Patient 364,B,Sports,Compliment,20,Dec,2013,20/12/2013,Booking Check-up Reschedule Check-up Appointment Appointment Patient Patient
+Patient 365,B,Sports,Compliment,30,Dec,2013,30/12/2013,Queue Patient Fast Helpful Fast Short Patient
+Patient 366,A,Hand,Compliment,3,Dec,2013,3/12/2013,Operation Nurse Care Nurse Doctor Good Short Fast Clean Fast Clean
+Patient 367,B,Trauma,Complain,3,Dec,2013,3/12/2013,Care Care Doctor Procedure Care Concern Long Slow Disrespect Bad Bad Long
+Patient 368,B,Trauma,Complain,25,Dec,2013,25/12/2013,Venue Check-up Check-up Booking Reschedule Appointment Long
+Patient 369,B,Hand,Compliment,23,Dec,2013,23/12/2013,Queue Direction Good Patient Patient
+Patient 370,B,Trauma,Compliment,28,Dec,2013,28/12/2013,Nurse Concern Good Helpful Clean Helpful Helpful Helpful
+Patient 371,B,Hand,Compliment,28,Dec,2013,28/12/2013,Operation Doctor Clean Fast Helpful Clean
+Patient 372,A,Hand,Compliment,15,Dec,2013,15/12/2013,Booking Booking Reschedule Fast Short Short Patient
+Patient 373,B,Sports,Complain,1,Dec,2013,1/12/2013,Registration Registration Disrespect Disrespect Dirty Bad
+Patient 374,B,Trauma,Complain,28,Dec,2013,28/12/2013,Registration Bad
+Patient 375,A,Foot,Compliment,20,Dec,2013,20/12/2013,Visiting Hours Visiting Hours Hours Clean Good
