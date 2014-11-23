@@ -44,16 +44,20 @@ function staffDuty(date, numPatients, doToggle) {
 
     if (toggle && !doToggle) {
       if (!alrHidden) {
-      document.getElementById("duty").classList.toggle("hidden");
+      fnToggle();
       toggle = false;
     }
     } else if (!toggle && doToggle) {
       toggle = true;
     } else if (!toggle && !doToggle && numPatients <= 0) {
       if (!alrHidden) {
-        document.getElementById("duty").classList.toggle("hidden");
+        fnToggle();
       }
       alrHidden = true;
     }
   });
+}
+
+function fnToggle() {
+  document.getElementById("duty").classList.toggle("hidden");
 }

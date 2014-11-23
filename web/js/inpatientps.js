@@ -6,7 +6,7 @@
 
 function inpatientps(date, isReset) {
   var chart = d3.parsets()
-          .dimensions(["Clinic", "Subspecialty", "ReasonAdmitted"])
+          .dimensions(["Clinic", "Subspecialty", "Reason Admitted"])
           .height(400)
           .width(680);
 
@@ -31,15 +31,19 @@ function inpatientps(date, isReset) {
       inpatient = inpatient.filter(function (row) {
         return row['AdmissionDate'] <= dateFormat(date) && row['DischargeDate'] >= dateFormat(date);
       });
-      document.getElementById("inpatientChart").remove();
+      removeChart();
     }
 
     if (isReset) {
-      document.getElementById("inpatientChart").remove();
+      removeChart();
     }
 
     if (inpatient.length > 0) {
       vis.datum(inpatient).call(chart);
     }
   });
+}
+
+function removeChart() {
+  document.getElementById("inpatientChart").remove();
 }

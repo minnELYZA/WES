@@ -1,4 +1,4 @@
-Number,Name,IC,CaseNo,Gender,DateOfBirth,Height,Weight,Smoking,AdmissionDate,Clinic,Subspecialty,ReasonAdmitted,Discharged,DeathCase,LengthOfStay,DischargeDate
+Number,Name,IC,CaseNo,Gender,DateOfBirth,Height,Weight,Smoking,AdmissionDate,Clinic,Subspecialty,Reason Admitted,Discharged,DeathCase,LengthOfStay,DischargeDate
 1,Name_1,S0000001,111,Female,9/7/1933,179,48,No,4/1/2013,A,Hand,Ingrown toenail,Yes,No,11,15/1/2013
 2,Name_2,S0000002,112,Female,18/9/1995,193,59,Yes,25/1/2013,B,Sports,Fractures of the hand/wrist/forearm,Yes,No,22,16/2/2013
 3,Name_3,S0000003,113,Male,18/2/1937,192,99,Unknown,15/1/2013,B,Trauma,Ankle ligament reconstructions,Yes,No,36,20/2/2013
