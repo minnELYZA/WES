@@ -1,3 +1,100 @@
+/*
+----------------------
+ Content Styles
+------------------
+*/
+a.previous-page, a.next-page{
+	display:block;
+	width:21px;height:39px;
+	background:url("../images/sprite.png") no-repeat;
+}
+a.previous-page{
+	float:left;
+	background-position:0 -180px;
+}
+a.previous-page:hover{
+	background-position:0 -260px;
+}
+a.next-page{
+	float:right;
+	background-position:0 -220px;
+}
+a.next-page:hover{
+	background-position:0 -300px;
+}
+a.previous-page.disabled{
+	cursor:default;
+	background-position: 0 -340px;
+}
+a.next-page.disabled{
+	cursor:default;
+	background-position: 0 -380px;
+}
+.bottom-link{
+	height:16px;
+	padding: 10px 0;
+	margin-top: 30px;	
+	font-family:"Trebuchet MS",Arial,sans-serif;
+	text-transform: uppercase;
+	border-top: 1px dashed #CEDBE4;
+	border-bottom: 1px dashed #CEDBE4;
+}
+a.previous-page-bottom, a.next-page-bottom{
+	display: inline-block;
+	color: #86a6bb;
+	font-size: 16px;
+	line-height: 16px;
+	text-decoration: none;
+	background: url("../images/sprite.png") no-repeat;
+}
+a.previous-page-bottom{
+	float: left;
+	padding-left: 18px;
+	background-position: 0 -422px;
+}
+a.next-page-bottom{
+	float: right;
+	padding-right: 18px;
+	background-position: 100% -477px;
+}
+a.previous-page-bottom:hover, a.next-page-bottom:hover{
+	color: #275973;
+}
+a.previous-page-bottom:hover{
+	background-position: 0 -442px;
+}
+a.next-page-bottom:hover{
+	background-position: 100% -497px;
+}
+a.previous-page-bottom.disabled, a.next-page-bottom.disabled{
+	cursor:default;
+	color: #EDEEF1;
+}
+a.previous-page-bottom.disabled{
+	background-position: 0 -462px;
+}
+a.next-page-bottom.disabled{
+	background-position: 100% -517px;
+}
+p.definition, p.topic{
+	padding:10px 5px;
+	color:#414141;
+	margin:10px 0 30px;
+	border-bottom:1px solid #DFDFDF;
+	border-top:1px solid #DFDFDF;
+	font-family:"Myriad Pro",Verdana,sans-serif;
+	font-size:18px;line-height:23px;font-style:italic;
+	letter-spacing:0.02em;
+}
+p.definition code{
+	font-size:16px;
+}
+p.topic a.disabled{
+	color:#afcbda;
+	cursor:default;
+}
+
+
 a, a:visited, a:active {
   color: #444;
 }
